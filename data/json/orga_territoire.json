@@ -1,0 +1,164 @@
+[
+    // --- ORGANISATION TERRITORIALE ---
+    {
+      "id": "ORGTER001",
+      "category": "Organisation Territoriale",
+      "type": "Lesson",
+      "tags": ["Décentralisation", "Loi 1982", "Principes"],
+      "title": "La Décentralisation et la Double Organisation",
+      "key_points": [
+        "Loi de décentralisation (2 mars 1982) : Marque un tournant dans l'organisation territoriale.",
+        "Double chaîne :",
+        "  - Organisation administrative : Représente l'État via le Préfet (Zone de défense, Région, Département, Arrondissement, Commune).",
+        "  - Collectivités territoriales : Représentent les citoyens (Communes, Départements, Régions). Disposent d'une autonomie et de compétences propres.",
+        "La Commune est le niveau où les deux chaînes se rejoignent."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "ORGTER002",
+      "category": "Organisation Territoriale",
+      "type": "Flashcard",
+      "tags": ["Administration", "Préfet", "Rôle"],
+      "front": "Quel est le rôle du Préfet dans l'organisation administrative ?",
+      "back": "Représentant de l'État dans le département (et la région). Dirige les services de l'État, contrôle l'application des lois, veille à l'ordre public, met en œuvre les politiques nationales.",
+      "difficulty": 1
+    },
+     {
+      "id": "ORGTER003",
+      "category": "Organisation Territoriale",
+      "type": "Flashcard",
+      "tags": ["Administration", "Arrondissement", "Sous-Préfet"],
+      "front": "Qu'est-ce qu'un arrondissement administratif et qui le dirige ?",
+      "back": "C'est une subdivision du département. Il est sous l'autorité d'un Sous-Préfet, délégué du Préfet.",
+      "difficulty": 2
+    },
+    {
+      "id": "ORGTER004",
+      "category": "Organisation Territoriale",
+      "type": "Term",
+      "tags": ["Collectivités", "Constitution", "Libre administration"],
+      "term": "Collectivité Territoriale",
+      "definition": "Structure administrative (Commune, Département, Région) distincte de l'État, dotée de la personnalité juridique et d'une certaine autonomie pour gérer les affaires locales (principe de libre administration garanti par la Constitution - Art. 72).",
+      "difficulty": 2
+    },
+    {
+      "id": "ORGTER005",
+      "category": "Organisation Territoriale",
+      "type": "Quiz",
+      "tags": ["Collectivités", "Élection"],
+      "question": "Comment sont élus les membres des conseils des collectivités territoriales (municipal, départemental, régional) ?",
+      "answer": "Au suffrage universel direct.",
+      "options": [
+         {"text": "Nommés par le Préfet", "isCorrect": false},
+         {"text": "Au suffrage universel indirect", "isCorrect": false},
+         {"text": "Au suffrage universel direct", "isCorrect": true},
+         {"text": "Tirés au sort", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "ORGTER006",
+      "category": "Organisation Territoriale",
+      "type": "Lesson",
+      "tags": ["Commune", "Définition", "Rôle"],
+      "title": "La Commune",
+      "key_points": [
+        "Plus petite collectivité territoriale et circonscription administrative de base (~35000 en France).",
+        "Institution de base de la démocratie républicaine.",
+        "Dirigée par le Conseil Municipal (élus pour 6 ans) et le Maire.",
+        "Maire : Exécutif de la commune (prépare/exécute décisions conseil, chef administration, représente commune...) ET représentant de l'État (Officier d'état-civil, OPJ, organise élections, recensement citoyen...)."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "ORGTER007",
+      "category": "Organisation Territoriale",
+      "type": "Flashcard",
+      "tags": ["Commune", "Compétences"],
+      "front": "Citez 3 compétences principales de la Commune.",
+      "back": "Gestion patrimoine communal (église, voirie...), urbanisme (permis construire), budget local (impôts locaux), ordre public (police municipale), écoles maternelles/élémentaires, action sociale (CCAS), développement économique local.",
+      "difficulty": 2
+    },
+     {
+      "id": "ORGTER008",
+      "category": "Organisation Territoriale",
+      "type": "Term",
+      "tags": ["Intercommunalité", "EPCI", "Métropole"],
+      "term": "Intercommunalité (EPCI)",
+      "definition": "Regroupement de communes pour gérer ensemble certaines compétences (ex: transports, déchets, développement économique). Formes : syndicats de communes, communautés de communes, communautés d'agglomération, métropoles (ex: Rennes Métropole). Nom technique : Établissement Public de Coopération Intercommunale (EPCI).",
+      "difficulty": 2
+    },
+    {
+      "id": "ORGTER009",
+      "category": "Organisation Territoriale",
+      "type": "Lesson",
+      "tags": ["Département", "Histoire", "Organisation"],
+      "title": "Le Département",
+      "key_points": [
+        "Créé en 1789 pour remplacer les provinces et unifier l'administration.",
+        "101 départements en France (dont 5 DROM).",
+        "Dirigé par le Conseil Départemental (élus pour 6 ans au suffrage universel direct, par canton).",
+        "Les conseillers départementaux élisent un Président.",
+        "Compétences principales : Action sociale (personnes âgées, handicapés, enfance - RSA, APA), collèges, routes départementales, culture, tourisme..."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "ORGTER010",
+      "category": "Organisation Territoriale",
+      "type": "Flashcard",
+      "tags": ["Département", "Compétences", "Social"],
+      "front": "Quelle est la compétence la plus importante du Département ?",
+      "back": "L'action sanitaire et sociale (aide aux personnes âgées, handicapées, enfance, RSA...).",
+      "difficulty": 2
+    },
+     {
+      "id": "ORGTER011",
+      "category": "Organisation Territoriale",
+      "type": "Flashcard",
+      "tags": ["Département", "Canton", "Élection"],
+      "front": "Qu'est-ce qu'un canton ?",
+      "back": "Circonscription électorale pour l'élection des conseillers départementaux. Regroupe généralement plusieurs communes ou parties de communes.",
+      "difficulty": 2
+    },
+    {
+      "id": "ORGTER012",
+      "category": "Organisation Territoriale",
+      "type": "Lesson",
+      "tags": ["Région", "Histoire", "Organisation", "Compétences"],
+      "title": "La Région",
+      "key_points": [
+        "Créées en 1982 (décentralisation), nombre réduit à 13 en métropole (+ 5 DROM) depuis 2015.",
+        "Dirigée par le Conseil Régional (élus pour 6 ans au suffrage universel direct).",
+        "Les conseillers régionaux élisent un Président.",
+        "Compétences principales : Développement économique (aides entreprises), formation professionnelle/apprentissage, lycées (construction/entretien), transports régionaux (TER), aménagement du territoire, gestion fonds européens.",
+        "Dispose aussi d'un Conseil Économique, Social et Environnemental Régional (CESER) consultatif."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "ORGTER013",
+      "category": "Organisation Territoriale",
+      "type": "Quiz",
+      "tags": ["Région", "Compétences", "Lycées"],
+      "question": "Quelle collectivité territoriale est principalement responsable des lycées ?",
+      "answer": "La Région",
+       "options": [
+         {"text": "La Commune", "isCorrect": false},
+         {"text": "Le Département", "isCorrect": false},
+         {"text": "La Région", "isCorrect": true},
+         {"text": "L'État", "isCorrect": false}
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "ORGTER014",
+      "category": "Organisation Territoriale",
+      "type": "Term",
+      "tags": ["Millefeuille territorial"],
+      "term": "Millefeuille territorial",
+      "definition": "Expression imagée désignant la superposition des différents échelons administratifs et territoriaux en France (Commune, Intercommunalité, Canton, Arrondissement, Département, Région, État), parfois critiquée pour sa complexité.",
+      "difficulty": 2
+    }
+  ]

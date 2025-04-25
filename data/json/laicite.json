@@ -1,0 +1,194 @@
+[
+    {
+      "id": "LAIC001",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["Laïcité", "Fondamental", "République", "Loi 1905"],
+      "title": "Qu'est-ce que la Laïcité en France ?",
+      "key_points": [
+        "Principe fondamental de la République française, inscrit dans la Constitution (Art. 1).",
+        "Basée sur la loi de séparation des Églises et de l'État du 9 décembre 1905.",
+        "Garantit DEUX choses :",
+        "1. La Liberté de Conscience : Le droit de croire ou de ne pas croire, de choisir ou de changer de religion, et de manifester ses convictions dans le respect de l'ordre public et des droits d'autrui.",
+        "2. La Neutralité de l'État : L'État ne reconnaît, ne salarie ni ne subventionne aucun culte. Il est impartial et ne privilégie aucune religion ni conviction.",
+        "Implique la séparation du politique et du religieux : La religion relève de la sphère privée."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "LAIC002",
+      "category": "Valeurs & Principes",
+      "type": "Quiz",
+      "tags": ["Laïcité", "Loi 1905"],
+      "question": "Quelle loi majeure instaure la séparation des Églises et de l'État en France ?",
+      "answer": "La loi de 1905",
+      "options": [
+         {"text": "Les lois Jules Ferry (1882)", "isCorrect": false},
+         {"text": "Le Concordat (1801)", "isCorrect": false},
+         {"text": "La loi de 1905", "isCorrect": true},
+         {"text": "La Constitution de 1958", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "LAIC003",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["Laïcité", "Liberté de conscience", "DDHC"],
+      "front": "Dans quel texte fondamental de 1789 la liberté d'opinion, même religieuse, est-elle déjà affirmée ?",
+      "back": "Dans la Déclaration des Droits de l'Homme et du Citoyen (Article 10).",
+      "notes": "Art. 10 DDHC : 'Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l’ordre public établi par la Loi.'",
+      "difficulty": 2
+    },
+    {
+      "id": "LAIC004",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["Laïcité", "Implications", "Neutralité", "Service public"],
+      "title": "Les Implications de la Laïcité",
+      "key_points": [
+        "Neutralité de l'État et des services publics : Les agents publics ne doivent pas manifester leurs convictions religieuses dans l'exercice de leurs fonctions.",
+        "Neutralité des usagers : Les citoyens doivent respecter la neutralité des services publics mais peuvent exprimer leurs convictions tant qu'elles ne troublent pas l'ordre public et le fonctionnement du service.",
+        "École publique : Laïque, enseignement neutre, pas de prosélytisme. Port de signes religieux ostensibles interdit pour les élèves (loi 2004). Charte de la laïcité (2013).",
+        "Égalité : Tous les citoyens sont égaux devant la loi, quelle que soit leur religion ou conviction.",
+        "Liberté : Garantie de croire ou non, de pratiquer ou non, de changer de religion."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "LAIC005",
+      "category": "Valeurs & Principes",
+      "type": "Quiz",
+      "tags": ["Laïcité", "École", "Loi 2004"],
+      "question": "Que dit la loi de 2004 concernant les signes religieux à l'école publique ?",
+      "answer": "Elle interdit le port par les élèves de signes ou tenues manifestant ostensiblement une appartenance religieuse.",
+      "options": [
+        {"text": "Elle interdit toute discussion sur la religion.", "isCorrect": false},
+        {"text": "Elle oblige les élèves à suivre un cours de religion.", "isCorrect": false},
+        {"text": "Elle interdit le port par les élèves de signes religieux ostensibles.", "isCorrect": true},
+        {"text": "Elle autorise le port de tous les signes religieux.", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "LAIC006",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["Laïcité", "Religion", "Financement"],
+      "front": "L'État français finance-t-il les religions ?",
+      "back": "Non, en vertu de la loi de 1905, l'État (ni les collectivités locales) ne reconnaît, ne salarie ni ne subventionne aucun culte.",
+      "notes": "Exception historique en Alsace-Moselle (régime concordataire).",
+      "difficulty": 1
+    },
+    {
+      "id": "LAIC007",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["Laïcité", "Liberté de conscience"],
+      "front": "La laïcité est-elle contre les religions ?",
+      "back": "Non, la laïcité n'est pas contre les religions. Elle garantit la liberté de croire ou de ne pas croire et assure que l'État reste neutre.",
+      "difficulty": 1
+    },
+    {
+      "id": "LAIC008",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["Religions", "France", "Diversité", "Statistiques"],
+      "title": "Panorama des Religions en France (Indicatif)",
+      "key_points": [
+        "Historiquement : Forte présence catholique.",
+        "Aujourd'hui : Grande diversité.",
+        "- Catholiques : Restent le groupe le plus nombreux (~60% se déclarent catholiques, mais pratique en baisse).",
+        "- Sans religion / Agnostiques : Groupe important (~25-30%).",
+        "- Musulmans : Deuxième religion en nombre de pratiquants (~7-10%, ~6-7 millions).",
+        "- Protestants : Moins de 2%.",
+        "- Juifs : Moins de 1%.",
+        "- Autres : Bouddhistes, Orthodoxes, autres religions d'Asie..."
+      ],
+      "notes": "Ces chiffres sont des estimations (statistiques ethniques/religieuses interdites en France). L'important est de connaître la diversité et le cadre laïc.",
+      "difficulty": 2
+    },
+    {
+      "id": "LAIC009",
+      "category": "Religions & Laïcité",
+      "type": "Lesson",
+      "tags": ["Catholicisme", "Croyances", "Pratiques"],
+      "title": "Repères sur le Catholicisme",
+      "key_points": [
+        "Croyances clés : Un seul Dieu en 3 personnes (Trinité: Père, Fils, St Esprit), Bible (Ancien/Nouveau Testament), Incarnation/Mort/Résurrection de Jésus Christ, loi d'amour (10 commandements).",
+        "Vertus : Foi, Espérance, Charité.",
+        "Fêtes principales : Pâques, Ascension, Pentecôte, Assomption, Toussaint, Noël.",
+        "Sacrements : Baptême, Eucharistie, Confirmation, Mariage, Ordre...",
+        "Hiérarchie : Fidèles, diacres, prêtres, évêques, Pape (Vatican)."
+      ],
+      "notes": "Présence historique très visible (calendrier, jours fériés, patrimoine, noms, expressions...).",
+      "difficulty": 3
+    },
+    {
+      "id": "LAIC010",
+      "category": "Religions & Laïcité",
+      "type": "Flashcard",
+      "tags": ["Jours fériés", "Origine religieuse"],
+      "front": "Citez 3 jours fériés en France qui ont une origine catholique.",
+      "back": "Exemples : Noël (25 déc), Pâques (date variable), Lundi de Pâques, Ascension (jeudi, 40j après Pâques), Pentecôte (dimanche, 50j après Pâques), Lundi de Pentecôte, Assomption (15 août), Toussaint (1er nov).",
+      "notes": "Aujourd'hui ce sont des jours fériés civils pour tous.",
+      "difficulty": 1
+    },
+    {
+      "id": "LAIC011",
+      "category": "Religions & Laïcité",
+      "type": "Lesson",
+      "tags": ["Islam", "Croyances", "Pratiques"],
+      "title": "Repères sur l'Islam",
+      "key_points": [
+        "Signification : 'Soumission' à Dieu (Allah). Date du VIIe siècle.",
+        "Croyances clés : Un seul Dieu (Allah), Coran (révélation à Mahomet par ange Gabriel), Prophètes (dont Mahomet, le dernier), Jugement dernier.",
+        "Cinq Piliers : Profession de foi (Chahada), 5 prières quotidiennes (Salat), Aumône légale (Zakat), Jeûne du Ramadan (Sawm), Pèlerinage à la Mecque (Hajj).",
+        "Loi islamique : Charia (basée sur Coran et Sunna), régit aspects religieux et parfois sociaux (Halal/Haram).",
+        "Courants : Majorité Sunnite (pas de hiérarchie cléricale formelle, imams), minorité Chiite.",
+        "Communauté : Oumma (communauté des croyants)."
+      ],
+      "notes": "Calendrier hégirien (lunaire), fêtes mobiles (Aïd el Fitr, Aïd el Kebir...).",
+      "difficulty": 3
+    },
+    {
+      "id": "LAIC012",
+      "category": "Religions & Laïcité",
+      "type": "Flashcard",
+      "tags": ["Islam", "Piliers"],
+      "front": "Quels sont les cinq piliers de l'Islam ?",
+      "back": "1. Profession de foi (Chahada) 2. Prières quotidiennes (Salat) 3. Aumône (Zakat) 4. Jeûne du Ramadan (Sawm) 5. Pèlerinage à la Mecque (Hajj).",
+      "difficulty": 2
+    },
+      {
+      "id": "LAIC013",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["Laïcité", "Conflits", "Défis", "Loi civile"],
+      "title": "Laïcité et Pratiques Religieuses : Points de vigilance",
+      "key_points": [
+        "Principe : La loi civile de la République s'applique à tous, quelles que soient les convictions religieuses.",
+        "Conflits possibles : Certaines interprétations ou pratiques religieuses peuvent entrer en conflit avec la loi française ou les valeurs républicaines (ex: égalité H/F, refus de certains soins, mariage forcé, polygamie, contestation programmes scolaires, non-respect neutralité...).",
+        "Cadre légal : La liberté religieuse s'exerce dans le respect de l'ordre public et des lois. La loi peut limiter certaines manifestations religieuses si nécessaire (sécurité, santé, droits d'autrui).",
+        "Cas particuliers : Régime concordataire en Alsace-Moselle (statut spécifique pour cultes catholique, protestant, juif). Statuts divers en Outre-Mer.",
+        "Sectes : Surveillance des dérives sectaires qui portent atteinte aux libertés fondamentales."
+      ],
+      "notes": "Important de montrer son adhésion au principe de primauté de la loi civile sur les règles religieuses.",
+      "difficulty": 2
+    },
+    {
+      "id": "LAIC014",
+      "category": "Valeurs & Principes",
+      "type": "Quiz",
+      "tags": ["Laïcité", "Loi civile", "Primauté"],
+      "question": "En France, en cas de conflit entre une règle religieuse et la loi de la République, laquelle prévaut ?",
+      "answer": "La loi de la République",
+      "options": [
+         {"text": "La règle religieuse", "isCorrect": false},
+         {"text": "La loi de la République", "isCorrect": true},
+         {"text": "Cela dépend de la religion", "isCorrect": false},
+         {"text": "Un juge décide au cas par cas", "isCorrect": false}
+      ],
+      "difficulty": 1
+    }
+  ]

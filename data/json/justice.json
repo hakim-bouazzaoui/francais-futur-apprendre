@@ -1,0 +1,447 @@
+[
+    {
+      "id": "JUST001",
+      "category": "Justice",
+      "type": "Lesson",
+      "tags": ["Principes", "Fondamental", "Démocratie"],
+      "title": "Principes Fondamentaux de la Justice Française",
+      "key_points": [
+        "Indépendance et impartialité des juges.",
+        "Égalité devant la justice.",
+        "Droit à un procès équitable (délai raisonnable, publicité des débats, tribunal indépendant/impartial).",
+        "Principe du contradictoire (chaque partie connaît les arguments/preuves de l'autre).",
+        "Droits de la défense (avocat, interprète, information, aide juridictionnelle).",
+        "Présomption d'innocence.",
+        "Non-rétroactivité de la loi pénale (plus sévère).",
+        "Droit à un double degré de juridiction (appel)."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "JUST002",
+      "category": "Justice",
+      "type": "Quiz",
+      "tags": ["Principes", "Présomption d'innocence"],
+      "question": "Selon quel principe une personne accusée est considérée comme innocente tant que sa culpabilité n'a pas été légalement prouvée ?",
+      "answer": "La présomption d'innocence",
+      "options": [
+         {"text": "Le principe du contradictoire", "isCorrect": false},
+         {"text": "La présomption d'innocence", "isCorrect": true},
+         {"text": "L'égalité des armes", "isCorrect": false},
+         {"text": "Le droit à un procès équitable", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "JUST003",
+      "category": "Justice",
+      "type": "Lesson",
+      "tags": ["Organisation judiciaire", "Ordres de juridiction"],
+      "title": "Les Deux Ordres de Juridiction en France",
+      "key_points": [
+        "Pour des raisons historiques, la justice française est divisée en deux ordres :",
+        "1. Ordre Judiciaire : Règle les litiges entre personnes privées (justice civile : famille, contrats, travail...) et sanctionne les infractions à la loi pénale (justice pénale : contraventions, délits, crimes). Cour suprême : Cour de cassation.",
+        "2. Ordre Administratif : Règle les litiges entre les citoyens et l'administration (État, collectivités locales...). Cour suprême : Conseil d'État."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "JUST004",
+      "category": "Justice",
+      "type": "Quiz",
+      "tags": ["Organisation judiciaire", "Cour suprême", "Ordre judiciaire"],
+      "question": "Quelle est la cour suprême de l'ordre judiciaire ?",
+      "answer": "La Cour de cassation",
+      "options": [
+         {"text": "Le Conseil Constitutionnel", "isCorrect": false},
+         {"text": "La Cour d'appel", "isCorrect": false},
+         {"text": "Le Conseil d'État", "isCorrect": false},
+         {"text": "La Cour de cassation", "isCorrect": true}
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "JUST005",
+      "category": "Justice",
+      "type": "Quiz",
+      "tags": ["Organisation judiciaire", "Cour suprême", "Ordre administratif"],
+      "question": "Quelle est la cour suprême de l'ordre administratif ?",
+      "answer": "Le Conseil d'État",
+        "options": [
+         {"text": "Le Conseil Constitutionnel", "isCorrect": false},
+         {"text": "La Cour d'appel", "isCorrect": false},
+         {"text": "Le Conseil d'État", "isCorrect": true},
+         {"text": "La Cour de cassation", "isCorrect": false}
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "JUST006",
+      "category": "Justice",
+      "type": "Lesson",
+      "tags": ["Tribunal judiciaire", "Compétence", "Organisation"],
+      "title": "Le Tribunal Judiciaire (TJ)",
+      "key_points": [
+        "Tribunal de droit commun de l'ordre judiciaire (au moins 1 par département).",
+        "Compétence générale pour les litiges privés (civils).",
+        "Comprend des formations civiles (famille, contrats...) et pénales.",
+        "Formations pénales :",
+        "- Tribunal de police : Juge les contraventions (infractions les moins graves).",
+        "- Tribunal correctionnel : Juge les délits (vols, escroqueries...).",
+        "Magistrats : Juges du siège (disent le droit) et magistrats du Parquet (Procureur, défend l'intérêt public)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "JUST007",
+      "category": "Justice",
+      "type": "Flashcard",
+      "tags": ["Infractions", "Classification"],
+      "front": "Comment classe-t-on les infractions pénales en France, de la moins grave à la plus grave ?",
+      "back": "1. Contraventions (jugées par Tribunal de Police), 2. Délits (jugés par Tribunal Correctionnel), 3. Crimes (jugés par Cour d'Assises).",
+      "difficulty": 1
+    },
+    {
+      "id": "JUST008",
+      "category": "Justice",
+      "type": "Lesson",
+      "tags": ["Procédure pénale", "Enquête", "Instruction", "Procureur", "Juge d'instruction"],
+      "title": "La Procédure Pénale (avant jugement)",
+      "key_points": [
+        "Enquête préliminaire : Menée par police/gendarmerie sous contrôle du Procureur de la République.",
+        "Garde à vue (GAV) : Possible pour les besoins de l'enquête (durée limitée).",
+        "Décision du Procureur : Après enquête, peut classer sans suite, renvoyer directement devant le tribunal (correctionnel/police), ou ouvrir une information judiciaire (instruction).",
+        "Instruction (ou Information Judiciaire) : Menée par un Juge d'instruction (indépendant) pour les affaires complexes ou criminelles. Instruit à charge et à décharge. Peut mettre en examen, délivrer mandats.",
+        "Juge des Libertés et de la Détention (JLD) : Magistrat distinct qui statue sur la détention provisoire.",
+        "Fin de l'Instruction : Ordonnance de non-lieu ou de renvoi devant la juridiction de jugement (Tribunal correctionnel ou Cour d'assises)."
+      ],
+      "difficulty": 3
+    },
+     {
+      "id": "JUST009",
+      "category": "Justice",
+      "type": "Term",
+      "tags": ["Procédure pénale", "Jugement"],
+      "term": "Partie civile",
+      "definition": "La victime d'une infraction qui se constitue 'partie civile' dans un procès pénal pour demander réparation (dommages et intérêts) de son préjudice.",
+      "difficulty": 2
+    },
+    {
+      "id": "JUST010",
+      "category": "Justice",
+      "type": "Flashcard",
+      "tags": ["Tribunal correctionnel", "Peines", "Délits"],
+      "front": "Quelles sont les principales peines encourues pour un délit (jugé par Tribunal Correctionnel) ?",
+      "back": "Emprisonnement (jusqu'à 10 ans, voire plus pour certains délits), amende, travail d'intérêt général (TIG), sursis. Peines complémentaires possibles (suspension permis, injonction soins...).",
+      "difficulty": 2
+    },
+      {
+      "id": "JUST011",
+      "category": "Justice",
+      "type": "Lesson",
+      "tags": ["Cour d'assises", "Crimes", "Jury"],
+      "title": "La Cour d'Assises",
+      "key_points": [
+        "Compétence : Juge les crimes (infractions les plus graves : meurtre, viol, vol à main armée...).",
+        "Organisation : Une par département. Ne siège pas en permanence (par sessions).",
+        "Composition : 3 magistrats professionnels + 6 citoyens tirés au sort (les jurés) en première instance (9 en appel).",
+        "Procédure : Orale et solennelle.",
+        "Peines : Réclusion criminelle (15 ans, 20 ans, 30 ans, perpétuité), amendes, peines complémentaires."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "JUST012",
+      "category": "Justice",
+      "type": "Flashcard",
+      "tags": ["Cour d'appel", "Rôle", "Second degré"],
+      "front": "Quel est le rôle de la Cour d'appel ?",
+      "back": "Elle constitue le second degré de juridiction. Elle réexamine l'affaire en faits et en droit après un premier jugement rendu par un tribunal (judiciaire, commerce...).",
+      "notes": "Il y a 36 cours d'appel en France.",
+      "difficulty": 1
+    },
+      {
+      "id": "JUST013",
+      "category": "Justice",
+      "type": "Flashcard",
+      "tags": ["Cour de cassation", "Rôle", "Droit"],
+      "front": "Quel est le rôle de la Cour de cassation ?",
+      "back": "C'est la plus haute juridiction de l'ordre judiciaire. Elle ne rejuge pas les faits, mais vérifie si les tribunaux et cours d'appel ont correctement appliqué la loi. Elle 'casse' ou 'rejette' les décisions.",
+      "difficulty": 2
+    },
+      {
+      "id": "JUST014",
+      "category": "Justice",
+      "type": "Lesson",
+      "tags": ["Casier judiciaire", "Bulletins", "Condamnations"],
+      "title": "Le Casier Judiciaire",
+      "key_points": [
+        "Registre national (tenu à Nantes) mentionnant les condamnations pénales, certaines décisions civiles/administratives/commerciales.",
+        "Se décline en 3 bulletins :",
+        "- B1 : Relevé intégral. Accessible uniquement aux autorités judiciaires.",
+        "- B2 : Comporte la plupart des condamnations (sauf exceptions). Accessible à certaines administrations et employeurs pour professions spécifiques.",
+        "- B3 : Ne mentionne que les condamnations les plus graves (prison ferme > 2 ans...). Peut être demandé par la personne concernée elle-même."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "JUST015",
+      "category": "Justice",
+      "type": "Term",
+      "tags": ["Prescription", "Délai", "Justice pénale"],
+      "term": "Prescription (en matière pénale)",
+      "definition": "Délai au-delà duquel une infraction ne peut plus être poursuivie en justice. Varie selon la gravité : 1 an (contravention), 6 ans (délit), 20 ans (crime). Délais allongés pour certaines infractions (ex: crimes sexuels sur mineurs). Imprescriptible pour crimes contre l'humanité.",
+      "difficulty": 3
+    },
+    {
+      "id": "JUST016",
+      "category": "Justice",
+      "type": "Flashcard",
+      "tags": ["Amnistie", "Grâce", "Réhabilitation"],
+      "front": "Quelle est la différence entre amnistie, grâce et réhabilitation ?",
+      "back": "Amnistie: Loi votée par Parlement, efface la condamnation. Grâce: Décision présidentielle, dispense d'exécuter la peine (totalement ou partiellement). Réhabilitation: Décision judiciaire (après délai), efface la condamnation du casier (surtout B2/B3).",
+      "difficulty": 3
+    },
+    {
+        "id": "JUST0017",
+        "category": "Pouvoir Judiciaire",
+        "type": "Lesson",
+        "tags": ["Organisation judiciaire", "Ordres juridictionnels"],
+        "title": "Les Deux Ordres de Juridiction en France",
+        "key_points": [
+          "Pour des raisons historiques, il existe deux ordres séparés :",
+          "1. Ordre Judiciaire : Règle les conflits entre particuliers (justice civile : famille, contrats, travail...) et sanctionne les infractions à la loi pénale (justice pénale : contraventions, délits, crimes). Tête : Cour de cassation.",
+          "2. Ordre Administratif : Règle les conflits entre les citoyens/entreprises et l'administration (État, collectivités...). Tête : Conseil d'État."
+        ],
+        "difficulty": 1
+      },
+      {
+        "id": "JUST0018",
+        "category": "Principes du Droit",
+        "type": "Flashcard",
+        "tags": ["Justice", "Principes fondamentaux", "CEDH"],
+        "front": "Citez deux principes fondamentaux de la justice en Europe.",
+        "back": "1. Droit à un procès équitable (tribunal indépendant/impartial, délai raisonnable, publiquement...). 2. Présomption d'innocence (accusé innocent jusqu'à preuve légale culpabilité).",
+        "notes": "Garantis par la Convention Européenne des Droits de l'Homme (Art. 6) et la Constitution.",
+        "difficulty": 1
+      },
+      {
+        "id": "JUST0018",
+        "category": "Principes du Droit",
+        "type": "Lesson",
+        "tags": ["Justice", "Procès équitable", "Droits de la défense"],
+        "title": "Principes Généraux d'une Justice Démocratique",
+        "key_points": [
+          "Procès équitable : Juge indépendant/impartial, égalité des armes (mêmes moyens pour chaque partie).",
+          "Contradictoire : Chaque partie doit connaître et pouvoir discuter les pièces/arguments de l'autre.",
+          "Égalité devant la loi : Les peines sont définies par la loi et sont les mêmes pour tous.",
+          "Droits de la défense : Informer la personne des charges, droit à un avocat (même commis d'office si besoin), droit à un interprète si nécessaire, gratuité (aide juridictionnelle).",
+          "Délai raisonnable : Être jugé dans un délai raisonnable.",
+          "Double degré de juridiction : Droit de faire appel d'une décision (sauf exceptions).",
+          "Présomption d'innocence.",
+          "Non bis in idem : Ne pas être jugé deux fois pour les mêmes faits."
+        ],
+        "difficulty": 2
+      },
+      {
+        "id": "JUST0019",
+        "category": "Principes du Droit",
+        "type": "Flashcard",
+        "tags": ["Justice", "Présomption d'innocence"],
+        "front": "Que signifie la présomption d'innocence ?",
+        "back": "Toute personne accusée d'une infraction est considérée comme innocente tant que sa culpabilité n'a pas été légalement prouvée par une décision de justice définitive.",
+        "difficulty": 1
+      },
+        {
+        "id": "JUST0019",
+        "category": "Principes du Droit",
+        "type": "Flashcard",
+        "tags": ["Justice", "Preuve", "Systèmes"],
+        "front": "Quels sont les deux grands systèmes d'administration de la preuve en justice ?",
+        "back": "Système accusatoire (Anglo-saxon) : Procureur accuse, accusé se défend, juge arbitre. Système inquisitoire (Français/Européen majoritaire) : Rôle plus actif du juge dans la recherche de la vérité.",
+        "notes": "Les distinctions tendent à s'estomper.",
+        "difficulty": 3
+      },
+      {
+        "id": "JUST020",
+        "category": "Principes du Droit",
+        "type": "Term",
+        "tags": ["Justice", "Prescription"],
+        "term": "Prescription (en matière pénale)",
+        "definition": "Délai au-delà duquel une infraction ne peut plus être poursuivie en justice. Varie selon la gravité : 1 an (contravention), 6 ans (délit), 20 ans (crime). Délais allongés pour certaines infractions (ex: crimes sexuels sur mineurs).",
+        "notes": "Les crimes contre l'humanité sont imprescriptibles.",
+        "difficulty": 2
+      },
+        {
+        "id": "JUST021",
+        "category": "Principes du Droit",
+        "type": "Lesson",
+        "tags": ["Justice", "Oubli légal", "Amnistie", "Grâce", "Réhabilitation"],
+        "title": "Les Formes d'Oubli Légal (Amnistie, Grâce, Réhabilitation)",
+        "key_points": [
+          "Amnistie : Mesure parlementaire (loi), efface la condamnation et rétablit l'auteur dans ses droits. Rare et pour des faits spécifiques (ex: faits de collaboration).",
+          "Grâce présidentielle : Droit régalien du Président (Art 17), dispense d'exécuter tout ou partie de la peine. Mesure individuelle.",
+          "Réhabilitation : Mesure judiciaire (ou automatique après délai), efface la condamnation du casier judiciaire si la peine a été exécutée et si pas de nouvelle condamnation pendant un certain délai (ex: 5 ans)."
+        ],
+        "notes": "Ne pas confondre avec la prescription.",
+        "difficulty": 3
+      },
+      {
+        "id": "JUST022",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Organisation judiciaire", "Tribunal judiciaire"],
+        "front": "Quel est le tribunal de droit commun en France pour les litiges privés et la plupart des infractions ?",
+        "back": "Le Tribunal Judiciaire (TJ). Il y en a au moins un par département.",
+        "notes": "Il a des compétences civiles et pénales.",
+        "difficulty": 1
+      },
+      {
+        "id": "JUST023",
+        "category": "Pouvoir Judiciaire",
+        "type": "Quiz",
+        "tags": ["Organisation judiciaire", "Infractions", "Classification"],
+        "question": "Comment sont classées les infractions pénales en France, de la moins grave à la plus grave ?",
+        "answer": "Contraventions, Délits, Crimes",
+         "options": [
+           {"text": "Délits, Crimes, Contraventions", "isCorrect": false},
+           {"text": "Contraventions, Crimes, Délits", "isCorrect": false},
+           {"text": "Contraventions, Délits, Crimes", "isCorrect": true},
+           {"text": "Crimes, Délits, Contraventions", "isCorrect": false}
+        ],
+        "difficulty": 1
+      },
+      {
+        "id": "JUST024",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Organisation judiciaire", "Tribunal correctionnel", "Délits"],
+        "front": "Quel tribunal juge les délits ?",
+        "back": "Le Tribunal Correctionnel (formation pénale du Tribunal Judiciaire).",
+        "notes": "Peines jusqu'à 10 ans de prison.",
+        "difficulty": 2
+      },
+      {
+        "id": "JUST025",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Organisation judiciaire", "Cour d'assises", "Crimes"],
+        "front": "Quelle juridiction juge les crimes ?",
+        "back": "La Cour d'Assises. Composée de magistrats professionnels (3) et d'un jury de citoyens (6). Juge les infractions les plus graves.",
+        "difficulty": 2
+      },
+      {
+        "id": "JUST026",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Organisation judiciaire", "Cour d'appel"],
+        "front": "Quel est le rôle de la Cour d'Appel ?",
+        "back": "Elle constitue le second degré de juridiction. Elle réexamine une affaire jugée en première instance (Tribunal Judiciaire, etc.) si l'une des parties fait appel.",
+        "notes": "Elle rejuge l'affaire en fait et en droit.",
+        "difficulty": 1
+      },
+      {
+        "id": "JUST027",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Organisation judiciaire", "Cour de cassation"],
+        "front": "Quel est le rôle de la Cour de Cassation ?",
+        "back": "C'est la plus haute juridiction de l'ordre judiciaire. Elle ne rejuge pas les faits, mais vérifie si les règles de droit ont été correctement appliquées par les tribunaux et cours d'appel ('juge du droit').",
+        "difficulty": 2
+      },
+        {
+        "id": "JUST028",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Organisation judiciaire", "Conseil d'État"],
+        "front": "Quel est le rôle du Conseil d'État ?",
+        "back": "Double rôle : 1. Conseiller le Gouvernement sur les projets de loi/décrets. 2. Plus haute juridiction de l'ordre administratif (juge les litiges avec l'administration).",
+        "difficulty": 2
+      },
+       {
+        "id": "JUST029",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Casier judiciaire", "Bulletins"],
+        "front": "Quels sont les 3 bulletins du casier judiciaire ?",
+        "back": "B1 (intégral, réservé justice), B2 (certaines condamnations, accès limité administrations/employeurs spécifiques), B3 (condamnations les plus graves, peut être demandé par la personne concernée).",
+        "difficulty": 2
+      },
+      {
+        "id": "JUST030",
+        "category": "Pouvoir Judiciaire",
+        "type": "Lesson",
+        "tags": ["Principes du Droit", "Sources"],
+        "title": "Principes Généraux du Droit Français",
+        "key_points": [
+          "Non-rétroactivité de la loi pénale : On ne peut être condamné pour un acte qui n'était pas interdit au moment où il a été commis.",
+          "Hiérarchie des normes : Les règles inférieures doivent respecter les règles supérieures (Constitution > Traités/UE > Lois > Règlements).",
+          "Accès à la loi : Nul n'est censé ignorer la loi. Publication au Journal Officiel. Rôle des codes et de la jurisprudence.",
+          "Principes du procès équitable (voir JUST003)."
+        ],
+        "difficulty": 2
+      },
+      {
+        "id": "JUST031",
+        "category": "Pouvoir Judiciaire",
+        "type": "Term",
+        "tags": ["Jurisprudence", "Sources du droit"],
+        "term": "Jurisprudence",
+        "definition": "Ensemble des décisions de justice rendues par les tribunaux et cours, qui interprètent la loi et peuvent influencer les décisions futures. La Cour de cassation et le Conseil d'État jouent un rôle clé dans son unification.",
+        "difficulty": 2
+      },
+      {
+        "id": "JUST032",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Tribunal Judiciaire", "Magistrats"],
+        "front": "Quelle est la différence entre un magistrat du Parquet et un magistrat du Siège ?",
+        "back": "Magistrat du Parquet (Procureur, substituts) : Défend l'intérêt public, décide des poursuites. Magistrat du Siège (Juge) : Juge les affaires, dit le droit, est indépendant.",
+        "difficulty": 2
+      },
+      {
+        "id": "JUST033",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Infractions", "Tribunaux"],
+        "front": "Quel tribunal juge les contraventions ?",
+        "back": "Le Tribunal de Police (formation du Tribunal Judiciaire).",
+        "difficulty": 1
+      },
+      {
+        "id": "JUST033",
+        "category": "Pouvoir Judiciaire",
+        "type": "Flashcard",
+        "tags": ["Mineurs", "Tribunaux"],
+        "front": "Quelle juridiction est spécialisée pour juger les mineurs délinquants ?",
+        "back": "Le Tribunal pour enfants, présidé par le Juge des enfants.",
+        "difficulty": 2
+      },
+      {
+        "id": "JUST034",
+        "category": "Pouvoir Judiciaire",
+        "type": "Term",
+        "tags": ["Procédure pénale", "Garde à vue"],
+        "term": "Garde à vue",
+        "definition": "Mesure privative de liberté décidée par un officier de police judiciaire, sous contrôle du Procureur, pour retenir une personne soupçonnée d'une infraction pendant le temps nécessaire à l'enquête. Durée limitée (ex: 24h, renouvelable).",
+        "difficulty": 2
+      },
+        {
+        "id": "JUST035",
+        "category": "Pouvoir Judiciaire",
+        "type": "Term",
+        "tags": ["Procédure pénale", "Instruction"],
+        "term": "Juge d'instruction",
+        "definition": "Magistrat du siège indépendant chargé de mener les enquêtes (instructions) sur les affaires pénales les plus complexes (crimes ou délits graves). Il enquête 'à charge et à décharge'.",
+        "difficulty": 3
+      },
+      {
+        "id": "JUST036",
+        "category": "Pouvoir Judiciaire",
+        "type": "Term",
+        "tags": ["Procédure pénale", "Liberté", "Détention"],
+        "term": "Juge des libertés et de la détention (JLD)",
+        "definition": "Magistrat du siège distinct du juge d'instruction, qui statue sur la détention provisoire et d'autres mesures touchant aux libertés individuelles pendant l'enquête ou l'instruction.",
+        "difficulty": 3
+      }
+  ]

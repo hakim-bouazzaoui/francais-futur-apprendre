@@ -1,0 +1,149 @@
+[
+    {
+      "id": "PROT001",
+      "category": "Protection Sociale",
+      "type": "Term",
+      "tags": ["Définition", "Risques sociaux", "Solidarité"],
+      "term": "Protection Sociale",
+      "definition": "Ensemble des mécanismes de prévoyance collective permettant aux individus de faire face aux conséquences financières des 'risques sociaux' (événements affectant la capacité de gain ou augmentant les charges).",
+      "difficulty": 1
+    },
+    {
+      "id": "PROT002",
+      "category": "Protection Sociale",
+      "type": "Lesson",
+      "tags": ["Mécanismes", "Prestations", "Services"],
+      "title": "Types de Mécanismes de Protection Sociale",
+      "key_points": [
+        "Prestations Sociales : Versées aux ménages.",
+         "- En espèces : Remplacent un revenu (pensions retraite, indemnités journalières maladie/chômage...).",
+         "- En nature : Remboursement de dépenses (soins médicaux...).",
+        "Services Sociaux : Accès à des services gratuits ou à prix réduit (crèches, hôpitaux...)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "PROT003",
+      "category": "Protection Sociale",
+      "type": "Lesson",
+      "tags": ["Logiques", "Assurance", "Assistance", "Universel"],
+      "title": "Les 3 Logiques de la Protection Sociale",
+      "key_points": [
+        "1. Logique d'Assurance Sociale ('Bismarckienne') : Prestations contributives, financées par cotisations (salariales/patronales), réservées aux cotisants et ayants droit. Couvre perte de revenu (chômage, maladie, vieillesse...).",
+        "2. Logique d'Assistance : Prestations non contributives, financées par l'impôt, versées sous condition de ressources. Vise à garantir un minimum social (ex: RSA, AAH).",
+        "3. Logique de Protection Universelle ('Beveridgienne') : Couvre certaines dépenses pour tous, sans condition de cotisation ou ressource (ex: prestations familiales dès 2e enfant, Protection Universelle Maladie - PUMa)."
+      ],
+      "difficulty": 3
+    },
+     {
+      "id": "PROT004",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Risques sociaux", "Liste"],
+      "front": "Citez au moins 5 risques sociaux couverts par la protection sociale en France.",
+      "back": "Maladie, Maternité/Famille, Vieillesse/Survie (Retraite), Accidents du travail/Maladies professionnelles, Invalidité, Chômage (Perte d'emploi), Pauvreté/Exclusion, Logement, Dépendance (Perte d'autonomie).",
+      "difficulty": 1
+    },
+    {
+      "id": "PROT005",
+      "category": "Protection Sociale",
+      "type": "TimelineEvent",
+      "tags": ["Histoire", "Sécurité sociale", "CNR"],
+      "date": "1945",
+      "event": "Création de la Sécurité Sociale",
+      "details": "Par ordonnances (notamment celle du 4 octobre 1945), suite au programme du Conseil National de la Résistance (CNR). Objectif : système unique et universel (inspiré par Beveridge et Bismarck).",
+      "notes": "Figure clé : Pierre Laroque.",
+      "difficulty": 1
+    },
+     {
+      "id": "PROT006",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Organisation", "Sécurité sociale", "Assurance chômage"],
+      "front": "Quelles sont les deux grandes composantes de la protection sociale en France ?",
+      "back": "1. La Sécurité Sociale (couvre maladie, retraite, famille, AT/MP, autonomie - financée par LFSS). 2. L'Assurance Chômage (gérée par partenaires sociaux via France Travail/Unédic).",
+      "difficulty": 2
+    },
+    {
+      "id": "PROT007",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Organisation", "Sécurité sociale", "Régimes"],
+      "front": "Citez les principaux régimes de Sécurité Sociale.",
+      "back": "Régime Général (majorité salariés du privé), Régime Agricole (MSA), Régimes Spéciaux (fonctionnaires, SNCF, RATP... certains en extinction).",
+      "difficulty": 2
+    },
+     {
+      "id": "PROT008",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Organisation", "Sécurité sociale", "Branches"],
+      "front": "Quelles sont les principales branches (risques) gérées par le Régime Général de la Sécurité Sociale ?",
+      "back": "Maladie (Assurance Maladie - CPAM), Accidents du Travail / Maladies Professionnelles (AT/MP), Retraite (Assurance Retraite - CARSAT), Famille (CAF), Autonomie (CNSA), Recouvrement (URSSAF).",
+      "difficulty": 2
+    },
+     {
+      "id": "PROT009",
+      "category": "Protection Sociale",
+      "type": "Statistic",
+      "tags": ["Financement", "Sources"],
+      "question": "Comment est principalement financée la protection sociale en France ?",
+      "answer": "Majoritairement par les cotisations sociales (environ 80%, payées par employeurs et salariés), et le reste par les impôts et taxes affectées (CSG, CRDS...).",
+       "notes": "Le document source Protection Sociale indique ~80% cotisations/contributions et ~20% impôts/taxes affectés.",
+      "difficulty": 2
+    },
+     {
+      "id": "PROT010",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Assurance chômage", "Conditions"],
+      "front": "Citez 3 conditions pour être indemnisé par l'assurance chômage.",
+      "back": "1. Être inscrit à France Travail. 2. Avoir perdu involontairement son emploi. 3. Avoir travaillé une durée minimale (ex: 6 mois sur les 24/36 derniers mois). 4. Résider en France.",
+      "difficulty": 1
+    },
+      {
+      "id": "PROT011",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Prestations", "Logement"],
+      "front": "Citez une aide au logement gérée par la CAF.",
+      "back": "APL (Aide Personnalisée au Logement), ALS (Allocation de Logement Sociale), ALF (Allocation de Logement Familiale).",
+      "difficulty": 2
+    },
+    {
+      "id": "PROT012",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Prestations", "Pauvreté"],
+      "front": "Citez une prestation sociale destinée à lutter contre la pauvreté.",
+      "back": "RSA (Revenu de Solidarité Active), Prime d'activité.",
+      "difficulty": 1
+    },
+    {
+      "id": "PROT013",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Accès aux droits", "Non-recours", "Outils"],
+      "front": "Comment un citoyen peut-il s'informer sur ses droits sociaux ?",
+      "back": "Via le portail mesdroitssociaux.gouv.fr, en contactant les organismes (CPAM, CAF, CARSAT, MSA...), via les points d'accueil France Services.",
+      "difficulty": 1
+    },
+    {
+      "id": "PROT014",
+      "category": "Protection Sociale",
+      "type": "Term",
+      "tags": ["Santé", "Complémentaire", "Solidarité"],
+      "term": "Complémentaire Santé Solidaire (CSS)",
+      "definition": "Aide pour payer les dépenses de santé (part mutuelle). Selon les ressources, elle est gratuite ou coûte moins de 1€/jour. Remplace la CMU-C et l'ACS.",
+      "difficulty": 2
+    },
+     {
+      "id": "PROT015",
+      "category": "Protection Sociale",
+      "type": "Flashcard",
+      "tags": ["Santé", "100% Santé", "Reste à charge"],
+      "front": "Qu'est-ce que l'offre '100% Santé' ?",
+      "back": "Permet un accès à des soins (lunettes, prothèses dentaires, aides auditives) sans reste à charge pour les personnes ayant une complémentaire santé 'responsable'.",
+      "difficulty": 2
+    }
+  ]

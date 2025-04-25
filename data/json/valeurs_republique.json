@@ -1,0 +1,70 @@
+[
+    {
+      "id": "VAL001",
+      "category": "Valeurs & Principes",
+      "type": "Term",
+      "tags": ["État de Droit", "Fondamental", "République"],
+      "term": "État de Droit",
+      "definition": "Concept où la puissance de l'État est limitée par le droit. Il repose sur 3 critères : 1) Hiérarchie des normes (chaque règle respecte une norme supérieure, ex: loi respecte Constitution), 2) Égalité devant la loi (tous, y compris l'État, sont soumis aux mêmes règles), 3) Séparation des pouvoirs (exécutif, législatif, judiciaire).",
+      "notes": "Théorisé par Hans Kelsen. Fondamental pour la République Française.",
+      "difficulty": 2
+    },
+    {
+      "id": "VAL002",
+      "category": "Valeurs & Principes",
+      "type": "Quiz",
+      "tags": ["État de Droit", "Séparation des pouvoirs", "Montesquieu"],
+      "question": "Qui a théorisé le principe de la séparation des pouvoirs (exécutif, législatif, judiciaire) essentiel à l'État de droit ?",
+      "answer": "Montesquieu",
+      "options": [
+        {"text": "Hans Kelsen", "isCorrect": false},
+        {"text": "Jean-Jacques Rousseau", "isCorrect": false},
+        {"text": "Montesquieu", "isCorrect": true},
+        {"text": "Voltaire", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "VAL003",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["État de Droit", "Hiérarchie des normes"],
+      "front": "Quel est le principe de la hiérarchie des normes dans un État de Droit ?",
+      "back": "Chaque norme juridique (loi, décret...) doit être conforme à une norme qui lui est supérieure. La Constitution est au sommet de cette hiérarchie en France.",
+      "difficulty": 2
+    },
+    {
+      "id": "VAL004",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["État de Droit", "Égalité"],
+      "front": "Que signifie l'égalité devant la loi dans un État de Droit ?",
+      "back": "Les personnes (physiques ou morales) et les organisations, y compris l'État lui-même, sont soumises aux mêmes règles juridiques.",
+      "difficulty": 2
+    },
+    {
+      "id": "VAL005",
+      "category": "Valeurs & Principes",
+      "type": "Term",
+      "tags": ["Citoyenneté", "Nationalité"],
+      "term": "Citoyenneté",
+      "definition": "Fait pour un individu ou un groupe d'être reconnu officiellement comme membre d'une Cité (ville) ou, plus généralement, d'un État. Implique des droits (civils, politiques) et des devoirs civiques.",
+      "notes": "Ne pas confondre avec la nationalité (lien juridique avec un État). On peut être de nationalité française et citoyen européen.",
+      "difficulty": 1
+    },
+    {
+      "id": "VAL006",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["Démocratie", "Origines", "Principes", "Lumières"],
+      "title": "La Démocratie : Origines et Principes Fondamentaux",
+      "key_points": [
+        "Origine : Grèce antique (Athènes, Ve s. av. JC), mais citoyenneté limitée (hommes adultes libres).",
+        "Étymologie : 'Dêmos' (peuple) + 'Kratos' (pouvoir).",
+        "Principes athéniens : Égalité en droit (isonomie), participation aux décisions (Ecclesia), accès aux fonctions publiques.",
+        "Démocratie moderne : Système où le peuple est souverain, protégé par des institutions contre la tyrannie, respectant des procédures légales. Valeurs clés : égalité et liberté.",
+        "Influence des Lumières : Critique de l'absolutisme, promotion de la raison, des droits de l'homme, de la séparation des pouvoirs (Montesquieu), du contrat social (Rousseau)."
+      ],
+      "difficulty": 2
+    }
+  ]

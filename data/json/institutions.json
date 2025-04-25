@@ -1,0 +1,313 @@
+[
+    {
+      "id": "INST001",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Pouvoir exécutif", "Rôle", "Composition"],
+      "title": "Le Pouvoir Exécutif",
+      "key_points": [
+        "Fonction : Gouverner le pays en appliquant les lois, décrets, ordonnances.",
+        "Composition (3 niveaux) :",
+        "1. Président de la République : Chef de l'État.",
+        "2. Gouvernement : Premier ministre et ministres.",
+        "3. Administration préfectorale : Représente l'État sur le territoire."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "INST002",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Président", "Rôle", "Élection", "Vème République"],
+      "title": "Le Président de la République",
+      "key_points": [
+        "Rôle (Art. 5 Constitution) : Veille au respect Constitution, assure fonctionnement régulier pouvoirs publics & continuité État, garant indépendance nationale/intégrité territoire/respect traités.",
+        "Élection : Suffrage universel direct, mandat de 5 ans (quinquennat), max 2 mandats consécutifs.",
+        "Résidence : Palais de l'Élysée (Paris).",
+        "Pouvoirs : Dispose de 'pouvoirs propres' (sans contreseing PM) et de 'pouvoirs partagés' (avec contreseing)."
+      ],
+      "image_ref": "elysee_palais.jpg",
+      "difficulty": 1
+    },
+    {
+      "id": "INST003",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Président", "Pouvoirs propres"],
+      "front": "Citez 3 'pouvoirs propres' du Président de la République (sans contreseing du PM)",
+      "back": "Exemples : Nommer le Premier Ministre, recourir au Référendum (Art 11), dissoudre l'Assemblée Nationale (Art 12), nommer 3 membres du Conseil Constitutionnel et son Président, droit de grâce (Art 17), chef des armées, mesures exceptionnelles (Art 16).",
+      "difficulty": 2
+    },
+    {
+      "id": "INST004",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Président", "Pouvoirs partagés"],
+      "front": "Citez 3 'pouvoirs partagés' du Président (avec contreseing du PM)",
+      "back": "Exemples : Nomination des autres membres du Gouvernement, signature des ordonnances et décrets, nomination aux emplois civils/militaires, promulgation des lois, négociation/ratification des traités.",
+      "difficulty": 2
+    },
+     {
+      "id": "INST005",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Gouvernement", "Premier Ministre", "Ministres", "Rôle"],
+      "title": "Le Gouvernement",
+      "key_points": [
+        "Direction : Dirigé par le Premier Ministre (PM), nommé par le Président.",
+        "Composition : PM propose les ministres, nommés par le Président.",
+        "Résidence PM : Hôtel de Matignon (Paris).",
+        "Rôle (Art. 20) : Détermine et conduit la politique de la Nation. Dispose de l'administration et de la force armée.",
+        "Responsabilité : Responsable devant le Parlement (surtout l'Assemblée Nationale - motion de censure).",
+        "Rôle PM (Art. 21) : Dirige l'action du Gouvernement, responsable Défense Nationale, assure exécution des lois.",
+        "Contreseing : Actes du PM contresignés par les ministres concernés."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "INST006",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Gouvernement", "Premier Ministre", "Responsabilité"],
+      "front": "Devant quelle assemblée le Gouvernement est-il principalement responsable ?",
+      "back": "L'Assemblée Nationale (qui peut le renverser par une motion de censure).",
+      "difficulty": 2
+    },
+    {
+      "id": "INST007",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Administration", "Préfet", "Rôle", "Décentralisation"],
+      "title": "L'Administration Préfectorale",
+      "key_points": [
+        "Rôle : Représente l'État sur tout le territoire.",
+        "Le Préfet : Nommé en Conseil des Ministres, veille à l'application des décisions du Gouvernement. Représentant direct du PM et du Ministre de l'Intérieur.",
+        "Missions : Protéger personnes/biens (dirige police/gendarmerie, secours), garantir exercice libertés publiques, assurer respect lois/ordre public.",
+        "Organisation : Une préfecture par département. Préfet de région existe. Peut aussi être Préfet de zone de défense et de sécurité."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "INST008",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Conseil Constitutionnel", "Rôle", "Composition"],
+      "title": "Le Conseil Constitutionnel",
+      "key_points": [
+        "Rôle principal : Veiller au respect de la Constitution ('gardien de la Constitution').",
+        "Contrôle : Vérifie conformité des lois à la Constitution (avant promulgation si saisi, ou après via QPC). Contrôle régularité élections (présidentielle, législatives, sénatoriales) et référendums.",
+        "Composition : 9 membres nommés (3 par Président Rép., 3 par Président Ass. Nat., 3 par Président Sénat) pour 9 ans (non renouvelable, renouvelés par tiers tous les 3 ans). + anciens Présidents Rép. (membres de droit à vie).",
+        "Président du Conseil : Nommé par le Président de la République parmi les membres (Actuellement Laurent Fabius). [Vérifier nom actuel]"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "INST009",
+      "category": "Institutions",
+      "type": "Quiz",
+      "tags": ["Conseil Constitutionnel", "Saisine", "QPC"],
+      "question": "Depuis 2008, qui peut saisir le Conseil Constitutionnel à propos d'une loi déjà en vigueur, via une Question Prioritaire de Constitutionnalité (QPC) ?",
+      "answer": "Tout citoyen (lors d'un procès)",
+      "options": [
+        {"text": "Seulement le Président de la République", "isCorrect": false},
+        {"text": "Seulement les parlementaires", "isCorrect": false},
+        {"text": "Tout citoyen (lors d'un procès)", "isCorrect": true},
+        {"text": "Seulement le Premier Ministre", "isCorrect": false}
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "INST010",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Conseil d'État", "Justice administrative", "Rôle"],
+      "title": "Le Conseil d'État",
+      "key_points": [
+        "Création : 1799 par Napoléon Bonaparte.",
+        "Double rôle :",
+        "1. Conseiller du Gouvernement : Donne son avis sur les projets de loi, décrets, ordonnances avant leur adoption.",
+        "2. Plus haute juridiction administrative : Juge en dernier ressort les litiges entre les citoyens et l'administration (excès de pouvoir...). Juge aussi certains contentieux électoraux (municipales, départementales)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "INST011",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Fonction publique", "Catégories"],
+      "front": "Quelles sont les 3 grandes branches de la Fonction publique en France ?",
+      "back": "1. Fonction publique d'État (ministères, administrations centrales). 2. Fonction publique Territoriale (régions, départements, communes). 3. Fonction publique Hospitalière.",
+      "notes": "Représente environ 1 salarié sur 5 en France (~5,6 millions d'agents).",
+      "difficulty": 2
+    },
+    {
+      "id": "INST012",
+      "category": "Institutions",
+      "type": "Term",
+      "tags": ["Pouvoir législatif", "Parlement"],
+      "term": "Pouvoir Législatif",
+      "definition": "Pouvoir de discuter et de voter les lois. En France, il appartient au Parlement (Assemblée Nationale + Sénat).",
+      "difficulty": 1
+    },
+    {
+      "id": "INST013",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Constitution", "Fondamental"],
+      "front": "Quel texte est la loi fondamentale qui organise les institutions et définit les droits des citoyens en France ?",
+      "back": "La Constitution (actuellement celle de la Vème République, datant de 1958).",
+      "difficulty": 1
+    },
+    {
+      "id": "INST014",
+      "category": "Institutions",
+      "type": "Quiz",
+      "tags": ["Régime politique", "Vème République"],
+      "question": "La Vème République est un régime politique principalement...",
+      "answer": "Semi-présidentiel (ou mixte)",
+      "options": [
+        {"text": "Présidentiel", "isCorrect": false},
+        {"text": "Parlementaire", "isCorrect": false},
+        {"text": "Semi-présidentiel (ou mixte)", "isCorrect": true},
+        {"text": "Directorial", "isCorrect": false}
+      ],
+      "notes": "Combine un Président élu au SU direct avec des pouvoirs importants et un Gouvernement responsable devant le Parlement.",
+      "difficulty": 2
+    },
+    {
+      "id": "INST015",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Parlement", "Assemblée Nationale", "Députés", "Élection"],
+      "title": "L'Assemblée Nationale",
+      "key_points": [
+        "Composition : 577 députés.",
+        "Siège : Palais Bourbon (Paris).",
+        "Élection : Suffrage universel direct, tous les 5 ans (sauf dissolution). Scrutin majoritaire uninominal à deux tours par circonscription.",
+        "Conditions pour être élu : 18 ans, français.",
+        "Rôle : Vote les lois, le budget, contrôle l'action du Gouvernement (peut le renverser via motion de censure).",
+        "Président(e) : Dirige les débats, 4ème personnage de l'État. (Actuellement Yaël Braun-Pivet) [Vérifier nom actuel]."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "INST016",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Parlement", "Sénat", "Sénateurs", "Élection", "Rôle"],
+      "title": "Le Sénat",
+      "key_points": [
+        "Composition : 348 sénateurs.",
+        "Siège : Palais du Luxembourg (Paris).",
+        "Élection : Suffrage universel indirect (collège de grands électeurs : députés, sénateurs, conseillers régionaux/départementaux, délégués municipaux). Mandat de 6 ans, renouvelable par moitié tous les 3 ans.",
+        "Conditions pour être élu : 24 ans.",
+        "Rôle : Vote les lois et le budget (comme les députés), représente les collectivités territoriales. Ne peut pas renverser le Gouvernement. Ne peut pas être dissous par le Président.",
+        "Président : Élu pour 3 ans par les sénateurs. Assume l'intérim présidentiel. 2ème personnage de l'État. (Actuellement Gérard Larcher) [Vérifier nom actuel]."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "INST017",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Loi", "Procédure législative", "Navette"],
+      "title": "L'Élaboration d'une Loi (Procédure Ordinaire)",
+      "key_points": [
+        "1. Initiative : Gouvernement (projet de loi) ou Parlement (proposition de loi). Projet de loi souvent accompagné d'étude d'impact + avis Conseil d'État/CESE.",
+        "2. Dépôt : Texte déposé sur le bureau d'une des deux assemblées.",
+        "3. Examen en Commission : Texte étudié, amendé par une commission parlementaire.",
+        "4. Vote en 1ère lecture : Discussion et vote article par article, puis vote global dans la 1ère assemblée.",
+        "5. Navette parlementaire : Texte transmis à l'autre assemblée, qui l'examine et le vote. Si modifications, retour à la 1ère assemblée. Va-et-vient jusqu'à accord sur texte identique.",
+        "6. Adoption : Si accord, loi adoptée. Si désaccord persiste après 2 lectures, PM peut convoquer Commission Mixte Paritaire (7 députés, 7 sénateurs). Si échec CMP, Ass. Nat. peut avoir le dernier mot.",
+        "7. Promulgation : Président Rép. promulgue la loi (signature) dans les 15 jours. Peut demander nouvelle délibération ou saisir Conseil Constitutionnel.",
+        "8. Publication : Loi publiée au Journal Officiel pour entrer en vigueur."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "INST018",
+      "category": "Institutions",
+      "type": "Term",
+      "tags": ["Loi", "Procédure législative", "Navette"],
+      "term": "Navette parlementaire",
+      "definition": "Le va-et-vient d'un projet ou d'une proposition de loi entre l'Assemblée Nationale et le Sénat jusqu'à ce que les deux chambres adoptent le texte dans les mêmes termes.",
+      "difficulty": 2
+    },
+     {
+      "id": "INST019",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Loi", "Procédure législative", "Gouvernement", "Parlement"],
+      "front": "Comment appelle-t-on un texte de loi proposé par le Gouvernement ?",
+      "back": "Un projet de loi.",
+      "difficulty": 1
+    },
+     {
+      "id": "INST020",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Loi", "Procédure législative", "Gouvernement", "Parlement"],
+      "front": "Comment appelle-t-on un texte de loi proposé par un député ou un sénateur ?",
+      "back": "Une proposition de loi.",
+      "difficulty": 1
+    },
+      {
+      "id": "INST021",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Loi", "Types", "Hiérarchie"],
+      "title": "Les Différents Types de Lois et leur Hiérarchie",
+      "key_points": [
+        "1. Bloc de constitutionnalité (sommet) : Constitution 1958, DDHC 1789, Préambule 1946, Charte environnement 2004, Principes fondamentaux reconnus par les lois de la République (PFRLR).",
+        "2. Traités internationaux et Droit européen : Ont une autorité supérieure aux lois (si ratifiés). Droit UE prime sur lois nationales.",
+        "3. Lois organiques : Précisent/complètent la Constitution.",
+        "4. Lois ordinaires (ou parlementaires) : Votées par le Parlement, principal outil législatif.",
+        "5. Ordonnances (Art. 38) : Textes pris par le Gouvernement dans le domaine de la loi, après habilitation du Parlement.",
+        "6. Règlements (pouvoir exécutif) : Décrets (PM, Président), Arrêtés (ministres, préfets, maires). Détaillent l'application des lois.",
+        "(La jurisprudence et les codes aident à interpréter et accéder au droit)."
+      ],
+      "image_ref": "pyramide_kelsen.png",
+      "difficulty": 3
+    },
+     {
+      "id": "INST022",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Loi", "Finances", "Budget"],
+      "front": "Qu'est-ce qu'une loi de finances ?",
+      "back": "Loi qui fixe le budget de l'État pour l'année (ressources et dépenses). Il y a la loi de finances initiale, les lois rectificatives, la loi de règlement.",
+      "difficulty": 2
+    },
+     {
+      "id": "INST023",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Loi", "Sécurité sociale"],
+      "front": "Quel type de loi permet au Parlement de contrôler la gestion de la Sécurité Sociale ?",
+      "back": "Les lois de financement de la Sécurité Sociale (LFSS).",
+      "difficulty": 3
+    },
+     {
+      "id": "INST024",
+      "category": "Institutions",
+      "type": "Term",
+      "tags": ["Loi", "Journal Officiel", "Publication"],
+      "term": "Journal Officiel (JO)",
+      "definition": "Publication quotidienne éditée par l'État français où sont publiés les lois, décrets, arrêtés et autres textes réglementaires pour qu'ils entrent en vigueur et soient opposables à tous.",
+      "difficulty": 2
+    },
+    {
+      "id": "INST025",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["CESE", "Consultation", "Société civile"],
+      "title": "Le Conseil Économique, Social et Environnemental (CESE)",
+      "key_points": [
+        "Rôle : Organe consultatif représentant la société civile organisée.",
+        "Composition : 175 membres (représentants salariés, entreprises, associations, environnement...).",
+        "Missions : Donne des avis (obligatoires ou facultatifs) sur les projets de loi ou plans économiques, sociaux, environnementaux. Favorise le dialogue entre catégories socio-professionnelles.",
+        "Pouvoir : N'a pas de pouvoir de décision législative."
+      ],
+      "difficulty": 3
+    }
+  ]

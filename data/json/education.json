@@ -1,0 +1,169 @@
+[
+    {
+      "id": "EDU001",
+      "category": "Éducation",
+      "type": "Lesson",
+      "tags": ["Système éducatif", "Principes", "Histoire", "République"],
+      "title": "Principes Fondateurs du Système Éducatif Français",
+      "key_points": [
+        "Lien fort avec l'histoire politique et sociale (Révolution, IIIe République).",
+        "Objectif républicain (depuis 1789) : Forger l'unité des citoyens autour des principes de liberté, égalité, fraternité.",
+        "Moyen de 'souder la Nation' : Rendre individus libres/utiles, unité par instruction commune en français, service public gratuit et laïque.",
+        "Dualité Public/Privé : Origine dans l'histoire (enseignement religieux puis autorisation par Concordat 1801, Loi Debré 1959 pour contrats). Liberté d'enseignement maintenue."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "EDU002",
+      "category": "Éducation",
+      "type": "Flashcard",
+      "tags": ["Ministère", "Gouvernement"],
+      "front": "Quel ministère gère le système éducatif français ?",
+      "back": "Le Ministère de l'Éducation Nationale. [Ministre actuel: Anne Genet - Vérifier le nom actuel en 2025]",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU003",
+      "category": "Éducation",
+      "type": "TimelineEvent",
+      "tags": ["Histoire", "Révolution", "Principes"],
+      "date": "1791",
+      "event": "Constitution de 1791",
+      "details": "Stipule la création d'une instruction publique et gratuite pour tous les hommes.",
+      "difficulty": 2
+    },
+    {
+      "id": "EDU004",
+      "category": "Éducation",
+      "type": "TimelineEvent",
+      "tags": ["Histoire", "Napoléon", "Lycée", "Baccalauréat", "Université"],
+      "date": "1799-1814 (Consulat/Empire)",
+      "event": "Réformes napoléoniennes",
+      "details": "Création des lycées et universités modernes, création du baccalauréat (1808), centralisation de l'éducation, rétablissement dualité public/privé via Concordat (1801).",
+      "difficulty": 2
+    },
+    {
+      "id": "EDU005",
+      "category": "Éducation",
+      "type": "TimelineEvent",
+      "tags": ["Histoire", "IIIe République", "Jules Ferry", "Obligation", "Laïcité", "Gratuité"],
+      "date": "1881-1882",
+      "event": "Lois Jules Ferry",
+      "details": "Rendent l'école primaire obligatoire, gratuite et laïque pour les garçons et les filles (initialement 6-13 ans).",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU006",
+      "category": "Éducation",
+      "type": "TimelineEvent",
+      "tags": ["Histoire", "Constitution", "Droit à l'éducation"],
+      "date": "1946 / 1958",
+      "event": "Constitutions IVe et Ve Républiques",
+      "details": "Affirment dans leur préambule le devoir de l'État d'organiser un enseignement public, gratuit et laïc à tous les degrés, garantissant l'égal accès à l'instruction.",
+      "difficulty": 2
+    },
+    {
+      "id": "EDU007",
+      "category": "Éducation",
+      "type": "TimelineEvent",
+      "tags": ["Histoire", "Obligation scolaire", "Enseignement privé"],
+      "date": "1959",
+      "event": "Réforme majeure",
+      "details": "Scolarité obligatoire portée de 6 à 16 ans. Loi Debré institue l'aide de l'État à l'enseignement privé sous contrat.",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU008",
+      "category": "Éducation",
+      "type": "TimelineEvent",
+      "tags": ["Laïcité", "École", "Loi"],
+      "date": "2004 / 2013",
+      "event": "Lois sur la Laïcité à l'école",
+      "details": "Loi de 2004 interdit le port de signes religieux ostensibles par les élèves dans les écoles/collèges/lycées publics. Charte de la laïcité à l'école publiée en 2013.",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU009",
+      "category": "Éducation",
+      "type": "Flashcard",
+      "tags": ["Scolarité", "Étapes"],
+      "front": "Quelles sont les 3 grandes étapes de la scolarité en France ?",
+      "back": "1. Le Primaire (Maternelle + Élémentaire), 2. Le Secondaire (Collège + Lycée), 3. Le Supérieur.",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU010",
+      "category": "Éducation",
+      "type": "Flashcard",
+      "tags": ["Scolarité", "Primaire", "Maternelle"],
+      "front": "Quel est l'âge et l'objectif principal de l'école Maternelle ?",
+      "back": "De 3 à 5 ans (parfois dès 2 ans). Objectifs : socialisation ('vivre ensemble'), langage oral/écrit, ouverture culturelle, initiation lecture/écriture/calcul.",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU011",
+      "category": "Éducation",
+      "type": "Flashcard",
+      "tags": ["Scolarité", "Primaire", "Élémentaire"],
+      "front": "Quel est l'âge et l'objectif principal de l'école Élémentaire ?",
+      "back": "De 6 à 10/11 ans (CP au CM2). Objectifs : apprentissage lecture, écriture, calcul (fondamentaux), puis approfondissement. Aussi éducation manuelle, sportive.",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU012",
+      "category": "Éducation",
+      "type": "Flashcard",
+      "tags": ["Scolarité", "Secondaire", "Collège", "Brevet"],
+      "front": "Quelles classes couvre le collège et quel diplôme le sanctionne ?",
+      "back": "De la 6ème à la 3ème. Sanctionné par le Diplôme National du Brevet (DNB).",
+      "notes": "Le DNB deviendra obligatoire pour l'entrée au lycée à la rentrée 2027.",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU013",
+      "category": "Éducation",
+      "type": "Flashcard",
+      "tags": ["Scolarité", "Secondaire", "Lycée", "Voies"],
+      "front": "Quelles sont les deux grandes voies possibles au lycée ?",
+      "back": "1. La voie générale et technologique (mène au Bac général ou technologique). 2. La voie professionnelle (mène au CAP, BEP, Bac professionnel).",
+      "difficulty": 1
+    },
+    {
+      "id": "EDU014",
+      "category": "Éducation",
+      "type": "Flashcard",
+      "tags": ["Scolarité", "Supérieur", "Types"],
+      "front": "Quels sont les 3 types principaux d'enseignement supérieur en France ?",
+      "back": "1. Enseignement supérieur court (ex: IUT pour BUT). 2. Enseignement supérieur long (Université : Licence, Master, Doctorat). 3. Grandes Écoles (accès par concours, souvent après classes préparatoires).",
+      "difficulty": 2
+    },
+     {
+      "id": "EDU015",
+      "category": "Éducation",
+      "type": "Term",
+      "tags": ["Scolarité", "Supérieur", "Université", "LMD"],
+      "term": "LMD",
+      "definition": "Système d'organisation des études universitaires en 3 cycles/diplômes : Licence (3 ans), Master (2 ans après Licence), Doctorat (3 ans ou plus après Master).",
+      "difficulty": 2
+    },
+    {
+      "id": "EDU016",
+      "category": "Éducation",
+      "type": "Flashcard",
+      "tags": ["Organisation", "Académie", "Recteur"],
+      "front": "Qu'est-ce qu'une Académie dans le système éducatif ?",
+      "back": "C'est une circonscription administrative dirigée par un Recteur (nommé par le gouvernement), responsable du service public de l'éducation de la maternelle à l'université sur son territoire.",
+      "notes": "Il y a 30 académies en 2024 (27 métropole).",
+      "difficulty": 3
+    },
+      {
+      "id": "EDU017",
+      "category": "Éducation",
+      "type": "Statistic",
+      "tags": ["Enseignement privé", "Statistiques"],
+      "question": "Quelle est la part approximative d'élèves scolarisés dans l'enseignement privé en France ?",
+      "answer": "Environ 17%.",
+      "notes": "Dont 97% sous contrat avec l'État. Majoritairement catholique. Taux plus élevé dans l'Ouest (ex: 40% Bretagne).",
+      "difficulty": 2
+    }
+  ]

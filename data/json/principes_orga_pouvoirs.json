@@ -1,0 +1,706 @@
+[
+    {
+      "id": "POUV001",
+      "category": "Institutions",
+      "type": "Lesson",
+      "tags": ["Démocratie", "Principes", "Séparation des pouvoirs"],
+      "title": "Les 3 Pouvoirs dans une Démocratie",
+      "key_points": [
+        "Dans un État démocratique comme la France, il existe 3 pouvoirs indépendants :",
+        "1. Pouvoir Législatif : Fait et vote les lois (Parlement : Assemblée Nationale + Sénat).",
+        "2. Pouvoir Exécutif : Gouverne en appliquant les lois (Président + Gouvernement).",
+        "3. Pouvoir Judiciaire : Fait respecter les lois et juge (Magistrats indépendants)."
+      ],
+      "notes": "La Constitution de 1958 mentionne une 'Autorité judiciaire' plutôt qu'un 'Pouvoir judiciaire'.",
+      "difficulty": 1
+    },
+    {
+      "id": "POUV002",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Constitution", "Loi fondamentale"],
+      "front": "Qu'est-ce que la Constitution de 1958 ?",
+      "back": "C'est la loi fondamentale qui organise les institutions politiques de la Vème République en France et définit les droits des citoyens.",
+      "difficulty": 1
+    },
+      {
+      "id": "POUV003",
+      "category": "Institutions",
+      "type": "Flashcard",
+      "tags": ["Régime politique", "Vème République"],
+      "front": "Quel type de régime politique la Constitution de 1958 met-elle en place ?",
+      "back": "Un régime mixte, à la fois présidentiel (Président nomme gouvernement, peut dissoudre l'Assemblée) et parlementaire (Gouvernement responsable devant l'Assemblée qui peut le renverser).",
+      "difficulty": 2
+    },
+  
+    // --- POUVOIR EXÉCUTIF ---
+    {
+      "id": "EXEC001",
+      "category": "Pouvoir Exécutif",
+      "type": "Lesson",
+      "tags": ["Gouvernance", "Niveaux"],
+      "title": "Le Pouvoir Exécutif : Rôle et Niveaux",
+      "key_points": [
+        "Rôle : Assurer la gouvernance du pays en rendant exécutoires (promulgation) les lois, décrets et ordonnances.",
+        "Trois niveaux : Président de la République, Gouvernement, Administration préfectorale.",
+        "Les rôles du Président et du Gouvernement sont définis par la Constitution."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "EXEC002",
+      "category": "Pouvoir Exécutif",
+      "type": "Flashcard",
+      "tags": ["Président", "Rôle", "Constitution"],
+      "front": "Quel est le rôle principal du Président de la République selon l'article 5 de la Constitution ?",
+      "back": "Veiller au respect de la Constitution, assurer le fonctionnement régulier des pouvoirs publics et la continuité de l'État. Il est garant de l'indépendance nationale, de l'intégrité du territoire et du respect des traités.",
+      "difficulty": 2
+    },
+    {
+      "id": "EXEC003",
+      "category": "Pouvoir Exécutif",
+      "type": "Quiz",
+      "tags": ["Président", "Élection", "Mandat"],
+      "question": "Comment est élu le Président de la République et pour combien de temps ?",
+      "answer": "Au suffrage universel direct pour 5 ans (quinquennat).",
+       "options": [
+         {"text": "Au suffrage indirect pour 7 ans", "isCorrect": false},
+         {"text": "Au suffrage universel direct pour 5 ans", "isCorrect": true},
+         {"text": "Par le Parlement pour 5 ans", "isCorrect": false},
+         {"text": "Au suffrage universel direct pour 7 ans", "isCorrect": false}
+      ],
+      "notes": "Mandat renouvelable une seule fois consécutivement (Art. 6). Résidence : Palais de l'Élysée.",
+      "difficulty": 1
+    },
+    {
+      "id": "EXEC004",
+      "category": "Pouvoir Exécutif",
+      "type": "Lesson",
+      "tags": ["Président", "Pouvoirs", "Pouvoirs propres"],
+      "title": "Les Pouvoirs Propres du Président",
+      "key_points": [
+        "Pouvoirs exercés sans contreseing du Premier ministre :",
+        "- Nommer le Premier ministre (et mettre fin à ses fonctions sur présentation de sa démission) (Art. 8).",
+        "- Recourir au Référendum (Art. 11).",
+        "- Prononcer la dissolution de l'Assemblée nationale (Art. 12).",
+        "- Communiquer avec le Parlement (messages ou Congrès) (Art. 18).",
+        "- Nommer 3 membres et le Président du Conseil constitutionnel (Art. 54/56).",
+        "- Saisir le Conseil constitutionnel.",
+        "- Prendre des mesures exceptionnelles en cas de menace grave (Art. 16).",
+        "- Droit de grâce (Art. 17)."
+      ],
+      "notes": "Il est aussi Chef des Armées et Grand Maître de la Légion d'honneur. Peut être destitué par la Haute Cour.",
+      "difficulty": 3
+    },
+    {
+      "id": "EXEC005",
+      "category": "Pouvoir Exécutif",
+      "type": "Lesson",
+      "tags": ["Président", "Pouvoirs", "Pouvoirs partagés"],
+      "title": "Les Pouvoirs Partagés du Président",
+      "key_points": [
+        "Pouvoirs nécessitant le contreseing du Premier ministre et/ou des ministres concernés :",
+        "- Nomination des membres du Gouvernement (sur proposition PM) (Art. 8).",
+        "- Présider le Conseil des Ministres (fixe l'ordre du jour) (Art. 9).",
+        "- Signer les ordonnances et décrets délibérés en Conseil des Ministres (Art. 13).",
+        "- Nomination aux emplois civils et militaires (préfets, ambassadeurs, généraux...) (Art. 13).",
+        "- Accréditer les ambassadeurs français et étrangers (Art. 14).",
+        "- Promulguer les lois (avec possibilité de demander nouvelle délibération) (Art. 10).",
+        "- Convoquer le Parlement en session extraordinaire (Art. 29/30).",
+        "- Négocier et ratifier les traités (Art. 52).",
+        "- Initiative de la réforme constitutionnelle (Art. 89)."
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "EXEC006",
+      "category": "Pouvoir Exécutif",
+      "type": "Flashcard",
+      "tags": ["Gouvernement", "Rôle"],
+      "front": "Quel est le rôle principal du Gouvernement ?",
+      "back": "Déterminer et conduire la politique de la Nation. Il dispose de l'administration et de la force armée. (Art. 20)",
+      "difficulty": 1
+    },
+    {
+      "id": "EXEC007",
+      "category": "Pouvoir Exécutif",
+      "type": "Flashcard",
+      "tags": ["Premier ministre", "Rôle"],
+      "front": "Qui dirige l'action du Gouvernement ?",
+      "back": "Le Premier ministre. Il est responsable de la Défense nationale et assure l'exécution des lois. (Art. 21)",
+      "notes": "Résidence : Hôtel de Matignon.",
+      "difficulty": 1
+    },
+    {
+      "id": "EXEC008",
+      "category": "Pouvoir Exécutif",
+      "type": "Quiz",
+      "tags": ["Gouvernement", "Responsabilité", "Parlement"],
+      "question": "Devant qui le Gouvernement est-il responsable ?",
+      "answer": "Devant le Parlement (principalement l'Assemblée nationale).",
+      "options": [
+         {"text": "Devant le Président de la République uniquement", "isCorrect": false},
+         {"text": "Devant le Conseil Constitutionnel", "isCorrect": false},
+         {"text": "Devant le Parlement", "isCorrect": true},
+         {"text": "Devant le Peuple directement", "isCorrect": false}
+      ],
+      "notes": "Art. 20, 49 & 50. L'Assemblée peut le renverser par une motion de censure.",
+      "difficulty": 2
+    },
+    {
+      "id": "EXEC009",
+      "category": "Pouvoir Exécutif",
+      "type": "Lesson",
+      "tags": ["Administration", "Préfet", "Rôle"],
+      "title": "L'Administration Préfectorale",
+      "key_points": [
+        "Représente l'État sur l'ensemble du territoire.",
+        "Le Préfet (nommé en Conseil des ministres) : Veille à l'application des décisions du gouvernement. Représentant direct du Premier ministre et du ministre de l'Intérieur.",
+        "Missions principales : Protéger personnes/biens (dirige police/gendarmerie, secours), garantir libertés publiques, assurer respect lois et ordre public.",
+        "Organisation : 1 préfecture par département (+ préfet de région, préfet de zone de défense et de sécurité).",
+        "Personnel : Fonctionnaires (non élus)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "EXEC010",
+      "category": "Pouvoir Exécutif",
+      "type": "Term",
+      "tags": ["Président", "Pouvoirs propres", "Gouvernement"],
+      "term": "Pouvoirs propres du Président",
+      "definition": "Pouvoirs que le Président de la République exerce seul, sans nécessiter la signature (contreseing) du Premier ministre ou d'un ministre. Ex: nomination du PM, dissolution de l'AN, référendum (art 11), pouvoirs exceptionnels (art 16), saisine du Conseil constitutionnel, droit de grâce.",
+      "difficulty": 2
+    },
+    {
+      "id": "EXEC011",
+      "category": "Pouvoir Exécutif",
+      "type": "Term",
+      "tags": ["Président", "Pouvoirs partagés", "Gouvernement"],
+      "term": "Pouvoirs partagés du Président",
+      "definition": "Pouvoirs que le Président de la République exerce conjointement avec le Premier ministre et/ou les ministres concernés (nécessitent leur contreseing). Ex: nomination des ministres, signature des ordonnances/décrets en Conseil des ministres, promulgation des lois, négociation des traités.",
+      "difficulty": 2
+    },
+    {
+      "id": "EXEC012",
+      "category": "Pouvoir Exécutif",
+      "type": "Figure",
+      "tags": ["Gouvernement", "Premier ministre"],
+      "name": "Premier Ministre",
+      "period": "Actuel",
+      "key_facts": [
+        "Chef du Gouvernement, désigné par le Président.",
+        "Propose les ministres au Président.",
+        "Dirige l'action du Gouvernement, responsable Défense nationale, assure exécution lois.",
+        "Responsable devant le Parlement (surtout l'Assemblée Nationale).",
+        "Réside et travaille à l'Hôtel Matignon."
+      ],
+      "notes": "Nom actuel : Michel Barnier. [Vérifier le nom actuel en avril 2025]",
+      "difficulty": 1
+    },
+     {
+      "id": "EXEC013",
+      "category": "Pouvoir Exécutif",
+      "type": "Figure",
+      "tags": ["Administration", "Préfet"],
+      "name": "Préfet",
+      "period": "Actuel",
+      "key_facts": [
+        "Représentant de l'État dans le département (et la région si préfet de région).",
+        "Nommé en Conseil des ministres.",
+        "Représente le PM et le Ministre de l'Intérieur.",
+        "Veille à l'application des lois, maintient l'ordre public, protège les intérêts nationaux.",
+        "Dirige les services de l'État dans le département."
+      ],
+      "difficulty": 2
+    },
+  
+    // --- POUVOIR LÉGISLATIF ---
+    {
+      "id": "LEGIS001",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Parlement", "Composition"],
+      "front": "De quelles assemblées est composé le Parlement français ?",
+      "back": "De l'Assemblée nationale (députés) et du Sénat (sénateurs). C'est un système bicaméral.",
+      "difficulty": 1
+    },
+    {
+      "id": "LEGIS002",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Parlement", "Rôle"],
+      "front": "Quel est le rôle principal du Parlement ?",
+      "back": "Voter la loi et contrôler l'action du Gouvernement. Il vote aussi le budget de l'État.",
+      "difficulty": 1
+    },
+    {
+      "id": "LEGIS003",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Assemblée Nationale", "Composition", "Élection"],
+      "front": "Comment sont élus les députés de l'Assemblée Nationale et pour combien de temps ?",
+      "back": "577 députés élus au suffrage universel direct pour un mandat de 5 ans (sauf dissolution).",
+      "notes": "Élection majoritaire à deux tours par circonscription. Âge minimum: 18 ans.",
+      "difficulty": 1
+    },
+     {
+      "id": "LEGIS004",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Assemblée Nationale", "Rôle", "Président"],
+      "front": "Qui préside l'Assemblée Nationale et quel est son rôle ?",
+      "back": "Le/La Président(e) de l'Assemblée Nationale (actuellement Yaël Braun-Pivet [Vérifier nom actuel]). Il/Elle dirige les débats. C'est le 4ème personnage de l'État.",
+      "difficulty": 2
+    },
+    {
+      "id": "LEGIS005",
+      "category": "Pouvoir Législatif",
+      "type": "Quiz",
+      "tags": ["Loi", "Initiative"],
+      "question": "Qui peut proposer une loi ?",
+      "answer": "Le Gouvernement (projet de loi) ou les parlementaires (députés/sénateurs : proposition de loi).",
+      "options": [
+        {"text": "Seulement le Gouvernement", "isCorrect": false},
+        {"text": "Seulement les parlementaires", "isCorrect": false},
+        {"text": "Le Gouvernement ou les parlementaires", "isCorrect": true},
+        {"text": "Seulement le Président de la République", "isCorrect": false}
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "LEGIS006",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Sénat", "Composition", "Élection"],
+      "front": "Comment sont élus les sénateurs et pour combien de temps ?",
+      "back": "348 sénateurs élus au suffrage universel indirect (par les 'grands électeurs' : élus locaux) pour 6 ans. Renouvellement par moitié tous les 3 ans.",
+      "notes": "Âge minimum: 24 ans. Siège au Palais du Luxembourg.",
+      "difficulty": 2
+    },
+    {
+      "id": "LEGIS007",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Sénat", "Rôle"],
+      "front": "Le Sénat peut-il renverser le Gouvernement ou être dissous par le Président ?",
+      "back": "Non. Contrairement à l'Assemblée Nationale, le Sénat ne peut pas renverser le Gouvernement (pas de motion de censure) et ne peut pas être dissous par le Président.",
+      "difficulty": 2
+    },
+     {
+      "id": "LEGIS008",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Sénat", "Rôle", "Président"],
+      "front": "Qui préside le Sénat et quel est son rôle particulier ?",
+      "back": "Le Président du Sénat (actuellement Gérard Larcher [Vérifier nom actuel]). Il assure l'intérim de la Présidence de la République en cas de vacance (décès, démission...). C'est le 2ème personnage de l'État.",
+      "difficulty": 2
+    },
+    {
+      "id": "LEGIS009",
+      "category": "Pouvoir Législatif",
+      "type": "Lesson",
+      "tags": ["Loi", "Procédure", "Navette"],
+      "title": "L'Élaboration d'une Loi (Procédure Ordinaire)",
+      "key_points": [
+        "1. Initiative : Projet (Gouvernement) ou Proposition (Parlement).",
+        "2. Dépôt : Texte déposé sur le bureau d'une des assemblées.",
+        "3. Examen en Commission : Désignation rapporteur, amendements.",
+        "4. Vote en 1ère lecture : Discussion et vote dans la 1ère assemblée.",
+        "5. Navette parlementaire : Texte transmis à l'autre assemblée qui l'examine et le vote. Si modifications, retour à la 1ère assemblée. Va-et-vient jusqu'à accord.",
+        "6. Adoption : Loi adoptée si votée en termes identiques par les deux assemblées.",
+        "   - Si désaccord persiste : Commission Mixte Paritaire (7 députés, 7 sénateurs) cherche compromis. Si échec, l'Assemblée Nationale a le dernier mot.",
+        "7. Promulgation : Président promulgue la loi (signature) dans les 15 jours. Possible saisine du Conseil Constitutionnel avant.",
+        "Publication : Au Journal Officiel. La loi entre en vigueur."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "LEGIS010",
+      "category": "Pouvoir Législatif",
+      "type": "Term",
+      "tags": ["Loi", "Procédure"],
+      "term": "Navette parlementaire",
+      "definition": "Le va-et-vient d'un texte de loi entre l'Assemblée Nationale et le Sénat jusqu'à ce qu'ils se mettent d'accord sur une version identique.",
+      "difficulty": 2
+    },
+    {
+      "id": "LEGIS011",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Loi", "Procédure", "Promulgation", "Président"],
+      "front": "Qui promulgue les lois en France ?",
+      "back": "Le Président de la République.",
+      "difficulty": 1
+    },
+      {
+      "id": "LEGIS012",
+      "category": "Pouvoir Législatif",
+      "type": "Lesson",
+      "tags": ["Loi", "Types", "Loi organique", "Loi de finances"],
+      "title": "Les Différents Types de Lois",
+      "key_points": [
+        "Loi Constitutionnelle : Modifie la Constitution (adoptée par référendum ou Congrès). Au sommet hiérarchie.",
+        "Loi Organique : Précise ou complète la Constitution (organisation pouvoirs publics...). Procédure adoption spécifique.",
+        "Loi Ordinaire (ou Parlementaire) : Loi votée par le Parlement dans ses domaines de compétence.",
+        "Loi de Finances (budgétaire) : Fixe budget État (recettes/dépenses). Procédure et délais stricts (LOLF).",
+        "- Loi de Finances Initiale (LFI) : Budget annuel voté avant début année.",
+        "- Loi de Finances Rectificative (LFR / Collectif budgétaire) : Modifie LFI en cours d'année.",
+        "- Loi de Programmation des Finances Publiques (LPFP) : Planifie budget sur plusieurs années.",
+        "- Loi de Règlement : Arrête comptes exercice précédent.",
+        "Loi autorisant ratification Traités : Nécessaire pour certains traités internationaux (paix, commerce, finances État... Art. 53)."
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "LEGIS013",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Hiérarchie des normes", "Constitution"],
+      "front": "Quelle est la norme juridique suprême en France ?",
+      "back": "La Constitution. Toutes les autres normes (traités, lois, règlements) doivent lui être conformes.",
+      "notes": "Le bloc de constitutionnalité inclut la Constitution 1958, son préambule (DDHC 1789, Préambule 1946, Charte environnement 2004).",
+      "difficulty": 2
+    },
+     {
+      "id": "LEGIS014",
+      "category": "Pouvoir Législatif",
+      "type": "Quiz",
+      "tags": ["Hiérarchie des normes", "Traités", "Lois UE"],
+      "question": "Les traités internationaux et le droit de l'Union Européenne sont-ils supérieurs aux lois françaises ?",
+      "answer": "Oui, une fois ratifiés, ils ont une autorité supérieure à celle des lois ordinaires françaises (sous réserve de réciprocité pour les traités et de respect de la Constitution).",
+       "options": [
+         {"text": "Oui, toujours", "isCorrect": false},
+         {"text": "Non, jamais", "isCorrect": false},
+         {"text": "Oui, sous certaines conditions (ratification, respect Constitution)", "isCorrect": true},
+         {"text": "Seulement le droit de l'UE, pas les autres traités", "isCorrect": false}
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "LEGIS015",
+      "category": "Pouvoir Législatif",
+      "type": "Term",
+      "tags": ["Loi", "Publication", "Journal Officiel"],
+      "term": "Journal Officiel (JO)",
+      "definition": "Publication quotidienne officielle de la République Française où sont publiés les lois, décrets, arrêtés pour qu'ils entrent en vigueur et soient connus de tous.",
+      "difficulty": 1
+    },
+    {
+      "id": "LEGIS016",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Parlement", "Vote", "Motion de censure", "Dissolution"],
+      "front": "Quelle assemblée peut renverser le Gouvernement et laquelle peut être dissoute par le Président ?",
+      "back": "L'Assemblée Nationale peut renverser le Gouvernement (motion de censure). L'Assemblée Nationale peut être dissoute par le Président. Le Sénat ne peut ni l'un ni l'autre.",
+      "difficulty": 2
+    },
+     {
+      "id": "LEGIS017",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Loi", "Élaboration", "Initiative"],
+      "front": "Quelle est la différence entre un 'projet de loi' et une 'proposition de loi' ?",
+      "back": "Un 'projet de loi' émane du Gouvernement. Une 'proposition de loi' émane d'un membre du Parlement (député ou sénateur).",
+      "difficulty": 1
+    },
+      {
+      "id": "LEGIS018",
+      "category": "Pouvoir Législatif",
+      "type": "Term",
+      "tags": ["Loi", "Élaboration", "CMP"],
+      "term": "Commission Mixte Paritaire (CMP)",
+      "definition": "Commission composée de 7 députés et 7 sénateurs, réunie en cas de désaccord persistant entre les deux assemblées sur un texte de loi. Elle essaie d'élaborer un texte de compromis.",
+      "difficulty": 3
+    },
+    {
+      "id": "LEGIS019",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Loi", "Élaboration", "Assemblée Nationale", "Dernier mot"],
+      "front": "En cas de désaccord persistant entre l'Assemblée Nationale et le Sénat sur une loi, qui a le dernier mot ?",
+      "back": "L'Assemblée Nationale (sauf pour les lois constitutionnelles et certaines lois organiques relatives au Sénat).",
+      "difficulty": 2
+    },
+    {
+      "id": "LEGIS020",
+      "category": "Pouvoir Législatif",
+      "type": "Term",
+      "tags": ["Loi", "Types", "Loi Organique"],
+      "term": "Loi Organique",
+      "definition": "Type de loi prévu par la Constitution pour préciser ou compléter ses dispositions concernant l'organisation et le fonctionnement des pouvoirs publics. Procédure d'adoption plus stricte qu'une loi ordinaire.",
+      "difficulty": 3
+    },
+      {
+      "id": "LEGIS021",
+      "category": "Pouvoir Législatif",
+      "type": "Term",
+      "tags": ["Loi", "Types", "Loi de Finances"],
+      "term": "Loi de Finances",
+      "definition": "Loi qui détermine, pour une année, la nature, le montant et l'affectation des ressources et des charges de l'État (le budget).",
+      "notes": "Plusieurs types : Initiale, Rectificative, Règlement, Programmation.",
+      "difficulty": 2
+    },
+      {
+      "id": "LEGIS022",
+      "category": "Pouvoir Législatif",
+      "type": "Flashcard",
+      "tags": ["Loi", "Budget", "Dépenses"],
+      "front": "Quelles sont les principales sources de recettes et les grands postes de dépenses du budget de l'État ?",
+      "back": "Recettes : Principalement impôts et taxes (TVA, impôt sur le revenu, impôt sur les sociétés...). Dépenses : Éducation, Défense, remboursement de la dette, Solidarité, etc.",
+      "difficulty": 2
+    },
+    {
+      "id": "LEGIS023",
+      "category": "Pouvoir Législatif",
+      "type": "Term",
+      "tags": ["Budget", "Déficit"],
+      "term": "Déficit public",
+      "definition": "Situation où les dépenses de l'ensemble des administrations publiques (État, Sécurité sociale, collectivités locales) sont supérieures à leurs recettes sur une année. À ne pas confondre avec le déficit budgétaire (État seul).",
+      "notes": "La règle européenne vise à le maintenir sous 3% du PIB.",
+      "difficulty": 2
+    },
+  
+    // --- POUVOIR JUDICIAIRE & PRINCIPES DU DROIT ---
+    {
+      "id": "JUST0017",
+      "category": "Pouvoir Judiciaire",
+      "type": "Lesson",
+      "tags": ["Organisation judiciaire", "Ordres juridictionnels"],
+      "title": "Les Deux Ordres de Juridiction en France",
+      "key_points": [
+        "Pour des raisons historiques, il existe deux ordres séparés :",
+        "1. Ordre Judiciaire : Règle les conflits entre particuliers (justice civile : famille, contrats, travail...) et sanctionne les infractions à la loi pénale (justice pénale : contraventions, délits, crimes). Tête : Cour de cassation.",
+        "2. Ordre Administratif : Règle les conflits entre les citoyens/entreprises et l'administration (État, collectivités...). Tête : Conseil d'État."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "JUST0018",
+      "category": "Principes du Droit",
+      "type": "Flashcard",
+      "tags": ["Justice", "Principes fondamentaux", "CEDH"],
+      "front": "Citez deux principes fondamentaux de la justice en Europe.",
+      "back": "1. Droit à un procès équitable (tribunal indépendant/impartial, délai raisonnable, publiquement...). 2. Présomption d'innocence (accusé innocent jusqu'à preuve légale culpabilité).",
+      "notes": "Garantis par la Convention Européenne des Droits de l'Homme (Art. 6) et la Constitution.",
+      "difficulty": 1
+    },
+    {
+      "id": "JUST0018",
+      "category": "Principes du Droit",
+      "type": "Lesson",
+      "tags": ["Justice", "Procès équitable", "Droits de la défense"],
+      "title": "Principes Généraux d'une Justice Démocratique",
+      "key_points": [
+        "Procès équitable : Juge indépendant/impartial, égalité des armes (mêmes moyens pour chaque partie).",
+        "Contradictoire : Chaque partie doit connaître et pouvoir discuter les pièces/arguments de l'autre.",
+        "Égalité devant la loi : Les peines sont définies par la loi et sont les mêmes pour tous.",
+        "Droits de la défense : Informer la personne des charges, droit à un avocat (même commis d'office si besoin), droit à un interprète si nécessaire, gratuité (aide juridictionnelle).",
+        "Délai raisonnable : Être jugé dans un délai raisonnable.",
+        "Double degré de juridiction : Droit de faire appel d'une décision (sauf exceptions).",
+        "Présomption d'innocence.",
+        "Non bis in idem : Ne pas être jugé deux fois pour les mêmes faits."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "JUST0019",
+      "category": "Principes du Droit",
+      "type": "Flashcard",
+      "tags": ["Justice", "Présomption d'innocence"],
+      "front": "Que signifie la présomption d'innocence ?",
+      "back": "Toute personne accusée d'une infraction est considérée comme innocente tant que sa culpabilité n'a pas été légalement prouvée par une décision de justice définitive.",
+      "difficulty": 1
+    },
+      {
+      "id": "JUST0019",
+      "category": "Principes du Droit",
+      "type": "Flashcard",
+      "tags": ["Justice", "Preuve", "Systèmes"],
+      "front": "Quels sont les deux grands systèmes d'administration de la preuve en justice ?",
+      "back": "Système accusatoire (Anglo-saxon) : Procureur accuse, accusé se défend, juge arbitre. Système inquisitoire (Français/Européen majoritaire) : Rôle plus actif du juge dans la recherche de la vérité.",
+      "notes": "Les distinctions tendent à s'estomper.",
+      "difficulty": 3
+    },
+    {
+      "id": "JUST020",
+      "category": "Principes du Droit",
+      "type": "Term",
+      "tags": ["Justice", "Prescription"],
+      "term": "Prescription (en matière pénale)",
+      "definition": "Délai au-delà duquel une infraction ne peut plus être poursuivie en justice. Varie selon la gravité : 1 an (contravention), 6 ans (délit), 20 ans (crime). Délais allongés pour certaines infractions (ex: crimes sexuels sur mineurs).",
+      "notes": "Les crimes contre l'humanité sont imprescriptibles.",
+      "difficulty": 2
+    },
+      {
+      "id": "JUST021",
+      "category": "Principes du Droit",
+      "type": "Lesson",
+      "tags": ["Justice", "Oubli légal", "Amnistie", "Grâce", "Réhabilitation"],
+      "title": "Les Formes d'Oubli Légal (Amnistie, Grâce, Réhabilitation)",
+      "key_points": [
+        "Amnistie : Mesure parlementaire (loi), efface la condamnation et rétablit l'auteur dans ses droits. Rare et pour des faits spécifiques (ex: faits de collaboration).",
+        "Grâce présidentielle : Droit régalien du Président (Art 17), dispense d'exécuter tout ou partie de la peine. Mesure individuelle.",
+        "Réhabilitation : Mesure judiciaire (ou automatique après délai), efface la condamnation du casier judiciaire si la peine a été exécutée et si pas de nouvelle condamnation pendant un certain délai (ex: 5 ans)."
+      ],
+      "notes": "Ne pas confondre avec la prescription.",
+      "difficulty": 3
+    },
+    {
+      "id": "JUST022",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Organisation judiciaire", "Tribunal judiciaire"],
+      "front": "Quel est le tribunal de droit commun en France pour les litiges privés et la plupart des infractions ?",
+      "back": "Le Tribunal Judiciaire (TJ). Il y en a au moins un par département.",
+      "notes": "Il a des compétences civiles et pénales.",
+      "difficulty": 1
+    },
+    {
+      "id": "JUST023",
+      "category": "Pouvoir Judiciaire",
+      "type": "Quiz",
+      "tags": ["Organisation judiciaire", "Infractions", "Classification"],
+      "question": "Comment sont classées les infractions pénales en France, de la moins grave à la plus grave ?",
+      "answer": "Contraventions, Délits, Crimes",
+       "options": [
+         {"text": "Délits, Crimes, Contraventions", "isCorrect": false},
+         {"text": "Contraventions, Crimes, Délits", "isCorrect": false},
+         {"text": "Contraventions, Délits, Crimes", "isCorrect": true},
+         {"text": "Crimes, Délits, Contraventions", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "JUST024",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Organisation judiciaire", "Tribunal correctionnel", "Délits"],
+      "front": "Quel tribunal juge les délits ?",
+      "back": "Le Tribunal Correctionnel (formation pénale du Tribunal Judiciaire).",
+      "notes": "Peines jusqu'à 10 ans de prison.",
+      "difficulty": 2
+    },
+    {
+      "id": "JUST025",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Organisation judiciaire", "Cour d'assises", "Crimes"],
+      "front": "Quelle juridiction juge les crimes ?",
+      "back": "La Cour d'Assises. Composée de magistrats professionnels (3) et d'un jury de citoyens (6). Juge les infractions les plus graves.",
+      "difficulty": 2
+    },
+    {
+      "id": "JUST026",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Organisation judiciaire", "Cour d'appel"],
+      "front": "Quel est le rôle de la Cour d'Appel ?",
+      "back": "Elle constitue le second degré de juridiction. Elle réexamine une affaire jugée en première instance (Tribunal Judiciaire, etc.) si l'une des parties fait appel.",
+      "notes": "Elle rejuge l'affaire en fait et en droit.",
+      "difficulty": 1
+    },
+    {
+      "id": "JUST027",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Organisation judiciaire", "Cour de cassation"],
+      "front": "Quel est le rôle de la Cour de Cassation ?",
+      "back": "C'est la plus haute juridiction de l'ordre judiciaire. Elle ne rejuge pas les faits, mais vérifie si les règles de droit ont été correctement appliquées par les tribunaux et cours d'appel ('juge du droit').",
+      "difficulty": 2
+    },
+      {
+      "id": "JUST028",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Organisation judiciaire", "Conseil d'État"],
+      "front": "Quel est le rôle du Conseil d'État ?",
+      "back": "Double rôle : 1. Conseiller le Gouvernement sur les projets de loi/décrets. 2. Plus haute juridiction de l'ordre administratif (juge les litiges avec l'administration).",
+      "difficulty": 2
+    },
+     {
+      "id": "JUST029",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Casier judiciaire", "Bulletins"],
+      "front": "Quels sont les 3 bulletins du casier judiciaire ?",
+      "back": "B1 (intégral, réservé justice), B2 (certaines condamnations, accès limité administrations/employeurs spécifiques), B3 (condamnations les plus graves, peut être demandé par la personne concernée).",
+      "difficulty": 2
+    },
+    {
+      "id": "JUST030",
+      "category": "Pouvoir Judiciaire",
+      "type": "Lesson",
+      "tags": ["Principes du Droit", "Sources"],
+      "title": "Principes Généraux du Droit Français",
+      "key_points": [
+        "Non-rétroactivité de la loi pénale : On ne peut être condamné pour un acte qui n'était pas interdit au moment où il a été commis.",
+        "Hiérarchie des normes : Les règles inférieures doivent respecter les règles supérieures (Constitution > Traités/UE > Lois > Règlements).",
+        "Accès à la loi : Nul n'est censé ignorer la loi. Publication au Journal Officiel. Rôle des codes et de la jurisprudence.",
+        "Principes du procès équitable (voir JUST003)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "JUST031",
+      "category": "Pouvoir Judiciaire",
+      "type": "Term",
+      "tags": ["Jurisprudence", "Sources du droit"],
+      "term": "Jurisprudence",
+      "definition": "Ensemble des décisions de justice rendues par les tribunaux et cours, qui interprètent la loi et peuvent influencer les décisions futures. La Cour de cassation et le Conseil d'État jouent un rôle clé dans son unification.",
+      "difficulty": 2
+    },
+    {
+      "id": "JUST032",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Tribunal Judiciaire", "Magistrats"],
+      "front": "Quelle est la différence entre un magistrat du Parquet et un magistrat du Siège ?",
+      "back": "Magistrat du Parquet (Procureur, substituts) : Défend l'intérêt public, décide des poursuites. Magistrat du Siège (Juge) : Juge les affaires, dit le droit, est indépendant.",
+      "difficulty": 2
+    },
+    {
+      "id": "JUST033",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Infractions", "Tribunaux"],
+      "front": "Quel tribunal juge les contraventions ?",
+      "back": "Le Tribunal de Police (formation du Tribunal Judiciaire).",
+      "difficulty": 1
+    },
+    {
+      "id": "JUST033",
+      "category": "Pouvoir Judiciaire",
+      "type": "Flashcard",
+      "tags": ["Mineurs", "Tribunaux"],
+      "front": "Quelle juridiction est spécialisée pour juger les mineurs délinquants ?",
+      "back": "Le Tribunal pour enfants, présidé par le Juge des enfants.",
+      "difficulty": 2
+    },
+    {
+      "id": "JUST034",
+      "category": "Pouvoir Judiciaire",
+      "type": "Term",
+      "tags": ["Procédure pénale", "Garde à vue"],
+      "term": "Garde à vue",
+      "definition": "Mesure privative de liberté décidée par un officier de police judiciaire, sous contrôle du Procureur, pour retenir une personne soupçonnée d'une infraction pendant le temps nécessaire à l'enquête. Durée limitée (ex: 24h, renouvelable).",
+      "difficulty": 2
+    },
+      {
+      "id": "JUST035",
+      "category": "Pouvoir Judiciaire",
+      "type": "Term",
+      "tags": ["Procédure pénale", "Instruction"],
+      "term": "Juge d'instruction",
+      "definition": "Magistrat du siège indépendant chargé de mener les enquêtes (instructions) sur les affaires pénales les plus complexes (crimes ou délits graves). Il enquête 'à charge et à décharge'.",
+      "difficulty": 3
+    },
+    {
+      "id": "JUST036",
+      "category": "Pouvoir Judiciaire",
+      "type": "Term",
+      "tags": ["Procédure pénale", "Liberté", "Détention"],
+      "term": "Juge des libertés et de la détention (JLD)",
+      "definition": "Magistrat du siège distinct du juge d'instruction, qui statue sur la détention provisoire et d'autres mesures touchant aux libertés individuelles pendant l'enquête ou l'instruction.",
+      "difficulty": 3
+    }
+  ]

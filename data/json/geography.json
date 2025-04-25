@@ -1,0 +1,286 @@
+[
+  {
+    "id": "GEO001",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Europe", "Superficie"],
+    "front": "Position de la France en superficie (UE)",
+    "back": "La France est le plus vaste pays de l'Union Européenne.",
+    "difficulty": 1
+  },
+  {
+    "id": "GEO002",
+    "category": "Géographie",
+    "type": "Quiz",
+    "tags": ["France", "Mer", "Façades maritimes"],
+    "question": "Combien de façades maritimes principales possède la France métropolitaine ?",
+    "answer": "Trois",
+    "options": [
+      {"text": "Une", "isCorrect": false},
+      {"text": "Deux", "isCorrect": false},
+      {"text": "Trois", "isCorrect": true},
+      {"text": "Quatre", "isCorrect": false}
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "GEO003",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Mer", "Façades maritimes"],
+    "front": "Nommez les 3 façades maritimes de la France métropolitaine",
+    "back": "Mer Méditerranée, Océan Atlantique, et Manche/Mer du Nord.",
+    "difficulty": 2
+  },
+  {
+    "id": "GEO004",
+    "category": "Géographie",
+    "type": "Quiz",
+    "tags": ["France", "Frontières", "Monde"],
+    "question": "Pourquoi dit-on que la France a le plus de frontières au monde ?",
+    "answer": "En raison de ses territoires d'Outre-mer dispersés, elle partage des frontières terrestres ou maritimes avec de nombreux pays (plus de 30).",
+    "difficulty": 3
+  },
+  {
+    "id": "GEO005",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Métropole", "Superficie"],
+    "front": "Superficie approximative de la France métropolitaine",
+    "back": "Environ 551 700 km².",
+    "notes": "Souvent arrondi à 550 000 km².",
+    "difficulty": 2
+  },
+  {
+    "id": "GEO006",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Métropole", "Dimensions"],
+    "front": "Distance approximative Nord-Sud et Est-Ouest de la France métropolitaine",
+    "back": "Environ 1000 km dans les deux directions.",
+    "difficulty": 1
+  },
+  {
+    "id": "GEO007",
+    "category": "Géographie",
+    "type": "Quiz",
+    "tags": ["France", "Métropole", "Fleuves"],
+    "question": "Combien de fleuves principaux parcourent la France métropolitaine ?",
+    "answer": "Cinq",
+    "options": [
+       {"text": "Trois", "isCorrect": false},
+       {"text": "Quatre", "isCorrect": false},
+       {"text": "Cinq", "isCorrect": true},
+       {"text": "Six", "isCorrect": false}
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "GEO008",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Métropole", "Fleuves"],
+    "front": "Nommez les 5 fleuves principaux de France métropolitaine",
+    "back": "La Loire (le plus long), la Seine, le Rhône, la Garonne, le Rhin (frontalier).",
+    "difficulty": 2
+  },
+   {
+    "id": "GEO009",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Métropole", "Montagnes"],
+    "front": "Principaux massifs montagneux de France métropolitaine",
+    "back": "Les Alpes, les Pyrénées, le Massif Central, le Jura, les Vosges.",
+    "difficulty": 1
+  },
+   {
+    "id": "GEO010",
+    "category": "Géographie",
+    "type": "Quiz",
+    "tags": ["France", "Métropole", "Montagnes", "Alpes"],
+    "question": "Quel est le point culminant de la France métropolitaine ?",
+    "answer": "Le Mont Blanc",
+    "options": [
+       {"text": "Le Puy de Sancy", "isCorrect": false},
+       {"text": "Le Mont Blanc", "isCorrect": true},
+       {"text": "Le Vignemale", "isCorrect": false},
+       {"text": "Le Crêt de la Neige", "isCorrect": false}
+    ],
+    "difficulty": 2,
+    "notes": "Altitude environ 4806m."
+  },
+  {
+    "id": "GEO011",
+    "category": "Géographie",
+    "type": "Lesson",
+    "tags": ["France", "Outre-mer", "Statuts"],
+    "title": "La France d'Outre-mer",
+    "key_points": [
+      "Appelée aussi France ultramarine.",
+      "Distinction selon les statuts :",
+      "- DROM (Départements et Régions d'Outre-Mer) : Guadeloupe, Martinique, Guyane, La Réunion, Mayotte. Même statut que la métropole.",
+      "- COM (Collectivités d'Outre-Mer) : St-Pierre-et-Miquelon, St-Barthélemy, St-Martin, Wallis et Futuna, Polynésie française. Statut spécifique.",
+      "- Nouvelle-Calédonie : Statut particulier (accord de Nouméa).",
+      "- TAAF (Terres Australes et Antarctiques Françaises) : Îles Eparses, Crozet, Kerguelen, St-Paul, Amsterdam, Terre Adélie. Territoire peu ou pas habité.",
+      "- Clipperton : Propriété domaniale de l'État."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "GEO012",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Outre-mer", "Superficie", "Population"],
+    "front": "Superficie et population approximative de l'Outre-mer",
+    "back": "Environ 120 000 km² (hors Terre Adélie), soit 17-18% du territoire terrestre. Environ 2,8 millions d'habitants (DROM + COM).",
+    "notes": "Les chiffres exacts varient légèrement selon les sources et années.",
+    "difficulty": 3
+  },
+    {
+    "id": "GEO013",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Population", "Statistiques"],
+    "front": "Population totale approximative de la France (Avril 2025)",
+    "back": "Environ 68,5 millions d'habitants (métropole + outre-mer).",
+    "notes": "Chiffre à vérifier annuellement via l'INSEE. Le document source donne 68,4M au 1er Jan 2024.",
+    "difficulty": 2
+  },
+  {
+    "id": "GEO014",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Population", "Démographie", "Statistiques"],
+    "front": "Espérance de vie moyenne en France",
+    "back": "Environ 85-86 ans pour les femmes et 80 ans pour les hommes.",
+    "notes": "Les chiffres évoluent légèrement. Le document source donne 85.7 (F) et 80 (H).",
+    "difficulty": 2
+  },
+   {
+    "id": "GEO015",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Population", "Immigration", "Statistiques"],
+    "front": "Part approximative d'immigrés dans la population française",
+    "back": "Environ 10-11% de la population totale sont immigrés (nés étrangers à l'étranger).",
+     "notes": "Le document source donne 10.7% (7.3M) en 2023.",
+    "difficulty": 3
+  },
+  {
+    "id": "GEO016",
+    "category": "Géographie",
+    "type": "Lesson",
+    "tags": ["France", "Monde", "Positionnement", "Économie", "Géopolitique"],
+    "title": "Positionnement de la France dans le Monde",
+    "key_points": [
+      "Puissance économique mondiale (environ 7ème).",
+      "2ème domaine maritime mondial (grâce à sa Zone Économique Exclusive - ZEE).",
+      "1ère surface agricole de l'UE.",
+      "Important pays donateur pour l'aide au développement (membre OCDE).",
+      "Producteur majeur d'énergie nucléaire civile (environ 2ème).",
+      "Vaste réseau diplomatique (environ 3ème).",
+      "Destination touristique majeure (souvent 1ère).",
+      "Destination importante pour les étudiants étrangers (environ 3ème)."
+    ],
+    "difficulty": 2
+  },
+   {
+    "id": "GEO017",
+    "category": "Géographie",
+    "type": "Term",
+    "tags": ["France", "Mer", "ZEE"],
+    "term": "ZEE (Zone Économique Exclusive)",
+    "definition": "Espace maritime sur lequel un État côtier exerce des droits souverains en matière d'exploration et d'usage des ressources. La France possède la 2ème plus grande ZEE du monde grâce à ses territoires d'outre-mer.",
+    "difficulty": 3
+  },
+  {
+    "id": "GEO018",
+    "category": "Géographie",
+    "type": "Lesson",
+    "tags": ["France", "Administration", "Organisation territoriale"],
+    "title": "Organisation Administrative de la France",
+     "key_points": [
+      "Niveaux principaux :",
+      "- **Régions** : 18 au total (13 en métropole, 5 DROM). Issues de la décentralisation.",
+      "- **Départements** : 101 au total (96 en métropole, 5 DROM). Créés en 1790 (83 à l'origine).",
+      "- **Arrondissements** : Subdivisions des départements (environ 333).",
+      "- **Communes** : Plus petite division administrative (environ 35 000). Nombre en diminution (intercommunalités)."
+    ],
+    "notes": "Le nombre de communes est celui au 1er janvier 2024 (34934), il évolue chaque année.",
+    "difficulty": 2
+  },
+  {
+    "id": "GEO019",
+    "category": "Géographie",
+    "type": "Quiz",
+    "tags": ["France", "Administration", "Régions"],
+    "question": "Combien y a-t-il de régions en France (métropole + outre-mer) ?",
+    "answer": "18",
+    "options": [
+       {"text": "12", "isCorrect": false},
+       {"text": "13", "isCorrect": false},
+       {"text": "18", "isCorrect": true},
+       {"text": "22", "isCorrect": false}
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "GEO020",
+    "category": "Géographie",
+    "type": "Quiz",
+    "tags": ["France", "Administration", "Départements"],
+    "question": "Combien y a-t-il de départements en France (métropole + outre-mer) ?",
+    "answer": "101",
+     "options": [
+       {"text": "96", "isCorrect": false},
+       {"text": "100", "isCorrect": false},
+       {"text": "101", "isCorrect": true},
+       {"text": "105", "isCorrect": false}
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "GEO021",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Paris", "Capitale", "Centralisation"],
+    "front": "Rôle de Paris",
+    "back": "Capitale de la France, concentre une grande partie des pouvoirs (politiques, économiques, administratifs, culturels). L'Île-de-France représente environ 1/5 de la population.",
+    "image_ref": "arc_de_triomphe.jpg",
+    "difficulty": 1
+  },
+  {
+    "id": "GEO022",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Villes"],
+    "front": "Autres métropoles importantes en France (hors Paris)",
+    "back": "Lyon, Marseille, Lille, Bordeaux, Toulouse, Nice, Nantes...",
+    "difficulty": 1
+  },
+    {
+    "id": "GEO023",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["France", "Langue", "Diversité"],
+    "front": "Langue officielle de la France",
+    "back": "Le Français. D'autres langues régionales ou patois existent (ex: Breton, Alsacien, Corse...) et sont parfois enseignés.",
+    "difficulty": 1
+  },
+  {
+    "id": "GEO024",
+    "category": "Géographie",
+    "type": "Quiz",
+    "tags": ["France", "Tourisme"],
+    "question": "Quelle est la position de la France dans le tourisme mondial ?",
+    "answer": "C'est le pays qui reçoit le plus de touristes au monde.",
+    "options": [
+      {"text": "1er", "isCorrect": true},
+      {"text": "2ème", "isCorrect": false},
+      {"text": "3ème", "isCorrect": false},
+      {"text": "5ème", "isCorrect": false}
+    ],
+     "notes": "Le document source cite 98 millions en 2023.",
+    "difficulty": 2
+  }
+]

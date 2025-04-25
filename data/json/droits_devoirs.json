@@ -1,0 +1,197 @@
+[
+    {
+      "id": "DD001",
+      "category": "Droits & Devoirs",
+      "type": "Lesson",
+      "tags": ["Droits fondamentaux", "Sources", "DDHC", "Constitution"],
+      "title": "Fondements des Droits et Devoirs du Citoyen Français",
+      "key_points": [
+        "Reconnus par la Constitution de 1958.",
+        "Textes de base fondamentaux :",
+        "- Déclaration des Droits de l'Homme et du Citoyen (DDHC) du 26 août 1789 (17 articles).",
+        "- Préambule de la Constitution de 1946 (droits économiques et sociaux).",
+        "- Charte de l'environnement de 2004.",
+        "(Ces textes ont valeur constitutionnelle).",
+        "Inspiration : Grande Charte anglaise (1215), Constitution américaine (1787).",
+        "Influence : Déclaration Universelle des Droits de l'Homme (DUDH) de 1948.",
+        "Principe : Chaque droit implique des devoirs. La loi délimite le permis et l'interdit.",
+        "Codification : Droits et libertés sont aussi précisés dans le Code civil et d'autres codes."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "DD002",
+      "category": "Droits & Devoirs",
+      "type": "Flashcard",
+      "tags": ["Droits fondamentaux", "DDHC", "Art 2"],
+      "front": "Quels sont les 4 droits naturels et imprescriptibles cités dans l'Art. 2 de la DDHC de 1789 ?",
+      "back": "La liberté, la propriété, la sûreté et la résistance à l'oppression.",
+      "notes": "L'égalité est affirmée dans l'Art. 1 ('libres et égaux en droits').",
+      "difficulty": 2
+    },
+    {
+      "id": "DD003",
+      "category": "Droits & Devoirs",
+      "type": "Lesson",
+      "tags": ["Droits fondamentaux", "Libertés individuelles"],
+      "title": "Droits de la Personne et Libertés Individuelles",
+      "key_points": [
+        "Respect de la vie privée.",
+        "Libre circulation (aller et venir) et choix du domicile.",
+        "Secret de la correspondance et secret professionnel.",
+        "Protection contre l'arbitraire (nul ne peut être accusé/arrêté/détenu hors cas prévus par loi).",
+        "Présomption d'innocence.",
+        "Respect du droit de la défense.",
+        "Protection des libertés individuelles.",
+        "Propriété : Droit de disposer de ses biens."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "DD004",
+      "category": "Droits & Devoirs",
+      "type": "Lesson",
+      "tags": ["Droits fondamentaux", "Droits civils", "Droits politiques"],
+      "title": "Droits Civils et Politiques",
+      "key_points": [
+        "Droit de vote (suffrage universel).",
+        "Égalité des sexes.",
+        "Égalité devant la loi, la justice, l'impôt.",
+        "Accès à la culture.",
+        "Liberté de conscience et d'opinion.",
+        "Liberté d'expression.",
+        "Liberté de réunion et d'association.",
+        "Liberté de manifestation.",
+        "Liberté de culte.",
+        "Liberté d'enseignement.",
+        "Liberté d'adhérer (ou non) à un parti politique.",
+        "Droit d'entreprendre."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "DD005",
+      "category": "Droits & Devoirs",
+      "type": "Lesson",
+      "tags": ["Droits fondamentaux", "Droits économiques", "Droits sociaux"],
+      "title": "Droits Économiques et Sociaux",
+      "key_points": [
+        "Droit syndical.",
+        "Droit de grève.",
+        "Droit au travail et au libre choix d'un emploi.",
+        "Droit à des prestations collectives : emploi, santé, enseignement public et gratuit.",
+        "Droit à la protection sociale (Sécurité Sociale).",
+        "Droit au logement.",
+        "Droit à la contraception.",
+        "Droit à la retraite."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "DD006",
+      "category": "Droits & Devoirs",
+      "type": "Lesson",
+      "tags": ["Devoirs civiques", "Respect", "Obéissance", "Participation"],
+      "title": "Les Devoirs Civiques du Citoyen",
+      "key_points": [
+        "**Respect :** Des principes, valeurs et symboles de la Nation (République, drapeau, hymne, devise...).",
+        "**Obéissance :** Aux lois et règlements (payer impôts/taxes, respecter code de la route, faire service militaire si réactivé, ne pas nuire à autrui, porter assistance à personne en danger).",
+        "**Comportement social :** Respect des autres citoyens et de la société (civilité sur voie publique, don du sang, aide aux personnes en difficulté...).",
+        "**Participation à la vie de la cité :** Parcours de citoyenneté, inscription sur listes électorales, vote (devoir moral)."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "DD007",
+      "category": "Droits & Devoirs",
+      "type": "Lesson",
+      "tags": ["Parcours de citoyenneté", "Obligations", "Jeunesse", "Majorité"],
+      "title": "Le Parcours de Citoyenneté",
+      "key_points": [
+        "Obligatoire pour les jeunes Français.",
+        "Étapes clés :",
+         "- Enseignement moral et civique (scolarité).",
+         "- Recensement citoyen en mairie (à 16 ans).",
+         "- Journée Défense et Citoyenneté (JDC) (à 17 ans).",
+         "- (Optionnel/Expérimental : Service National Universel - SNU).",
+        "Attestations (recensement, JDC) obligatoires pour passer examens (permis, bac...) et concours publics.",
+        "Inscription sur les listes électorales (automatique après recensement/JDC).",
+        "Majorité à 18 ans : Pleine capacité juridique (civile et pénale), droit de vote et éligibilité (avec conditions d'âge variables selon mandats)."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "DD008",
+      "category": "Droits & Devoirs",
+      "type": "Quiz",
+      "tags": ["Majorité", "Droits civiques", "Éligibilité"],
+      "question": "À partir de quel âge un citoyen français peut-il être élu conseiller municipal ou maire ?",
+      "answer": "18 ans",
+      "options": [
+        {"text": "16 ans", "isCorrect": false},
+        {"text": "18 ans", "isCorrect": true},
+        {"text": "21 ans", "isCorrect": false},
+        {"text": "23 ans", "isCorrect": false}
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "DD009",
+      "category": "Droits & Devoirs",
+      "type": "Flashcard",
+      "tags": ["Majorité", "Droits civiques", "Éligibilité"],
+      "front": "Âge minimum pour être élu Président de la République",
+      "back": "18 ans (depuis 2011, auparavant 23 ans).",
+      "notes": "La diapositive source mentionne 24 ans, ce qui était vrai avant 2011. L'âge minimum actuel est 18 ans révolus.",
+      "difficulty": 3
+    },
+      {
+      "id": "DD010",
+      "category": "Droits & Devoirs",
+      "type": "Flashcard",
+      "tags": ["Majorité", "Droits civiques", "Éligibilité"],
+      "front": "Âge minimum pour être élu Sénateur",
+      "back": "24 ans.",
+       "notes": "La diapositive source mentionne 35 ans, ce qui n'est plus correct.",
+      "difficulty": 2
+    },
+    {
+      "id": "DD011",
+      "category": "Droits & Devoirs",
+      "type": "Lesson",
+      "tags": ["Libertés", "Expression", "Presse"],
+      "title": "Liberté d'Expression et Liberté de la Presse",
+      "key_points": [
+        "Liberté d'expression : Droit fondamental en démocratie (Art. 10 & 11 DDHC). Droit d'émettre une opinion (positive/négative) sur tous sujets/personnes/institutions.",
+        "Liberté de la presse : Corollaire de la liberté d'expression. Régie par la loi du 29 juillet 1881 ('loi Jules Ferry'). Complétée par lois de 1982 (audiovisuel) et 2010 (protection sources journalistes).",
+        "Limites : Respect d'autrui (Art. 4 DDHC), ordre public (Art. 10), abus (Art. 11), sécurité, secret. Délits spécifiques : diffamation, injure, incitation haine/violence, racisme, xénophobie, atteinte vie privée, fausses nouvelles, protection mineurs.",
+        "Déontologie : Journalistes soumis à une éthique (Charte de déontologie)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "DD012",
+      "category": "Droits & Devoirs",
+      "type": "Quiz",
+      "tags": ["Libertés", "Presse", "Loi"],
+      "question": "Quelle loi majeure régit la liberté de la presse en France ?",
+      "answer": "La loi du 29 juillet 1881",
+      "options": [
+        {"text": "La loi de 1905", "isCorrect": false},
+        {"text": "La loi du 29 juillet 1881", "isCorrect": true},
+        {"text": "La loi de 1982 sur l'audiovisuel", "isCorrect": false},
+        {"text": "Le Code civil", "isCorrect": false}
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "DD013",
+      "category": "Droits & Devoirs",
+      "type": "Flashcard",
+      "tags": ["Nationalité", "Charte", "Engagement"],
+      "front": "Quel document devez-vous signer pour marquer votre engagement lors de l'obtention de la nationalité française ?",
+      "back": "La Charte des droits et devoirs du citoyen français.",
+      "notes": "Sa signature est une condition indispensable.",
+      "difficulty": 1
+    }
+  ]

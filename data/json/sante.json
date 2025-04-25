@@ -1,0 +1,118 @@
+[
+    {
+      "id": "SAN001",
+      "category": "Santé",
+      "type": "Lesson",
+      "tags": ["Système de santé", "Organisation", "Acteurs"],
+      "title": "Organisation Générale du Système de Santé Français",
+      "key_points": [
+        "Interaction entre : Médecine de ville (libérale/salariée), Établissements de soins (hôpitaux, cliniques), Urgences.",
+        "Acteurs clés : Médecins (généralistes, spécialistes), Para-médicaux (infirmiers, kinés...), Établissements (publics, privés, mutualistes), Pharmaciens, Sécurité Sociale, Mutuelles.",
+        "Principe du parcours de soins coordonné centré sur le médecin traitant."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "SAN002",
+      "category": "Santé",
+      "type": "Flashcard",
+      "tags": ["Médecin", "Statuts", "Secteur 1", "Secteur 2", "Secteur 3"],
+      "front": "Quelle est la différence entre un médecin conventionné secteur 1 et secteur 2 ?",
+      "back": "Secteur 1 : Applique les tarifs fixés par la Sécurité Sociale (pas de dépassement d'honoraires, sauf exception). Secteur 2 : Autorisé à pratiquer des dépassements d'honoraires 'avec tact et mesure'.",
+      "notes": "Secteur 3 = Non conventionné (tarifs libres, très faible remboursement SS).",
+      "difficulty": 2
+    },
+    {
+      "id": "SAN003",
+      "category": "Santé",
+      "type": "Flashcard",
+      "tags": ["Établissements de soins", "Types"],
+      "front": "Citez différents types d'établissements de soins en France.",
+      "back": "Hôpitaux publics (CHU, CH), Cliniques privées (lucratives ou non), Cliniques mutualistes, Centres de lutte contre le cancer (CLCC), Centres hospitaliers spécialisés (psychiatrie...), Centres de santé.",
+      "difficulty": 1
+    },
+      {
+      "id": "SAN004",
+      "category": "Santé",
+      "type": "Flashcard",
+      "tags": ["Médecin traitant", "Rôle", "Parcours de soins"],
+      "front": "Quel est le rôle principal du médecin traitant ?",
+      "back": "Assurer le suivi médical régulier, gérer le dossier médical (DMP), coordonner le parcours de soins (orienter vers spécialistes), assurer la prévention personnalisée.",
+      "notes": "Généralement un médecin généraliste. Déclaration obligatoire dès 16 ans pour un meilleur remboursement.",
+      "difficulty": 1
+    },
+    {
+      "id": "SAN005",
+      "category": "Santé",
+      "type": "Quiz",
+      "tags": ["Parcours de soins", "Accès direct", "Spécialistes"],
+      "question": "Pour quels spécialistes peut-on consulter directement sans passer par son médecin traitant (accès direct autorisé) ?",
+      "answer": "Gynécologue, Ophtalmologiste, Psychiatre/Neuropsychiatre, Stomatologiste.",
+      "options": [
+        {"text": "Cardiologue, Gynécologue, Dentiste", "isCorrect": false},
+        {"text": "Ophtalmologiste, Dermatologue, Pédiatre", "isCorrect": false},
+        {"text": "Gynécologue, Ophtalmologiste, Psychiatre, Stomatologiste", "isCorrect": true},
+        {"text": "Rhumatologue, ORL, Gynécologue", "isCorrect": false}
+      ],
+      "notes": "Sage-femme aussi. Accès direct aussi pour le spécialiste qui suit une ALD.",
+      "difficulty": 2
+    },
+    {
+      "id": "SAN006",
+      "category": "Santé",
+      "type": "Term",
+      "tags": ["ALD", "Maladie chronique", "Remboursement"],
+      "term": "ALD (Affection de Longue Durée)",
+      "definition": "Maladie chronique grave nécessitant un traitement prolongé et coûteux (ex: cancer, diabète, insuffisance cardiaque...). Ouvre droit à une prise en charge à 100% par la Sécurité Sociale pour les soins liés à cette maladie, sur la base des tarifs conventionnels.",
+      "difficulty": 2
+    },
+    {
+      "id": "SAN007",
+      "category": "Santé",
+      "type": "Flashcard",
+      "tags": ["Remboursement", "Sécurité sociale", "Parcours de soins"],
+      "front": "Quel est le taux de remboursement de base par la Sécurité Sociale pour une consultation chez un généraliste si on respecte le parcours de soins ?",
+      "back": "70% du tarif conventionnel (moins 1€ de participation forfaitaire).",
+      "notes": "Le tarif de base passera à 30€ en décembre 2024 [Vérifier si appliqué en 2025]. Hors parcours, le taux est réduit à 30%.",
+      "difficulty": 1
+    },
+      {
+      "id": "SAN008",
+      "category": "Santé",
+      "type": "Flashcard",
+      "tags": ["Urgences", "Numéros"],
+      "front": "Quels sont les 3 principaux numéros d'urgence à connaître en France ?",
+      "back": "15 (SAMU - urgences médicales), 17 (Police/Gendarmerie), 18 (Pompiers - incendie, secours à personne). Le 112 est le numéro d'urgence européen.",
+      "difficulty": 1
+    },
+    {
+      "id": "SAN009",
+      "category": "Santé",
+      "type": "Quiz",
+      "tags": ["Urgences", "Numéros", "Spécifique"],
+      "question": "Quel numéro contacter pour une urgence sociale (personne sans abri) ?",
+      "answer": "115",
+       "options": [
+        {"text": "112", "isCorrect": false},
+        {"text": "114", "isCorrect": false},
+        {"text": "115", "isCorrect": true},
+        {"text": "119", "isCorrect": false}
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "SAN010",
+      "category": "Santé",
+      "type": "Quiz",
+      "tags": ["Urgences", "Numéros", "Spécifique"],
+      "question": "Quel numéro contacter pour signaler une situation d'enfance maltraitée ?",
+      "answer": "119",
+        "options": [
+        {"text": "112", "isCorrect": false},
+        {"text": "114", "isCorrect": false},
+        {"text": "115", "isCorrect": false},
+        {"text": "119", "isCorrect": true}
+      ],
+      "difficulty": 2
+    }
+  ]

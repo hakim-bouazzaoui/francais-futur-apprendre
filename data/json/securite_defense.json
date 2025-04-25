@@ -1,0 +1,534 @@
+[
+    {
+      "id": "SECINT001",
+      "category": "Securite Interieure",
+      "type": "Term",
+      "tags": ["Droit", "Principes"],
+      "term": "Droit à la sécurité",
+      "definition": "C'est un droit fondamental et une condition à l'exercice des libertés. L'État a le devoir d'assurer la sécurité sur tout le territoire (protection personnes/biens, respect lois, ordre public, défense institutions/intérêts nationaux).",
+      "notes": "Basé sur l'Article L 111-1 du Code de la sécurité intérieure.",
+      "difficulty": 1
+    },
+    {
+      "id": "SECINT002",
+      "category": "Securite Interieure",
+      "type": "Flashcard",
+      "tags": ["Gouvernement", "Ministères"],
+      "front": "Sous l'autorité de quel ministre s'exercent les missions de sécurité intérieure ?",
+      "back": "Le Ministre de l'Intérieur.",
+      "notes": "Actuellement Bruno Retailleau. [Vérifier le nom actuel en avril 2025]",
+      "difficulty": 1
+    },
+    {
+      "id": "SECINT003",
+      "category": "Securite Interieure",
+      "type": "Lesson",
+      "tags": ["Forces de l'ordre", "Acteurs"],
+      "title": "Principales forces assurant la sécurité intérieure en France",
+      "key_points": [
+        "1. Police Nationale : Force civile, missions police/sécurité grandes/moyennes villes (~5% territoire, 50% pop).",
+        "2. Gendarmerie Nationale : Force armée (statut militaire), missions police/sécurité zones rurales/périurbaines (~95% territoire, 50% pop) + missions militaires.",
+        "3. Polices Municipales : Sous autorité des maires, missions tranquillité/salubrité publiques, police administrative locale.",
+        "Autres acteurs : Douanes (frontières, taxes), Sapeurs-Pompiers (secours), Sécurité privée (gardiennage), Armées (Vigipirate/Sentinelle)."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "SECINT004",
+      "category": "Securite Interieure",
+      "type": "Term",
+      "tags": ["Forces de l'ordre", "Police", "Gendarmerie"],
+      "term": "Dualisme policier",
+      "definition": "Existence en France de deux forces principales (Police et Gendarmerie) ayant des statuts différents (civil/militaire) mais des missions de sécurité similaires. Justifié historiquement et par la nécessité de disposer d'une force militaire pour des contextes dégradés, et garantir l'indépendance de la justice (choix enquêteur).",
+      "notes": "La majorité des pays démocratiques ont plusieurs forces de police (nationales ou locales).",
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT005",
+      "category": "Securite Interieure",
+      "type": "Flashcard",
+      "tags": ["Gendarmerie", "Statut", "Tutelle"],
+      "front": "Quel est le statut de la Gendarmerie Nationale et sous quelle(s) tutelle(s) est-elle placée ?",
+      "back": "C'est une force armée (statut militaire). Elle est sous tutelle du Ministère de l'Intérieur pour ses missions de sécurité intérieure, mais sous celle du Ministère des Armées pour son statut et ses missions militaires.",
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT006",
+      "category": "Securite Interieure",
+      "type": "Statistic",
+      "tags": ["Gendarmerie", "Effectifs"],
+      "title": "Effectifs approximatifs de la Gendarmerie Nationale",
+      "data": {
+         "Active": "100 000 militaires",
+         "Réserve": "30 000 militaires",
+         "Couverture Territoriale": "95% du territoire (métropole + outre-mer)"
+      },
+      "notes": "Chiffres indicatifs basés sur le document.",
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT007",
+      "category": "Securite Interieure",
+      "type": "Lesson",
+      "tags": ["Gendarmerie", "Missions"],
+      "title": "Grandes Missions de la Gendarmerie Nationale",
+      "key_points": [
+        "Rassurer et protéger : Maillage territorial (plus de 3500 points d'accueil), proximité, prévention, sécurité routière, assistance.",
+        "Enquêter et interpeller : Police judiciaire (~1/3 missions), identifier auteurs crimes/délits (Unités Territoriales, Brigades/Sections de Recherche, Offices Centraux, IRCGN).",
+        "Maintenir l'ordre : Mission principale de la Gendarmerie Mobile (109 escadrons, ~13000 militaires), réserve générale du gouvernement.",
+        "Sécuriser les institutions : Garde Républicaine (Palais nationaux, protocole).",
+        "Intervenir et défendre : Missions spécialisées (GIGN - contre-terrorisme, crises extrêmes), Gendarmeries spécialisées (Air, Maritime, Transports, Armement, Nucléaire)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT008",
+      "category": "Securite Interieure",
+      "type": "Quiz",
+      "tags": ["Gendarmerie", "Unités", "GIGN"],
+      "question": "Quelle unité d'élite de la Gendarmerie est spécialisée dans le contre-terrorisme et la gestion de crises extrêmes ?",
+      "answer": "Le GIGN (Groupe d'intervention de la Gendarmerie nationale)",
+       "options": [
+         {"text": "La Garde Républicaine", "isCorrect": false},
+         {"text": "L'IRCGN", "isCorrect": false},
+         {"text": "Le GIGN", "isCorrect": true},
+         {"text": "La Gendarmerie Mobile", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "SECINT009",
+      "category": "Securite Interieure",
+      "type": "Flashcard",
+      "tags": ["Gendarmerie", "Personnel", "Statut militaire"],
+      "front": "Pourquoi le statut militaire est-il considéré comme un atout pour la Gendarmerie ?",
+      "back": "Il garantit une grande disponibilité (pas de limitation temps travail), facilite la proximité (vie en caserne), permet une mobilisation rapide et assure une discipline renforcée.",
+      "notes": "Le gendarme est un 'Soldat de la Loi'.",
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT010",
+      "category": "Securite Interieure",
+      "type": "Flashcard",
+      "tags": ["Police Nationale", "Statut", "Compétence"],
+      "front": "Quel est le statut de la Police Nationale et où exerce-t-elle principalement ses missions ?",
+      "back": "C'est une force civile. Elle exerce principalement dans les grandes et moyennes villes (zones urbaines).",
+      "difficulty": 1
+    },
+     {
+      "id": "SECINT011",
+      "category": "Securite Interieure",
+      "type": "Timeline",
+      "tags": ["Police Nationale", "Histoire"],
+      "date": "1941 & 1969",
+      "event": "Création de la Police Nationale",
+      "details": "Héritière de la police d'État créée sous Vichy en 1941 (nationalisation polices municipales). Prend officiellement le nom de 'Police Nationale' en 1969.",
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT012",
+      "category": "Securite Interieure",
+      "type": "Statistic",
+      "tags": ["Police Nationale", "Effectifs"],
+      "title": "Effectifs approximatifs de la Police Nationale",
+      "data": {
+         "Professionnels": "~143 000"
+      },
+      "notes": "Chiffre indicatif basé sur le document.",
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT013",
+      "category": "Securite Interieure",
+      "type": "Lesson",
+      "tags": ["Police Nationale", "Missions"],
+      "title": "Missions Principales de la Police Nationale",
+      "key_points": [
+        "Sécurité générale (préventif/répressif) : Présence voie publique, police-secours (17), accueil victimes.",
+        "Investigation (Police Judiciaire - PJ) : Constater infractions, rechercher preuves et auteurs.",
+        "Police Technique et Scientifique (PTS) : Analyses (balistique, biologie...), gestion fichiers.",
+        "Ordre public : Maintien/rétablissement (avec CRS - Compagnies Républicaines de Sécurité).",
+        "Sécurité aux frontières (PAF) : Contrôle flux migratoires, lutte immigration irrégulière.",
+        "Renseignement Territorial (RT) : Collecte et analyse infos sur menaces/enjeux stratégiques.",
+        "Coopération internationale.",
+        "Contrôle interne.",
+        "Fonctions supports (RH, logistique...)."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "SECINT014",
+      "category": "Securite Interieure",
+      "type": "Quiz",
+      "tags": ["Police Nationale", "Unités", "RAID"],
+      "question": "Quelle unité d'élite de la Police Nationale est spécialisée dans les interventions en cas de crises graves (prises d'otages, terrorisme) ?",
+      "answer": "Le RAID (Recherche, Assistance, Intervention, Dissuasion)",
+       "options": [
+         {"text": "La BRI", "isCorrect": false},
+         {"text": "Le RAID", "isCorrect": true},
+         {"text": "Les CRS", "isCorrect": false},
+         {"text": "Le SDLP", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "SECINT015",
+      "category": "Securite Interieure",
+      "type": "Flashcard",
+      "tags": ["Police Nationale", "Unités"],
+      "front": "Citez d'autres unités spécialisées de la Police Nationale (hors RAID).",
+      "back": "La BRI (Brigade de Recherche et d'Intervention - antigang), le SDLP (Service De La Protection - protection VIP), la Brigade Criminelle ('CRIM' - enquêtes graves).",
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT016",
+      "category": "Securite Interieure",
+      "type": "Lesson",
+      "tags": ["Police Municipale", "Missions", "Organisation"],
+      "title": "Les Polices Municipales",
+      "key_points": [
+        "Pouvoirs : Exercent les pouvoirs de police du Maire (tranquillité, sécurité, salubrité publiques).",
+        "Missions : Améliorer qualité de vie, faire respecter arrêtés municipaux, lutter contre incivilités/petite délinquance, relever infractions (stationnement, urbanisme...). Agissent en lien avec Police/Gendarmerie Nationale.",
+        "Organisation : Définie par chaque commune. Environ 1500 communes en ont une (sur ~35000), surtout celles de +5000 hab. Effectifs très variables (ex: Nice/Marseille >400, Paris ~5000 prévu).",
+        "Personnel : Directeurs, chefs de service, agents de police municipale, gardes champêtres."
+      ],
+      "notes": "La Police Municipale de Paris est récente (création votée en 2021).",
+      "difficulty": 2
+    },
+    {
+      "id": "SECINT017",
+      "category": "Securite Interieure",
+      "type": "Flashcard",
+      "tags": ["DGSI", "Renseignement"],
+      "front": "Qu'est-ce que la DGSI ?",
+      "back": "Direction Générale de la Sécurité Intérieure. C'est le service de renseignement intérieur français, distinct de la Police et de la Gendarmerie, chargé de lutter contre l'espionnage, le terrorisme, la cybercriminalité, etc.",
+      "notes": "Rattachée directement au Ministre de l'Intérieur.",
+      "difficulty": 3
+    },
+    {
+      "id": "DEF001",
+      "category": "Defense",
+      "type": "Lesson",
+      "tags": ["Fondements", "De Gaulle", "Principes"],
+      "period": "1958-1969",
+      "title": "Fondements de la Politique de Défense (Vème République)",
+      "key_points": [
+        "Définis par De Gaulle (1958-69) : Contexte Guerre Froide/Décolonisation.",
+        "Principes essentiels : Souveraineté nationale, rôle international, protection citoyens/territoire, dissuasion nucléaire autonome.",
+        "Objectif : Redonner à la France un rôle international et une défense crédible.",
+        "Moyens : Création système défense global, effort financier important.",
+        "Organisation : S'appuie sur 5 ministères (Affaires étrangères, Armées, Intérieur, Économie/Finances, Justice)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "DEF002",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Intérêts Vitaux", "Priorités"],
+      "front": "Quels sont les 4 intérêts vitaux de la France résumés dans le document ?",
+      "back": "1. Sécurité/Défense des Français et du Territoire. 2. Continuité des fonctions essentielles (approvisionnements...). 3. Défense des Valeurs et de la Culture. 4. Respect des Engagements internationaux.",
+      "difficulty": 2
+    },
+    {
+      "id": "DEF003",
+      "category": "Defense",
+      "type": "Lesson",
+      "tags": ["Menaces", "Terrorisme", "Géopolitique", "BRICS"],
+      "title": "Menaces Principales Actuelles (selon le document)",
+      "key_points": [
+        "Terrorisme islamiste : Menace active sur le territoire et à l'étranger depuis les années 1980.",
+        "Remontée en force des États Puissances : Réarmement et affirmation (Chine, Russie, Inde, Brésil, Iran, Arabie Saoudite, Turquie...). Promotion monde multipolaire (BRICS), refus domination occidentale, interventions militaires (Afrique, Europe, Indo-Pacifique)."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "DEF004",
+      "category": "Defense",
+      "type": "Lesson",
+      "tags": ["Enseignements", "Stratégie", "Alliances", "Haute Intensité"],
+      "title": "Enseignements Stratégiques Récents",
+      "key_points": [
+        "Monde multipolaire : Modèle démocratique occidental n'est plus la référence unique.",
+        "Retour de la guerre de haute intensité en Europe (Ukraine).",
+        "Priorité US : Indo-Pacifique (relativise l'engagement en Europe).",
+        "Impératifs pour la France : Action dans le cadre des alliances (OTAN/UE), effort de réarmement (haute intensité), continuité défense intérieure/extérieure."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "DEF005",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Ambitions", "Stratégie", "LPM"],
+      "front": "Quelles sont les ambitions actuelles de la France en matière de défense ?",
+      "back": "Être une puissance à rayonnement mondial, maintenir paix/sécurité (France/Monde), agir en alliances. Définies par Président/Nation (Constitution, Loi, Livre Blanc). Traduit par la Loi de Programmation Militaire (LPM) 2024-2030.",
+      "difficulty": 1
+    },
+    {
+      "id": "DEF006",
+      "category": "Defense",
+      "type": "Lesson",
+      "tags": ["Responsabilités", "Institutions", "Président", "Gouvernement", "Parlement"],
+      "title": "Répartition des Responsabilités en matière de Défense",
+      "key_points": [
+        "Président : Chef des armées, garant indépendance nationale, décide intervention/engagement nucléaire, politique étrangère/alliances.",
+        "Gouvernement : Dispose administration/force armée. PM responsable défense nationale. Ministres responsables mise en œuvre.",
+        "Parlement : Vote budget/LPM. Contrôle interventions extérieures (>3 jours info, >4 mois vote/autorisation poursuite). Autorise déclaration de guerre."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "DEF007",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Responsabilités", "Citoyen", "JDC"],
+      "front": "Quel est le devoir du citoyen français en matière de défense ?",
+      "back": "Concourir à la défense de la Nation. Parcours de citoyenneté obligatoire (Recensement à 16 ans, Journée Défense et Citoyenneté - JDC à 17 ans). L'appel sous les drapeaux peut être rétabli par la loi.",
+      "notes": "Attestation JDC obligatoire pour examens (permis, bac...).",
+      "difficulty": 1
+    },
+     {
+      "id": "DEF008",
+      "category": "Defense",
+      "type": "Statistic",
+      "tags": ["Budget"],
+      "title": "Budget de la Défense (Tendances)",
+      "data": {
+         "Position (France)": "Environ 4ème budget de l'État (après Éducation, Collectivités, Dette).",
+         "Évolution": "Baisse après 1991, remonte progressivement depuis 2019.",
+         "Référence PIB (objectif)": "Vise à terme 2% du PIB (engagement OTAN)."
+      },
+      "notes": "Le document cite 47 Mds€ (2024), 61 Mds US$ (2023). Chiffres à vérifier. LPM 2024-2030 prévoit forte hausse.",
+      "difficulty": 3
+    },
+     {
+      "id": "DEF009",
+      "category": "Defense",
+      "type": "Lesson",
+      "tags": ["Principes", "Stratégie", "OTAN", "Industrie"],
+      "title": "Grands Principes d'Engagement des Forces Françaises",
+      "key_points": [
+        "1. Liberté d'action nationale (souveraineté).",
+        "2. Agir en toute légitimité (ONU, traité).",
+        "3. Modèle d'armée complet (capacités variées).",
+        "4. Recours à l'OTAN pour défense collective Europe.",
+        "5. Réponse globale aux menaces.",
+        "6. Industrie d'armement autonome."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "DEF010",
+      "category": "Defense",
+      "type": "Lesson",
+      "tags": ["Fonctions", "Opérations", "Dissuasion", "Cyber"],
+      "title": "Six Grandes Fonctions Opérationnelles des Armées",
+      "key_points": [
+        "Renseignement : Anticiper et connaître.",
+        "Intervention : Agir hors des frontières.",
+        "Dissuasion Nucléaire : Protéger les intérêts vitaux (fonction clé et exclusive).",
+        "Prévention : Agir en amont des crises (accords de défense).",
+        "Protection : Sécuriser territoire national et population (cyber, plan Sentinelle).",
+        "Cyberdéfense : Protéger les systèmes d'information."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "DEF011",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Dissuasion nucléaire", "Principes"],
+      "front": "Quelles sont les caractéristiques de la dissuasion nucléaire française ?",
+      "back": "Exclusivement défensive et nationale. Vise à dissuader un agresseur de s'en prendre aux intérêts vitaux de la France. Repose sur SNLE (sous-marins) et composante aéroportée.",
+      "notes": "Point fort et socle de la défense française.",
+      "difficulty": 1
+    },
+    {
+      "id": "DEF012",
+      "category": "Defense",
+      "type": "Statistic",
+      "tags": ["Armées", "Effectifs"],
+      "title": "Effectifs approximatifs des Armées (2024)",
+      "data": {
+         "Total": "Environ 210 000 militaires + 60 000 civils.",
+         "Armée de Terre": "~120 000",
+         "Armée de l'Air et de l'Espace": "~43 000",
+         "Marine Nationale": "~36 000"
+      },
+      "notes": "Chiffres indicatifs basés sur le document. En baisse par rapport à 1989 (~450k militaires).",
+      "difficulty": 2
+    },
+    {
+      "id": "DEF013",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Armées", "Missions", "Outre-mer"],
+      "front": "Quelles sont les missions des forces armées présentes en Outre-mer ?",
+      "back": "Défense du territoire, protection des intérêts français, surveillance des ZEE, missions de service public (secours, aide aux populations, lutte contre trafics).",
+      "notes": "Ex: Sécurité Centre Spatial (Kourou), patrouilles Harpie (Guyane).",
+      "difficulty": 2
+    },
+     {
+      "id": "DEF014",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Personnel", "Valeurs"],
+      "front": "Quelle est la 'force' principale des armées françaises selon le document ?",
+      "back": "La valeur de ses soldats (professionnels et citoyens) : leur engagement, leur discipline, leur adaptabilité, leur esprit de sacrifice.",
+      "difficulty": 1
+    },
+     {
+      "id": "DEF015",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Réserves", "Service militaire"],
+      "front": "Le service militaire est-il obligatoire en France ?",
+      "back": "Non, il a été suspendu en 1996 (remplacé par le Parcours de Citoyenneté et la JDC). Sa réintroduction est débattue mais complexe (coût, infrastructures). Les réserves sont encouragées.",
+      "difficulty": 1
+    },
+     {
+      "id": "DEF016",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["DGA", "Industrie"],
+      "front": "Quel est le rôle de la DGA (Direction Générale de l'Armement) ?",
+      "back": "Équiper les armées, préparer l'avenir technologique de la défense, promouvoir les exportations d'armement. Elle garantit l'autonomie industrielle.",
+      "difficulty": 3
+    },
+     {
+      "id": "DEF017",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Industrie", "Exportations"],
+      "front": "La France est-elle un exportateur important d'armement ?",
+      "back": "Oui, la France est l'un des principaux exportateurs mondiaux d'armement (régulièrement classée 2ème ou 3ème).",
+      "difficulty": 2
+    },
+      {
+      "id": "DEF018",
+      "category": "Defense",
+      "type": "Flashcard",
+      "tags": ["Guerre Ukraine", "Conséquences", "Stocks"],
+      "front": "Quelle conséquence de la guerre en Ukraine sur les armées européennes est mentionnée ?",
+      "back": "La prise de conscience de la nécessité d'une remontée en puissance pour la guerre de haute intensité et le problème des stocks de munitions et matériels insuffisants ('flux tendu').",
+      "difficulty": 2
+    },
+    {
+      "id": "ORGINT001",
+      "category": "Organisations Internationales",
+      "type": "Lesson",
+      "tags": ["ONU", "Sécurité collective", "Institutions"],
+      "title": "L'ONU et la Sécurité Collective",
+      "key_points": [
+        "Rôle : Garantir la sécurité collective mondiale (193 États membres).",
+        "Textes fondateurs : Charte des Nations Unies (1945), Déclaration Universelle Droits de l'Homme (1948).",
+        "Organes principaux : Assemblée Générale (1 pays = 1 voix), Conseil de Sécurité (rôle majeur paix/sécurité), Secrétariat Général.",
+        "Conseil de Sécurité : 15 membres dont 5 permanents (Chine, USA, France, Royaume-Uni, Russie) avec droit de véto. 10 membres non-permanents élus pour 2 ans.",
+        "Actions France : Membre permanent CS, participe opérations maintien paix (ex: FINUL au Sud-Liban), aide au développement (0,55% RNB en 2023), promotion droits de l'homme."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "ORGINT002",
+      "category": "Organisations Internationales",
+      "type": "Quiz",
+      "tags": ["ONU", "Conseil de Sécurité"],
+      "question": "La France est-elle membre permanent du Conseil de Sécurité de l'ONU ?",
+      "answer": "Oui",
+       "options": [
+         {"text": "Oui", "isCorrect": true},
+         {"text": "Non", "isCorrect": false},
+         {"text": "Seulement observateur", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "ORGINT003",
+      "category": "Organisations Internationales",
+      "type": "Flashcard",
+      "tags": ["ONU", "Conseil de Sécurité", "Droit de véto"],
+      "front": "Quels sont les 5 membres permanents du Conseil de Sécurité de l'ONU ?",
+      "back": "Chine, États-Unis, France, Royaume-Uni, Russie.",
+      "notes": "Ils disposent d'un droit de véto sur les résolutions.",
+      "difficulty": 1
+    },
+    {
+      "id": "ORGINT004",
+      "category": "Organisations Internationales",
+      "type": "Lesson",
+      "tags": ["OTAN", "Alliance Atlantique", "Défense collective"],
+      "title": "L'Alliance Atlantique (OTAN)",
+      "key_points": [
+        "Création : Traité de l'Atlantique Nord signé en 1949 face à la menace soviétique.",
+        "OTAN : Organisation militaire de l'Alliance.",
+        "Article 5 : Clause de défense collective (une attaque contre un membre est une attaque contre tous).",
+        "Structure : Organisation politique (Conseil Atlantique Nord - ambassadeurs, Secrétaire Général) et militaire (Comité militaire, QG Mons dirigé par un Gal US). Située à Bruxelles.",
+        "Évolution : Alliance défensive -> offensive/gestion crise (post-1991) -> extension vers l'Est (post-1999).",
+        "Moyens : Repose largement sur les capacités US. Les armées restent nationales.",
+        "Domination US : Amplifiée par la guerre en Ukraine.",
+        "France et OTAN : Membre fondateur. Sortie du commandement intégré en 1966 (De Gaulle, souveraineté) mais reste dans l'Alliance (Art. 5). Retour complet en 2009. Participe activement (ex: flanc Est)."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "ORGINT005",
+      "category": "Organisations Internationales",
+      "type": "Flashcard",
+      "tags": ["OTAN", "Article 5"],
+      "front": "Que stipule l'Article 5 du Traité de l'Atlantique Nord ?",
+      "back": "Le principe de défense collective : une attaque armée contre un ou plusieurs membres en Europe ou en Amérique du Nord sera considérée comme une attaque dirigée contre tous les membres.",
+      "difficulty": 2
+    },
+    {
+      "id": "ORGINT006",
+      "category": "Organisations Internationales",
+      "type": "Timeline",
+      "tags": ["OTAN", "France", "Histoire"],
+      "title": "La France et l'OTAN : Dates Clés",
+      "details": "1949: Création et adhésion France. 1966: Sortie du commandement militaire intégré (décision De Gaulle). 2009: Retour complet dans le commandement intégré. Depuis 2022: Renforcement participation flanc Est.",
+      "difficulty": 2
+    },
+    {
+      "id": "ORGINT007",
+      "category": "Organisations Internationales",
+      "type": "Lesson",
+      "tags": ["Union Européenne", "Défense", "PSDC"],
+      "title": "La Sécurité et la Défense au sein de l'Union Européenne",
+      "key_points": [
+        "Préalable : L'UE n'est pas une union politique fédérale, la défense reste une prérogative nationale.",
+        "PSDC (Politique de Sécurité et de Défense Commune) : Cadre de coopération. Progrès depuis 1990s (Maastricht, Amsterdam, Helsinki, Nice, Lisbonne...). Unanimité souvent requise.",
+        "Capacités limitées : Pas d'armée européenne unique. Capacités militaires autonomes mais modestes. Forte dépendance envers l'OTAN/USA.",
+        "Progrès récents : Coopération Structurée Permanente (CSP), Fonds Européen de Défense (FED), Facilité Européenne pour la Paix (FEP).",
+        "Missions : L'UE mène des missions civilo-militaires à l'étranger (gestion de crise, formation...).",
+        "Relation avec OTAN : Complémentarité affichée, mais débat sur l'autonomie stratégique européenne."
+      ],
+      "difficulty": 3
+    },
+      {
+      "id": "ORGINT008",
+      "category": "Organisations Internationales",
+      "type": "Flashcard",
+      "tags": ["Union Européenne", "Défense", "Traité de Lisbonne"],
+      "front": "Existe-t-il une clause de défense mutuelle dans l'UE ?",
+      "back": "Oui, l'article 42.7 du Traité sur l'Union Européenne prévoit une clause d'aide et d'assistance mutuelle en cas d'agression armée sur le territoire d'un État membre.",
+      "notes": "Complémentaire à l'Article 5 de l'OTAN.",
+      "difficulty": 3
+    },
+      {
+      "id": "ORGINT009",
+      "category": "Defense",
+      "type": "Lesson",
+      "tags": ["Accords", "Afrique", "Golfe", "Bases"],
+      "title": "Accords de Défense et Présence Française (Afrique/Golfe)",
+      "key_points": [
+        "Héritage colonial et engagements récents.",
+        "Objectifs : Stabiliser, coopérer, lutter contre terrorisme, protéger intérêts/ressortissants, contrôler ressources énergétiques (Golfe).",
+        "Accords évolutifs : Anciens accords (post-1960) remplacés ou adaptés. Partenariats régionaux (CEDEAO, CEEAC).",
+        "Bases permanentes (accords) : 5 bases principales mentionnées - Djibouti, EAU (Abou Dabi), Sénégal, Gabon, Côte d'Ivoire.",
+        "Crise du Sahel : Fin opération Barkhane (2022), désengagement militaire progressif (Mali, Burkina, Niger), influence russe/chinoise croissante.",
+        "Opération Chammal : Participation française à la coalition contre Daech en Syrie/Irak (se poursuit)."
+      ],
+      "difficulty": 2
+    }
+  ]

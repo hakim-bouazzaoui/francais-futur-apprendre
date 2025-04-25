@@ -16,11 +16,13 @@ export type RootStackParamList = {
   SRSReview: {
     items: SRSItem[];
   };
+  ContentList: undefined; // Add the new screen
 };
 
 export type MainTabParamList = {
   Home: undefined;
   Lessons: undefined;
+  Content: undefined; // Add new tab for content
   Revision: undefined;
   Profile: undefined;
 };
@@ -40,7 +42,7 @@ export interface QuizResult {
   score: number;
   totalQuestions: number;
   timeSpent: number;
-  questions: QuizQuestion[]; // Added this field
+  questions: QuizQuestion[];
   answers: {
     questionId: string;
     correct: boolean;

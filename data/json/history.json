@@ -1,0 +1,1125 @@
+[
+    {
+      "id": "HIST001",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Antiquité", "Gaulois", "Romains"],
+      "title": "Nos ancêtres les Gaulois et la Gaule Romaine",
+      "key_points": [
+        "Les Gaulois : Peuple d'origine celtique, artisans et agriculteurs habiles (travail du fer et du bois). Organisés en nombreuses peuplades.",
+        "Conquête romaine : Jules César conquiert la Gaule (-58 à -51 av. JC). Victoire clé contre Vercingétorix à Alésia (-52 av. JC).",
+        "Gaule Romaine (-52 av. JC à 476 ap. JC) : Période de paix ('Pax Romana'), construction de villes, routes, aqueducs. Assimilation progressive.",
+        "Héritage romain : Droit romain, langue latine (base du français), architecture, religion chrétienne (devient officielle en 390)."
+      ],
+      "image_ref": "vercingetorix_alesia.jpg",
+      "difficulty": 1
+    },
+    {
+      "id": "HIST002",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["Antiquité", "Gaulois"],
+      "name": "Vercingétorix",
+      "period": "Antiquité (-1er siècle av. JC)",
+      "key_facts": [
+        "Chef de la tribu des Arvernes.",
+        "A réussi à unir de nombreuses tribus gauloises contre César.",
+        "A remporté une victoire à Gergovie.",
+        "A été vaincu par César au siège d'Alésia en -52 av. JC."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST003",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Haut Moyen Âge", "Invasions", "Francs", "Mérovingiens"],
+      "title": "Invasions Barbares et Dynastie Mérovingienne",
+      "key_points": [
+        "Fin de l'Empire Romain : Invasions germaniques (Wisigoths, Burgondes, Francs) aux Ve-VIe siècles.",
+        "Clovis : Roi des Francs (481-511), considéré comme le premier roi de France. Unifie une grande partie de la Gaule. Baptisé à Reims (~498), alliance avec l'Église.",
+        "Dynastie Mérovingienne (481-751) : Successeurs de Clovis. Période marquée par des luttes internes. Déclin du pouvoir royal ('rois fainéants') au profit des 'maires du palais'."
+      ],
+      "image_ref": "bapteme_clovis.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST004",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["Haut Moyen Âge", "Mérovingiens"],
+      "name": "Clovis Ier",
+      "period": "466 - 511",
+      "key_facts": [
+        "Roi des Francs Saliens.",
+        "Considéré comme le fondateur de la monarchie française.",
+        "Unifie une grande partie de la Gaule par ses conquêtes (Soissons 486, Tolbiac 496, Vouillé 507).",
+        "Se convertit au christianisme (~498), événement majeur pour l'alliance entre la royauté et l'Église."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "HIST005",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["Haut Moyen Âge", "Carolingiens"],
+      "question": "Qui a arrêté l'avancée des musulmans (Maures) à Poitiers en 732 ?",
+      "answer": "Charles Martel",
+       "options": [
+         {"text": "Clovis", "isCorrect": false},
+         {"text": "Charlemagne", "isCorrect": false},
+         {"text": "Pépin le Bref", "isCorrect": false},
+         {"text": "Charles Martel", "isCorrect": true}
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST006",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Haut Moyen Âge", "Carolingiens", "Empire"],
+      "title": "L'Ère Carolingienne",
+      "key_points": [
+        "Dynastie fondée par Pépin le Bref (fils de Charles Martel) en 751.",
+        "Charlemagne (768-814) : Fils de Pépin. Roi conquérant, domine une grande partie de l'Occident. Couronné Empereur d'Occident à Rome en 800. Administre son empire (capitulaires, missi dominici). Encourage le renouveau des études ('renaissance carolingienne', écoles). Défenseur du Christianisme.",
+        "Partage de l'Empire : Traité de Verdun (843) divise l'empire entre les petits-fils de Charlemagne, dessinant les futures France, Allemagne et Lotharingie."
+      ],
+      "image_ref": "sacre_charlemagne.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST007",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["Haut Moyen Âge", "Carolingiens", "Empire"],
+      "name": "Charlemagne",
+      "period": "742/748 - 814",
+      "key_facts": [
+        "Roi des Francs puis Empereur d'Occident (couronné en 800).",
+        "A considérablement agrandi le royaume par ses conquêtes.",
+        "A réorganisé l'administration et encouragé la culture et l'éducation.",
+        "Figure majeure de l'histoire européenne."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST008",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Moyen Âge", "Invasions"],
+      "front": "Quels peuples ont mené des raids en Francie occidentale aux IXe-Xe siècles ?",
+      "back": "Principalement les Vikings (Normands) venus de la mer, mais aussi les Hongrois (Magyars) et les Sarrasins (Maures).",
+      "difficulty": 2
+    },
+      {
+      "id": "HIST009",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Moyen Âge", "Capétiens", "Féodalité"],
+      "title": "Le Royaume des Capétiens et la Société Féodale",
+      "key_points": [
+        "Dynastie Capétienne (987-1328 directs) : Fondée par Hugues Capet. Consolidation progressive du domaine royal et de l'administration. Appui sur le sacre et l'Église.",
+        "Société Féodale : Pouvoir royal limité face aux grands seigneurs (ducs, comtes). Liens vassaliques (hommage, serment). Société hiérarchisée en 3 ordres : clergé (prie), noblesse (combat), tiers-état (travaille, surtout paysans). Rôle central de l'Église et des abbayes."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST010",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["Moyen Âge", "Angleterre", "Normandie"],
+      "name": "Guillaume le Conquérant",
+      "period": "~1028 - 1087",
+      "key_facts": [
+        "Duc de Normandie.",
+        "Conquiert l'Angleterre en 1066 après la bataille d'Hastings.",
+        "Devient Roi d'Angleterre tout en restant vassal du roi de France, source de conflits futurs."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "HIST011",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["Moyen Âge", "Capétiens"],
+      "name": "Philippe II Auguste",
+      "period": "1165 - 1223",
+      "key_facts": [
+        "Premier roi à se faire appeler 'Roi de France' (plutôt que 'Roi des Francs').",
+        "A considérablement agrandi le domaine royal (Normandie, Anjou...).",
+        "Vainqueur de la bataille de Bouvines (1214) contre une coalition (Anglais, Allemands, Flamands)."
+       ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST012",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Moyen Âge", "Croisades", "Religion"],
+      "front": "Qu'est-ce que les Croisades ?",
+      "back": "Expéditions militaires menées par les chrétiens d'Europe entre le XIe et le XIIIe siècle, principalement pour reprendre Jérusalem et les lieux saints aux musulmans.",
+       "notes": "Roi important : Saint Louis (Louis IX) a participé aux 7e et 8e croisades.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST013",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Moyen Âge", "Architecture", "Religion", "Éducation"],
+      "front": "Quelle période est associée aux grandes cathédrales gothiques et aux universités ?",
+      "back": "Principalement du XIe au XIVe siècle.",
+       "notes": "Ex: Notre-Dame de Paris, Amiens, Reims. Universités : Sorbonne (Paris), Montpellier, Orléans.",
+      "difficulty": 1
+    },
+    {
+      "id": "HIST014",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Moyen Âge", "Guerre de Cent Ans"],
+      "title": "La Guerre de Cent Ans (1337-1453)",
+       "key_points": [
+        "Cause : Conflit de succession au trône de France entre les Valois (français) et les Plantagenêts (anglais).",
+        "Longue période de guerre intermittente entre France et Angleterre.",
+        "Grandes défaites françaises : Crécy (1346), Poitiers (1356), Azincourt (1415).",
+        "Figure clé : Jeanne d'Arc intervient en 1429, libère Orléans, fait sacrer Charles VII à Reims.",
+        "Fin : Victoire française finale (bataille de Castillon 1453). Les Anglais ne conservent que Calais."
+      ],
+      "image_ref": "jeanne_darc_orleans.jpg",
+      "difficulty": 2
+    },
+     {
+      "id": "HIST015",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Moyen Âge", "Épidémie"],
+      "front": "Qu'est-ce que la Peste Noire ?",
+      "back": "Grande pandémie de peste bubonique qui a ravagé l'Europe au milieu du XIVe siècle (1347-1353), tuant environ un tiers de la population européenne.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST016",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Renaissance", "Absolutisme", "Guerres de Religion"],
+      "title": "Renaissance, Guerres de Religion et début de l'Absolutisme",
+      "key_points": [
+        "Renaissance (XVe-XVIe s) : Influence italienne, développement des arts et lettres. Rois mécènes comme François Ier (châteaux de la Loire, Léonard de Vinci, Collège de France). Ordonnance de Villers-Cotterêts (1539) impose le français dans les actes officiels.",
+        "Guerres de Religion (1562-1598) : Conflits violents entre catholiques et protestants (Huguenots). Massacre de la Saint-Barthélemy (1572).",
+        "Henri IV (1589-1610) : Met fin aux guerres. D'abord protestant, il se convertit au catholicisme ('Paris vaut bien une messe'). Promulgue l'Édit de Nantes (1598) accordant la liberté de culte aux protestants. Assassiné par Ravaillac.",
+        "Louis XIII (1610-1643) et Richelieu : Renforcement du pouvoir royal (absolutisme), lutte contre les protestants (siège de La Rochelle), création de l'Académie Française."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "HIST017",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["Renaissance"],
+      "name": "François Ier",
+      "period": "1494 - 1547",
+      "key_facts": [
+        "Roi emblématique de la Renaissance française.",
+        "Mécène des arts et des lettres (Léonard de Vinci).",
+        "Bataille de Marignan (1515), rivalité avec Charles Quint.",
+        "Ordonnance de Villers-Cotterêts (1539)."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "HIST018",
+      "category": "Histoire",
+      "type": "Term",
+      "tags": ["Guerres de Religion", "Protestantisme"],
+      "term": "Édit de Nantes",
+      "definition": "Édit signé par Henri IV en 1598 qui accordait aux protestants (Huguenots) la liberté de conscience et une certaine liberté de culte, mettant fin aux guerres de religion.",
+      "notes": "Il sera révoqué par Louis XIV en 1685.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST019",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Absolutisme", "Grand Siècle", "XVIIe siècle"],
+      "title": "Le Règne de Louis XIV, l'Apogée de l'Absolutisme",
+      "key_points": [
+        "Louis XIV (1643-1715) : Règne personnel à partir de 1661. Le plus long règne de l'histoire de France.",
+        "Monarchie Absolue : Concentration de tous les pouvoirs ('L'État, c'est moi'). Symbole du 'Roi-Soleil'.",
+        "Versailles : Construction du château, centre du pouvoir et de la vie de cour.",
+        "Colbert : Ministre important, développe l'économie (manufactures, commerce).",
+        "Politique religieuse : Révocation de l'Édit de Nantes (1685), persécution des protestants (dragonnades, révolte des Camisards).",
+        "Guerres : Nombreuses guerres pour agrandir le territoire. Vauban fortifie les frontières."
+      ],
+      "image_ref": "louis_xiv_versailles.jpg",
+      "difficulty": 1
+    },
+    {
+      "id": "HIST020",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["XVIIIe siècle", "Lumières", "Crise Ancien Régime"],
+      "title": "Le Siècle des Lumières et la Crise de l'Ancien Régime",
+      "key_points": [
+        "Louis XV (1715-1774) : Long règne marqué par des guerres coûteuses (Guerre de Sept Ans, perte de colonies comme le Canada) et l'impopularité croissante de la monarchie.",
+        "Siècle des Lumières : Mouvement intellectuel et philosophique qui critique l'absolutisme, les privilèges, l'intolérance religieuse. Penseurs majeurs : Montesquieu (séparation des pouvoirs), Voltaire (liberté d'expression, tolérance), Rousseau (contrat social, souveraineté populaire), Diderot (Encyclopédie).",
+        "Louis XVI (1774-1792) : Roi au début de la Révolution. Tente des réformes (Turgot, Necker) mais échoue face aux résistances.",
+        "Crise : Déficit budgétaire aggravé par l'aide à la guerre d'indépendance américaine. Crise économique et sociale (mauvaises récoltes). Société d'ordres inégalitaire (Tiers-État supporte les impôts).",
+        "Convocation des États Généraux (mai 1789) : Pour trouver une solution à la crise financière, marque le début de la Révolution."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "HIST021",
+      "category": "Histoire",
+      "type": "Term",
+      "tags": ["XVIIIe siècle", "Lumières"],
+      "term": "Siècle des Lumières",
+      "definition": "Mouvement intellectuel européen du XVIIIe siècle qui mettait en avant la raison, la science, la tolérance et les libertés individuelles, et critiquait l'absolutisme et l'obscurantisme.",
+      "difficulty": 1
+    },
+     {
+      "id": "HIST022",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["XVIIIe siècle", "Lumières"],
+      "front": "Citez des philosophes des Lumières importants.",
+      "back": "Montesquieu, Voltaire, Jean-Jacques Rousseau, Denis Diderot.",
+      "difficulty": 1
+    },
+    {
+      "id": "HIST023",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["XVIIIe siècle", "Révolution"],
+      "question": "Quel événement marque traditionnellement le début de la Révolution française ?",
+      "answer": "La prise de la Bastille",
+       "options": [
+         {"text": "Le sacre de Louis XVI", "isCorrect": false},
+         {"text": "La convocation des États Généraux", "isCorrect": false},
+         {"text": "La prise de la Bastille", "isCorrect": true},
+         {"text": "La fuite du roi à Varennes", "isCorrect": false}
+      ],
+      "notes": "Bien que la Révolution commence réellement avec les États Généraux et le Serment du Jeu de Paume.",
+      "difficulty": 1
+    },
+    {
+      "id": "HIST101",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Ancien Régime", "Société", "XVIIIe siècle"],
+      "period": "Avant 1789",
+      "title": "La France sous l'Ancien Régime (Contexte Révolution)",
+      "key_points": [
+        "Société divisée en trois ordres : Clergé, Noblesse, Tiers-État (bourgeois, artisans, paysans, ~98% pop).",
+        "Privilèges : Clergé et Noblesse possèdent de grands biens et sont largement exemptés d'impôts.",
+        "Religion : Catholicisme est religion d'État, l'Église joue un rôle majeur (vie religieuse, éducative, sociale).",
+        "Population : Forte croissance au XVIIIe siècle (19 -> 28 millions entre 1700 et 1789).",
+        "Territoire : Agrandissement par guerres et mariages."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST102",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Révolution française", "Causes", "Lumières", "XVIIIe siècle"],
+      "period": "Avant 1789",
+      "title": "Les Causes de la Révolution Française",
+      "key_points": [
+        "Influence des Lumières : Critique de la monarchie absolue et des privilèges (Descartes, Montesquieu, Voltaire, Rousseau).",
+        "Crise financière : Déficit budgétaire aggravé par le soutien à la guerre d'indépendance américaine (1776) et difficultés à collecter l'impôt.",
+        "Incapacité politique : Louis XVI peine à imposer des réformes face à la noblesse et au clergé.",
+        "Crise économique et sociale : Mauvaises récoltes (1787-88), hausse des prix (inflation), famine, mécontentement général (paysans, bourgeois).",
+        "Convocation des États Généraux : Décidée en août 1788 pour mai 1789, avec rédaction des cahiers de doléances."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST103",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Révolution française", "Dates clés"],
+      "date": "1789",
+      "event": "Année charnière de la Révolution",
+      "details": "5 Mai: Ouverture États Généraux. 17 Juin: Tiers-État -> Assemblée Nationale. 20 Juin: Serment du Jeu de Paume. 9 Juillet: Assemblée Constituante. 14 Juillet: Prise de la Bastille. 4 Août: Abolition des privilèges. 26 Août: Vote de la DDHC. 5-6 Octobre: Marche sur Versailles, retour du Roi à Paris.",
+      "difficulty": 2
+    },
+      {
+      "id": "HIST104",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["Révolution française", "DDHC"],
+      "date": "1789",
+      "question": "Quel texte fondamental proclamant les libertés et l'égalité a été voté le 26 août 1789 ?",
+      "answer": "La Déclaration des Droits de l'Homme et du Citoyen",
+      "options": [
+         {"text": "La Constitution civile du clergé", "isCorrect": false},
+         {"text": "La première Constitution française", "isCorrect": false},
+         {"text": "La Déclaration des Droits de l'Homme et du Citoyen", "isCorrect": true},
+         {"text": "L'Édit de Nantes", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST105",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Révolution française", "DDHC", "Principes"],
+      "date": "1789",
+      "front": "Citez 3 principes clés de la Déclaration des Droits de l'Homme et du Citoyen (1789)",
+      "back": "Art. 1: Les hommes naissent et demeurent libres et égaux en droits. Art. 4: La liberté consiste à faire ce qui ne nuit pas à autrui. Art. 10: Nul ne doit être inquiété pour ses opinions, même religieuses (liberté de conscience).",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST106",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Révolution française", "Dates clés", "Monarchie Constitutionnelle"],
+      "date": "1790",
+      "event": "Organisation de la Monarchie Constitutionnelle",
+      "details": "Création de 83 départements. Constitution civile du clergé (divise le pays). Fête de la Fédération (14 juillet).",
+      "difficulty": 3
+    },
+     {
+      "id": "HIST107",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Révolution française", "Dates clés", "Fin Monarchie"],
+      "date": "1791",
+      "event": "Crise de la Monarchie Constitutionnelle",
+      "details": "Mort de Mirabeau. Fuite du Roi et arrestation à Varennes (Juin). Fusillade du Champ de Mars (Juillet). Adoption de la Constitution de 1791 (Septembre).",
+      "difficulty": 3
+    },
+     {
+      "id": "HIST108",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Révolution française", "Dates clés", "Première République"],
+      "date": "1792",
+      "event": "Chute de la Monarchie et Proclamation de la République",
+      "details": "Avril: Déclaration de guerre à l'Autriche. 10 Août: Prise des Tuileries, suspension du Roi. Sept: Massacres de Septembre. 20 Sept: Victoire de Valmy. 21-25 Sept: Abolition de la royauté, proclamation de la 1ère République ('An I').",
+      "image_ref": "valmy_bataille.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST109",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Révolution française", "Dates clés", "Terreur"],
+      "date": "1793-1794",
+      "event": "La Terreur",
+      "details": "Jan 1793: Exécution de Louis XVI. Fév: Levée en masse. Mars: Début révolte vendéenne. Avril: Création Comité de Salut Public. Mai-Juin: Arrestation Girondins. Sept 1793 - Juil 1794: Dictature de Robespierre, Terreur (loi des suspects). 28 Juil 1794: Exécution de Robespierre, fin de la Terreur.",
+      "image_ref": "execution_louis_xvi.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST110",
+      "category": "Histoire",
+      "type": "Term",
+      "tags": ["Révolution française", "Terreur"],
+      "term": "Comité de Salut Public",
+      "definition": "Organe de gouvernement révolutionnaire créé en avril 1793 par la Convention pour faire face aux dangers menaçant la République (guerre extérieure, révoltes intérieures). Dirigé notamment par Robespierre pendant la Terreur.",
+      "difficulty": 3
+    },
+    {
+      "id": "HIST111",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Révolution française", "Dates clés", "Directoire"],
+      "date": "1795-1799",
+      "event": "Le Directoire",
+      "details": "Oct 1795: Mise en place du Directoire (5 directeurs). Régime instable, difficultés économiques. Campagnes d'Italie de Bonaparte (1796-97). Expédition d'Égypte (1798). Loi Jourdan (service militaire obligatoire, 1798). 9-10 Nov 1799 (18 Brumaire): Coup d'État de Bonaparte, fin du Directoire.",
+      "difficulty": 3
+    },
+    {
+      "id": "HIST112",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Révolution française", "Héritage", "Institutions"],
+      "period": "1789-1799",
+      "title": "Héritage et changements de la Révolution",
+      "key_points": [
+        "Fin de la monarchie absolue et des privilèges.",
+        "Proclamation des Droits de l'Homme et du Citoyen (liberté, égalité).",
+        "Souveraineté nationale.",
+        "Nouvelle organisation administrative : création des départements (1790).",
+        "Séparation de l'Église et de l'État amorcée (Constitution civile du clergé, puis séparation sous le Directoire).",
+        "Réformes durables : système métrique (poids/mesures), Code Civil préparé, grandes écoles (Polytechnique), Archives Nationales, Musée du Louvre...",
+        "Abolition de l'esclavage (1794, mais rétabli ensuite)."
+      ],
+      "difficulty": 1
+    },
+      {
+      "id": "HIST113",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Napoléon", "Consulat", "Réformes"],
+      "period": "1799-1804",
+      "title": "Le Consulat (Napoléon Bonaparte)",
+      "key_points": [
+        "Instauré après le coup d'État du 18 Brumaire (Nov 1799). 3 consuls, mais Bonaparte (Premier Consul) détient le pouvoir réel.",
+        "Consul à vie en 1802.",
+        "Œuvre de réorganisation et de centralisation :",
+        "- Administration : Création des préfets (1800), maires nommés.",
+        "- Finances : Création de la Banque de France (1800), Franc germinal (1803).",
+        "- Justice : Réorganisation, Conseil d'État.",
+        "- Religion : Concordat avec le Pape (1801, rétablit relations avec l'Église).",
+        "- Éducation : Création des lycées (1802), Université refondée.",
+        "- Société : Légion d'honneur (1802), Code civil (1804).",
+        "- Colonies : Rétablissement de l'esclavage (1802)."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "HIST114",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["Napoléon", "Consulat", "Code Civil"],
+      "date": "1804",
+      "question": "Quel texte majeur, organisant la vie civile (famille, propriété, contrats), a été promulgué par Napoléon en 1804 ?",
+      "answer": "Le Code Civil",
+       "options": [
+         {"text": "Le Concordat", "isCorrect": false},
+         {"text": "La Déclaration des Droits de l'Homme", "isCorrect": false},
+         {"text": "Le Code Civil", "isCorrect": true},
+         {"text": "La Constitution de l'An VIII", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST115",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Napoléon", "Empire", "Guerres"],
+      "period": "1804-1815",
+      "title": "Le Premier Empire (Napoléon Ier)",
+      "key_points": [
+        "Proclamation : Napoléon se fait sacrer Empereur des Français le 2 décembre 1804 à Notre-Dame.",
+        "Apogée : Domination sur une grande partie de l'Europe grâce aux victoires militaires (Austerlitz 1805, Iéna 1806, Wagram 1809). Diffusion des idées révolutionnaires et du Code Civil.",
+        "Organisation : Noblesse d'Empire créée. L'Empire compte jusqu'à 130 départements (vers 1811).",
+        "Déclin : Blocus continental contre l'Angleterre. Erreurs coûteuses : guerre d'Espagne (1808), campagne de Russie (1812).",
+        "Chute : Défaites (Leipzig 1813). Abdication et exil à l'île d'Elbe (1814).",
+        "Cent-Jours (1815) : Retour de Napoléon. Défaite finale à Waterloo (18 juin 1815). Exil définitif à Sainte-Hélène (mort en 1821)."
+      ],
+      "image_ref": "sacre_napoleon.jpg",
+      "difficulty": 2
+    },
+      {
+      "id": "HIST116",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["Napoléon", "Empire", "Batailles"],
+      "date": "1815",
+      "question": "Quelle bataille marque la défaite finale de Napoléon en 1815 ?",
+      "answer": "Waterloo",
+       "options": [
+         {"text": "Austerlitz", "isCorrect": false},
+         {"text": "Trafalgar", "isCorrect": false},
+         {"text": "Leipzig", "isCorrect": false},
+         {"text": "Waterloo", "isCorrect": true}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST117",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["XIXe siècle", "Restauration", "Monarchie de Juillet", "Révolutions"],
+      "period": "1815-1848",
+      "title": "La Restauration et la Monarchie de Juillet",
+      "key_points": [
+        "Restauration (1815-1830) : Retour de la monarchie avec Louis XVIII puis Charles X (frères de Louis XVI). Monarchie limitée par une Charte.",
+        "Trois Glorieuses (Juillet 1830) : Révolution parisienne qui chasse Charles X.",
+        "Monarchie de Juillet (1830-1848) : Louis-Philippe Ier ('roi des Français'). Régime plus libéral mais favorisant la bourgeoisie. Modernisation économique (début révolution industrielle).",
+        "Conquête de l'Algérie : Débute en 1830.",
+        "Abolition définitive de l'esclavage : 1848.",
+        "Révolution de 1848 : Met fin à la Monarchie de Juillet et proclame la IIème République."
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "HIST118",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["XIXe siècle", "Républiques"],
+      "date": "1848",
+      "front": "Quel régime politique est proclamé en France après la révolution de 1848 ?",
+      "back": "La Deuxième République.",
+      "notes": "Elle instaure le suffrage universel masculin.",
+      "difficulty": 2
+    },
+      {
+      "id": "HIST119",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["XIXe siècle", "Second Empire", "Napoléon III"],
+      "period": "1852-1870",
+      "title": "Le Second Empire (Napoléon III)",
+      "key_points": [
+        "Origine : Louis-Napoléon Bonaparte (neveu de Napoléon Ier) est élu Président de la IIe République (1848). Fait un coup d'État en 1851 et se proclame Empereur Napoléon III en 1852.",
+        "Régime : D'abord autoritaire, puis plus libéral après 1860.",
+        "Œuvre : Forte modernisation économique (industrie, banques - Crédit Lyonnais, Société Générale, chemin de fer), grands travaux (transformation de Paris par Haussmann, Canal de Suez par Lesseps, Tunnel du Mont-Cenis).",
+        "Politique étrangère active : Guerre de Crimée (victoire contre la Russie), aide à l'unité italienne (annexion de Nice et la Savoie en 1860), expédition du Mexique (échec).",
+        "Chute : Guerre franco-prussienne de 1870. Défaite de Sedan (Napoléon III capturé). Proclamation de la IIIème République (4 septembre 1870)."
+      ],
+      "image_ref": "napoleon_III.jpg",
+      "difficulty": 2
+    },
+     {
+      "id": "HIST120",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Second Empire"],
+      "name": "Napoléon III",
+      "period": "1808 - 1873",
+      "key_facts": [
+        "Neveu de Napoléon Ier.",
+        "Président de la IIème République (1848-1852).",
+        "Empereur des Français (1852-1870).",
+        "A modernisé la France (économie, urbanisme).",
+        "Renversé après la défaite de Sedan (1870)."
+      ],
+      "difficulty": 2
+    },
+  
+    // --- PÉRIODE 2: 1871 - 1969 ---
+    {
+      "id": "HIST121",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["IIIe République", "Débuts", "Commune"],
+      "period": "1870-1871",
+      "title": "Les Débuts difficiles de la IIIème République",
+      "key_points": [
+        "Proclamation : Le 4 septembre 1870, après la défaite de Sedan.",
+        "Guerre continue : Paris assiégé par les Prussiens.",
+        "Traité de Francfort (Mai 1871) : Fin de la guerre, mais perte de l'Alsace et d'une partie de la Lorraine. Sentiment de revanche ('ligne bleue des Vosges').",
+        "La Commune de Paris (Mars-Mai 1871) : Insurrection populaire à Paris refusant la défaite et le gouvernement conservateur (Thiers). Écrasée dans le sang par l'armée versaillaise."
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "HIST122",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["IIIe République", "Institutions", "Libertés"],
+      "period": "1871-1940",
+      "title": "L'Œuvre de la IIIème République",
+      "key_points": [
+        "Régime parlementaire : Grande influence de la Chambre des députés.",
+        "Œuvre considérable (surtout après 1879) :",
+        "- Instruction publique : Lois Jules Ferry (années 1880) rendent l'école primaire publique, laïque, gratuite et obligatoire (6-13 ans).",
+        "- Libertés fondamentales : Liberté de la presse, de réunion, syndicale (loi 1884), d'association (loi 1901).",
+        "- Laïcité : Loi de séparation des Églises et de l'État (1905).",
+        "- Suffrage universel (masculin).",
+        "Expansion coloniale : Apogée de l'empire colonial français (Afrique, Asie)."
+      ],
+      "image_ref": "jules_ferry_ecole.jpg",
+      "difficulty": 1
+    },
+      {
+      "id": "HIST123",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["IIIe République", "École", "Laïcité"],
+      "name": "Jules Ferry",
+      "period": "1832 - 1893",
+      "key_facts": [
+        "Homme politique majeur de la IIIème République.",
+        "Principal artisan des lois scolaires rendant l'école gratuite, laïque et obligatoire.",
+        "Partisan de l'expansion coloniale."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST124",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["IIIe République", "Laïcité"],
+      "date": "1905",
+      "question": "Quelle loi majeure instaure la séparation des Églises et de l'État en France ?",
+      "answer": "La loi de 1905",
+      "options": [
+         {"text": "Les lois Jules Ferry", "isCorrect": false},
+         {"text": "La loi sur les associations (1901)", "isCorrect": false},
+         {"text": "La loi de 1905", "isCorrect": true},
+         {"text": "Le Concordat de 1801", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "HIST125",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["IIIe République", "Crises", "Antisémitisme"],
+      "period": "1894-1906",
+      "front": "Qu'est-ce que l'Affaire Dreyfus ?",
+      "back": "Crise politique majeure : un capitaine juif, Alfred Dreyfus, est accusé à tort d'espionnage, condamné et déporté. L'affaire divise la France entre 'dreyfusards' (qui croient en son innocence, ex: Zola avec 'J'accuse') et 'anti-dreyfusards' (souvent antisémites). Dreyfus sera finalement réhabilité.",
+      "image_ref": "affaire_dreyfus.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST126",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Première Guerre Mondiale", "Causes", "Déroulement"],
+      "period": "1914-1918",
+      "title": "La Première Guerre Mondiale (La Grande Guerre)",
+      "key_points": [
+        "Causes : Tensions nationalistes, rivalités coloniales, course aux armements, système d'alliances. Déclencheur: attentat de Sarajevo (Juin 1914).",
+        "Engrenage : La France entre en guerre (3 août 1914) aux côtés de la Russie et de l'Angleterre (Triple Entente) contre l'Allemagne et l'Autriche-Hongrie (Triple Alliance).",
+        "Union Sacrée : Ralliement de tous les Français à la défense du pays.",
+        "Guerre de tranchées : Longue et meurtrière guerre de position sur le front Ouest.",
+        "Tournant (1917) : Révolution russe (retrait Russie), entrée en guerre des États-Unis.",
+        "Fin : Contre-offensive alliée (Clémenceau, Foch). Armistice signé le 11 novembre 1918.",
+        "Bilan : Très lourd pour la France (1,45 million de morts, pays dévasté, endettement). Forte mobilisation des femmes ('munitionnettes').",
+        "Traité de Versailles (1919) : La France récupère l'Alsace-Lorraine. Conditions très dures pour l'Allemagne."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST127",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Première Guerre Mondiale", "Soldats"],
+      "front": "Comment appelait-on les soldats français pendant la Première Guerre Mondiale ?",
+      "back": "Les Poilus.",
+      "difficulty": 1
+    },
+      {
+      "id": "HIST128",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Entre-deux-guerres", "Crise", "Totalitarisme", "Front Populaire"],
+      "period": "1919-1939",
+      "title": "L'Entre-deux-guerres",
+      "key_points": [
+        "Difficultés : Reconstruction, crise économique mondiale (1929 et suiv.), instabilité politique (affaire Stavisky, ligues).",
+        "Montée des totalitarismes : Russie (1917), Italie (1922), Allemagne (1933).",
+        "Pacifisme : Fort courant pacifiste en France ('plus jamais ça'), construction de la ligne Maginot.",
+        "Front Populaire (1936-1938) : Gouvernement de gauche dirigé par Léon Blum. Mesures sociales importantes (accords Matignon : congés payés, semaine de 40h), nationalisations (chemins de fer).",
+        "Vers la guerre : Accords de Munich (1938) avec Hitler, considérés comme une politique d'apaisement inefficace."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST129",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["Entre-deux-guerres", "Front Populaire"],
+      "date": "1936",
+      "question": "Quelle mesure sociale emblématique a été instaurée par le Front Populaire en 1936 ?",
+      "answer": "Les congés payés",
+      "options": [
+         {"text": "Le droit de vote des femmes", "isCorrect": false},
+         {"text": "La sécurité sociale", "isCorrect": false},
+         {"text": "Les congés payés", "isCorrect": true},
+         {"text": "La retraite à 60 ans", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST130",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Seconde Guerre Mondiale", "Défaite", "Occupation", "Vichy"],
+      "period": "1939-1942",
+      "title": "La Seconde Guerre Mondiale : Défaite et Occupation",
+      "key_points": [
+        "Début : La France déclare la guerre à l'Allemagne en septembre 1939.",
+        "Défaite : Invasion allemande rapide en mai-juin 1940 ('Blitzkrieg'). Armistice signé par le Maréchal Pétain (22 juin 1940).",
+        "Occupation : France divisée en zone occupée (Nord et Ouest) et zone libre (Sud) jusqu'en novembre 1942, date de l'invasion de la zone libre.",
+        "Régime de Vichy : Instauré par Pétain ('État Français'), capitale Vichy. Devise : 'Travail, Famille, Patrie'. Politique de collaboration avec l'Allemagne nazie."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST131",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Seconde Guerre Mondiale", "Résistance", "France Libre"],
+      "period": "1940-1945",
+      "title": "La Résistance et la France Libre",
+      "key_points": [
+        "Appel du 18 juin 1940 : Depuis Londres, le Général de Gaulle refuse l'armistice et appelle à continuer le combat.",
+        "France Libre : Organisation de résistance extérieure créée par De Gaulle.",
+        "Résistance intérieure : Mouvements clandestins luttant contre l'occupant et Vichy.",
+        "Unification : Jean Moulin unifie les mouvements de résistance intérieure sous l'autorité de De Gaulle en créant le Conseil National de la Résistance (CNR) en 1943.",
+        "STO (Service du Travail Obligatoire) : Impose le travail en Allemagne aux jeunes Français (1943), pousse beaucoup à rejoindre la Résistance."
+      ],
+      "image_ref": "appel_18_juin.jpg",
+      "difficulty": 1
+    },
+      {
+      "id": "HIST132",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["Seconde Guerre Mondiale", "Résistance"],
+      "name": "Jean Moulin",
+      "period": "1899 - 1943",
+      "key_facts": [
+        "Préfet, résistant français.",
+        "Envoyé par De Gaulle pour unifier la Résistance intérieure.",
+        "Fondateur et premier président du Conseil National de la Résistance (CNR).",
+        "Arrêté par la Gestapo, torturé, meurt lors de son transfert en Allemagne.",
+        "Figure emblématique de la Résistance, repose au Panthéon."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST133",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Seconde Guerre Mondiale", "Libération"],
+      "period": "1944-1945",
+      "title": "La Libération de la France",
+      "key_points": [
+        "Rôle des armées françaises : Aux côtés des Alliés (Généraux Juin en Italie, de Lattre en Provence, Leclerc en Normandie et à Paris).",
+        "Débarquement de Normandie : 6 juin 1944.",
+        "Débarquement de Provence : 15 août 1944.",
+        "Libération de Paris : Août 1944, avec l'aide de la Résistance.",
+        "Fin de la guerre : Capitulation allemande signée le 8 mai 1945.",
+        "Conséquences : La France obtient une place de membre permanent au Conseil de sécurité de l'ONU."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "HIST134",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Seconde Guerre Mondiale", "Dates clés"],
+      "date": "8 mai 1945",
+      "front": "Que commémore-t-on le 8 mai en France ?",
+      "back": "La victoire des Alliés sur l'Allemagne nazie et la fin de la Seconde Guerre mondiale en Europe.",
+      "notes": "Jour férié.",
+      "difficulty": 1
+    },
+    {
+      "id": "HIST135",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["IVe République", "Reconstruction", "Décolonisation", "Europe"],
+      "period": "1946-1958",
+      "title": "La IVème République",
+      "key_points": [
+        "Mise en place : Constitution adoptée par référendum en octobre 1946.",
+        "Reconstruction : Engagée avec l'aide américaine (Plan Marshall).",
+        "Réformes du CNR : Application des mesures prévues par le Conseil National de la Résistance (nationalisations, création Sécurité Sociale, vote des femmes - acquis en 1944).",
+        "Instabilité politique : Régime parlementaire avec de nombreux gouvernements successifs.",
+        "Début construction européenne : Traité de Paris (1951) crée la CECA (Communauté Européenne du Charbon et de l'Acier), ancêtre de l'UE.",
+        "Guerres coloniales : Guerre d'Indochine (perdue, défaite de Dien Bien Phu 1954), début de la guerre d'Algérie (1954).",
+        "Fin : Crise due à la guerre d'Algérie. Insurrection du 13 mai 1958 à Alger. Retour au pouvoir du Général de Gaulle qui met en place la Vème République."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "HIST136",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["IVe République", "Europe", "CECA"],
+      "date": "1951",
+      "question": "Quelle organisation, ancêtre de l'Union Européenne, a été créée par le Traité de Paris en 1951 ?",
+      "answer": "La CECA (Communauté Européenne du Charbon et de l'Acier)",
+       "options": [
+         {"text": "L'OTAN", "isCorrect": false},
+         {"text": "La CECA", "isCorrect": true},
+         {"text": "Le Conseil de l'Europe", "isCorrect": false},
+         {"text": "La CEE", "isCorrect": false}
+      ],
+      "difficulty": 3
+    },
+     {
+      "id": "HIST137",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Ve République", "De Gaulle", "Institutions", "Algérie", "Politique étrangère"],
+      "period": "1958-1969",
+      "title": "Les Débuts de la Vème République (De Gaulle)",
+      "key_points": [
+        "Constitution de 1958 : Approuvée par référendum, renforce le pouvoir exécutif (Président).",
+        "Présidence De Gaulle (1959-1969) : Volonté d'un État fort et respecté.",
+        "Fin Guerre d'Algérie : Politique d'autodétermination. Accords d'Évian (mars 1962) mènent à l'indépendance.",
+        "Réformes institutionnelles : Élection du Président au suffrage universel direct (référendum 1962).",
+        "Politique étrangère : Indépendance nationale, développement dissuasion nucléaire (1960), retrait du commandement intégré de l'OTAN (1966), reconnaissance Chine populaire, amitié franco-allemande (Traité de l'Élysée 1963).",
+        "Mai 1968 : Crise sociale et politique majeure.",
+        "Départ De Gaulle : Suite à l'échec du référendum sur la régionalisation et la réforme du Sénat (avril 1969)."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "HIST138",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Ve République", "De Gaulle", "Constitution"],
+      "date": "1962",
+      "front": "Comment le Président de la République est-il élu depuis 1962 ?",
+      "back": "Au suffrage universel direct (par tous les citoyens électeurs).",
+      "notes": "Réforme voulue par De Gaulle et adoptée par référendum.",
+      "difficulty": 1
+    },
+     {
+      "id": "HIST139",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Ve République", "De Gaulle", "Mai 68"],
+      "date": "Mai-Juin 1968",
+      "event": "Mai 68",
+      "details": "Mouvement de contestation étudiante puis sociale (grève générale) qui paralyse la France. Crise politique majeure pour le pouvoir gaulliste.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST140",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Ve République", "De Gaulle"],
+      "date": "1969",
+      "front": "Pourquoi le Général de Gaulle a-t-il démissionné en 1969 ?",
+      "back": "Après l'échec d'un référendum sur la réforme du Sénat et la régionalisation, pour lequel il avait engagé sa responsabilité.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST141",
+      "category": "Histoire",
+      "type": "Term",
+      "tags": ["Colonialisme", "Définitions"],
+      "term": "Colonisation",
+      "definition": "Création de colonies après des conquêtes territoriales. Une colonie est un territoire occupé et administré directement par un État étranger (la métropole).",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST142",
+      "category": "Histoire",
+      "type": "Term",
+      "tags": ["Colonialisme", "Définitions"],
+      "term": "Protectorat",
+      "definition": "Régime établi par traité où un État fort (protecteur) contrôle la diplomatie et la défense d'un État faible, qui garde son autonomie politique intérieure. Ex: Maroc (1912-1956), Tunisie (1881-1956).",
+      "difficulty": 3
+    },
+    {
+      "id": "HIST143",
+      "category": "Histoire",
+      "type": "Term",
+      "tags": ["Colonialisme", "Définitions", "SDN", "Entre-deux-guerres"],
+      "term": "Territoire sous Mandat (SDN)",
+      "definition": "Anciennes colonies allemandes ou ottomanes confiées par la Société des Nations (après 1919) à des puissances victorieuses (ex: France pour Syrie et Liban). Statut transitoire vers l'indépendance.",
+      "difficulty": 3
+    },
+    {
+      "id": "HIST144",
+      "category": "Histoire",
+      "type": "Term",
+      "tags": ["Colonialisme", "Esclavage", "Traite"],
+      "term": "Traite des esclaves",
+      "definition": "Acte de réduire des êtres humains en esclavage, de les vendre et de les transporter contre leur gré. Utilisée dans les colonies pour l'économie et la domesticité.",
+      "notes": "Sujet sensible et condamné. Différent de l'esclavage lui-même.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST145",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Colonialisme", "Premier Empire", "Amériques", "Inde"],
+      "period": "1608 - 1803",
+      "title": "Le Premier Empire Colonial Français (sous la Monarchie)",
+      "details": "Après les découvertes de J. Cartier (Canada 1535), développement sous Richelieu, Colbert (Louis XIV). Création de Québec (1608), Montréal (1642), Louisiane (1682), Antilles (Martinique/Guadeloupe 1635, St-Domingue 1665), Guyane (1643), comptoirs en Inde (Pondichéry 1673) et Afrique (St-Louis 1659, Gorée 1677). Utilisation de l'esclavage.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST146",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Colonialisme", "Premier Empire", "Dates clés"],
+      "date": "1608",
+      "front": "Quelle ville importante a été fondée par les Français en Amérique du Nord en 1608 ?",
+      "back": "Québec (par Samuel de Champlain).",
+      "difficulty": 2
+    },
+     {
+      "id": "HIST147",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Colonialisme", "Premier Empire", "Dates clés", "Guerre de Sept Ans"],
+      "date": "1763",
+      "front": "Quel traité marque une perte importante de territoires pour le premier empire colonial français (notamment en Amérique du Nord) ?",
+      "back": "Le Traité de Paris (1763), après la défaite lors de la Guerre de Sept Ans contre l'Angleterre.",
+      "difficulty": 2
+    },
+     {
+      "id": "HIST148",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["Colonialisme", "Premier Empire", "Dates clés", "Napoléon"],
+      "date": "1803",
+      "question": "À quel pays Napoléon Bonaparte a-t-il vendu la Louisiane en 1803 ?",
+      "answer": "Aux États-Unis",
+       "options": [
+         {"text": "À l'Espagne", "isCorrect": false},
+         {"text": "À l'Angleterre", "isCorrect": false},
+         {"text": "Au Canada", "isCorrect": false},
+         {"text": "Aux États-Unis", "isCorrect": true}
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST149",
+      "category": "Histoire",
+      "type": "Timeline",
+      "tags": ["Colonialisme", "Second Empire", "XIXe siècle", "Afrique", "Asie", "Océanie"],
+      "period": "1830 - 1940",
+      "title": "Le Second Empire Colonial Français (Renaissance et Apogée)",
+      "details": "Contexte de révolution industrielle et rivalités. Reprise de l'expansion : Algérie (1830), Afrique de l'Est (Nossi-Bé 1841, Mayotte 1843, Obock 1862), Sénégal (Faidherbe 1854), Liban (intervention 1860), Asie (Cochinchine 1862, Cambodge 1863), Pacifique (Tahiti, Marquises, Nlle-Calédonie 1853). Apogée sous la IIIe République (Jules Ferry). Création AOF (1895) et AEF (1910). Conférence de Berlin (1884-85). Mandats SDN (1920). Exposition coloniale (1931).",
+      "difficulty": 2
+    },
+     {
+      "id": "HIST150",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Colonialisme", "Second Empire", "Esclavage", "Abolition"],
+      "date": "27 avril 1848",
+      "front": "Quelle décision majeure concernant l'esclavage a été prise par la Seconde République en 1848 ?",
+      "back": "L'abolition définitive de l'esclavage dans toutes les colonies françaises (décret préparé par Victor Schoelcher).",
+      "image_ref": "abolition_esclavage_1848.jpg",
+      "difficulty": 1
+    },
+     {
+      "id": "HIST151",
+      "category": "Histoire",
+      "type": "Figure",
+      "tags": ["Colonialisme", "Esclavage", "Abolition", "IIe République"],
+      "name": "Victor Schoelcher",
+      "period": "1804 - 1893",
+      "key_facts": [
+        "Homme politique français.",
+        "Figure clé de l'abolitionnisme.",
+        "A préparé le décret du 27 avril 1848 abolissant définitivement l'esclavage dans les colonies françaises."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "HIST152",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Colonialisme", "Second Empire", "Afrique", "Algérie"],
+      "date": "1830",
+      "front": "Quelle conquête majeure marque le début de la renaissance de l'empire colonial français en 1830 ?",
+      "back": "La conquête de l'Algérie (prise d'Alger).",
+      "notes": "L'Algérie deviendra 3 départements français en 1848.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST153",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Colonialisme", "Second Empire", "Asie", "Indochine"],
+      "front": "Quels territoires composaient principalement l'Indochine française ?",
+      "back": "La Cochinchine (colonie), l'Annam, le Tonkin, le Cambodge et le Laos (protectorats).",
+      "difficulty": 3
+    },
+    {
+      "id": "HIST154",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Colonialisme", "Second Empire", "Afrique", "Conférence de Berlin"],
+      "date": "1884-1885",
+      "front": "Quel était l'objectif de la Conférence de Berlin (1884-1885) ?",
+      "back": "Organisée par Bismarck, elle visait à établir des règles pour la colonisation de l'Afrique afin d'éviter les conflits entre puissances européennes.",
+      "difficulty": 3
+    },
+     {
+      "id": "HIST155",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["Colonialisme", "Second Empire"],
+      "date": "1931",
+      "question": "En quelle année l'Empire colonial français a-t-il atteint son apogée (étendue maximale) ?",
+      "answer": "Vers 1931",
+       "options": [
+         {"text": "1870", "isCorrect": false},
+         {"text": "1914", "isCorrect": false},
+         {"text": "1931", "isCorrect": true},
+         {"text": "1945", "isCorrect": false}
+      ],
+       "notes": "Marqué par l'Exposition coloniale internationale de Paris.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST156",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Colonialisme", "Décolonisation", "XXe siècle"],
+      "period": "1944 - 1980",
+      "title": "La Décolonisation",
+      "key_points": [
+        "Contexte : Affaiblissement de la France après 1945, rivalité USA/URSS (anti-coloniales), montée des nationalismes dans les colonies, coût croissant de l'empire.",
+        "Indépendances négociées ou conflictuelles :",
+        "- Liban et Syrie (1944/46).",
+        "- Guerre d'Indochine (1946-1954) -> Indépendance Vietnam, Laos, Cambodge.",
+        "- Maroc et Tunisie (protectorats, indépendance 1956).",
+        "- Afrique Noire (majorité 1958-1960, sous De Gaulle).",
+        "- Guerre d'Algérie (1954-1962) -> Indépendance après les Accords d'Évian (conflit majeur et traumatisant).",
+        "- Indépendances plus tardives : Comores (1975, sauf Mayotte), Djibouti (1977), Vanuatu (1980)."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "HIST157",
+      "category": "Histoire",
+      "type": "Quiz",
+      "tags": ["Décolonisation", "Algérie", "Dates clés"],
+      "date": "1962",
+      "question": "En quelle année l'Algérie a-t-elle obtenu son indépendance ?",
+      "answer": "1962",
+       "options": [
+         {"text": "1954", "isCorrect": false},
+         {"text": "1958", "isCorrect": false},
+         {"text": "1960", "isCorrect": false},
+         {"text": "1962", "isCorrect": true}
+      ],
+      "notes": "Après une guerre longue et douloureuse (1954-1962) et les Accords d'Évian.",
+      "difficulty": 1
+    },
+     {
+      "id": "HIST158",
+      "category": "Histoire",
+      "type": "Lesson",
+      "tags": ["Colonialisme", "Héritage", "Bilan", "Controverse"],
+      "title": "L'Héritage Colonial : Un Bilan Contrasté",
+      "key_points": [
+        "Sujet encore polémique et débattu.",
+        "Aspects négatifs : Privation de souveraineté, exploitation économique, participation forcée aux guerres, frontières artificielles (sources de conflits), paternalisme, travail forcé, développement inégal.",
+        "Aspects positifs (selon le document) : Fin de la traite/razzias/famines locales, instauration paix civile relative, progrès sanitaire/hygiène (hausse démographique), efforts d'instruction (langue commune), infrastructures (routes, ports, barrages...).",
+        "Contexte : La colonisation s'est faite dans un contexte historique différent, avec une conception des rapports humains et sociaux différente d'aujourd'hui.",
+        "Charge économique : La colonisation a aussi représenté un coût important pour la France."
+      ],
+      "notes": "Présenter les points factuels, éviter les jugements de valeur simplistes dans un quiz.",
+      "difficulty": 3
+    },
+    {
+      "id": "HIST159",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Colonialisme", "Héritage", "Outre-mer", "Géographie"],
+      "front": "Quel est l'héritage territorial direct de l'empire colonial pour la France d'aujourd'hui ?",
+      "back": "Les Départements et Régions d'Outre-Mer (DROM), les Collectivités d'Outre-Mer (COM), la Nouvelle-Calédonie et les TAAF.",
+      "notes": "Voir GEO011 pour le détail.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST160",
+      "category": "Histoire",
+      "type": "Term",
+      "tags": ["Colonialisme", "Héritage", "Francophonie", "International"],
+      "term": "Francophonie (OIF)",
+      "definition": "Organisation Internationale de la Francophonie. Regroupe les pays ayant le français en partage. Espace de dialogue, coopération culturelle, politique et économique. Fondée en 1970 (Niamey), elle est un héritage important des liens tissés par l'histoire.",
+      "notes": "Rassemble environ 88 états et gouvernements (statut variable), +300M de francophones.",
+      "difficulty": 2
+    },
+    {
+      "id": "HIST161",
+      "category": "Histoire",
+      "type": "Flashcard",
+      "tags": ["Francophonie", "International"],
+      "front": "Quel est le rôle de l'Organisation Internationale de la Francophonie (OIF) ?",
+      "back": "Promouvoir la langue française et la diversité culturelle, la paix, la démocratie, les droits de l'homme, l'éducation et le développement durable entre ses membres.",
+      "difficulty": 2
+    }
+  ]

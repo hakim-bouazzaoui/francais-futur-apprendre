@@ -1,0 +1,772 @@
+[
+  {
+    "id": "Q001",
+    "category": "Motivation & Intégration",
+    "question_fr": "Pourquoi voulez-vous devenir Français / Française ?",
+    "answer_fr": "Expliquer son attachement profond à la France (valeurs, culture, mode de vie), son intégration (liens sociaux/familiaux, projet de vie personnel/professionnel stable en France). Montrer que l'on se sent plus Français(e) que de sa nationalité d'origine et que c'est un choix mûrement réfléchi et durable. Citer des exemples concrets d'adhésion aux valeurs (Liberté, Égalité, Fraternité, Laïcité).",
+    "notes": "Réponse très importante, à personnaliser sincèrement."
+  },
+  {
+    "id": "Q002",
+    "category": "Motivation & Intégration",
+    "question_fr": "Qu'avez-vous trouvé en France que vous n'avez pas dans votre pays d'origine ?",
+    "answer_fr": "Valoriser la France en citant des aspects spécifiques appréciés : la démocratie, la liberté d'expression, la laïcité, la sécurité sociale, la richesse culturelle, les opportunités professionnelles/éducatives, la stabilité politique, etc.",
+    "notes": "Réponse à personnaliser."
+  },
+  {
+    "id": "Q003",
+    "category": "Vie Pratique",
+    "question_fr": "À quelle fréquence rentrez-vous dans votre pays d'origine ?",
+    "answer_fr": "Répondre honnêtement en donnant une fréquence (ex: une fois par an, tous les deux ans, rarement). L'administration peut vérifier avec le passeport.",
+    "notes": "Des retours trop fréquents peuvent soulever des questions sur l'attachement principal."
+  },
+  {
+    "id": "Q004",
+    "category": "Vie Pratique",
+    "question_fr": "Avez-vous des liens personnels et familiaux en France ?",
+    "answer_fr": "Oui. Citer les liens importants (conjoint, enfants, parents, frères/sœurs, amis proches) vivant en France pour montrer un ancrage solide.",
+    "notes": "L'objectif est de montrer que le centre de vos intérêts est en France."
+  },
+  {
+    "id": "Q005",
+    "category": "Vie Pratique",
+    "question_fr": "Avez-vous de la famille dans votre pays d'origine ? Comptez-vous les faire venir en France ?",
+    "answer_fr": "Répondre honnêtement sur la présence de famille. Pour la seconde partie : 'Non, je ne compte pas les faire venir' ou expliquer que seuls les membres éligibles (conjoint, enfants mineurs) sont concernés, si c'est le cas.",
+    "notes": "Question piège. Éviter de laisser penser que la naturalisation est un moyen de faire venir toute la famille élargie."
+  },
+  {
+    "id": "Q006",
+    "category": "Vie Pratique",
+    "question_fr": "Envoyez-vous de l'argent dans votre pays d'origine ? Si oui, à qui et pourquoi ?",
+    "answer_fr": "Répondre honnêtement. Idéalement, les envois sont inexistants ou occasionnels, principalement pour aider des ascendants (parents, grands-parents) en cas de besoin.",
+    "notes": "Des envois réguliers et importants peuvent indiquer des attaches fortes à l'étranger."
+  },
+  {
+    "id": "Q007",
+    "category": "Vie Pratique",
+    "question_fr": "Quelle langue utilisez-vous au quotidien (travail, maison) ?",
+    "answer_fr": "Principalement le français, pour tous les échanges au travail et dans la vie de tous les jours.",
+    "notes": "Essentiel de montrer la maîtrise et l'usage du français."
+  },
+  {
+    "id": "Q008",
+    "category": "Vie Pratique",
+    "question_fr": "Quel est votre niveau de français ?",
+    "answer_fr": "Indiquer son niveau (ex: B1, B2, C1). Mentionner si l'on suit des cours pour s'améliorer.",
+    "notes": "Niveau B1 oral minimum requis. Un justificatif est généralement demandé dans le dossier."
+  },
+  {
+    "id": "Q009",
+    "category": "Vie Pratique",
+    "question_fr": "Êtes-vous membre d'une association ?",
+    "answer_fr": "Répondre oui ou non. Si oui, préciser laquelle, depuis quand, et éventuellement son rôle. C'est un plus pour montrer son intégration et son engagement civique.",
+    "notes": "Faire des dons ne signifie pas être membre."
+  },
+  {
+    "id": "Q010",
+    "category": "Vie Pratique",
+    "question_fr": "Quels sont vos loisirs ?",
+    "answer_fr": "Citer ses loisirs en France (sport, culture, lecture, cinéma, musique, randonnée, etc.). Montrer une participation à la vie sociale et culturelle française.",
+    "notes": "Réponse à personnaliser."
+  },
+  {
+    "id": "Q011",
+    "category": "Vie Pratique",
+    "question_fr": "Où passez-vous vos vacances ?",
+    "answer_fr": "Mentionner des destinations en France principalement, pour montrer son intérêt pour le pays. On peut aussi mentionner des voyages à l'étranger.",
+    "notes": "Privilégier les séjours en France."
+  },
+    {
+    "id": "Q012",
+    "category": "Vie Pratique",
+    "question_fr": "Si vous êtes en couple : Votre conjoint(e) vit-il/elle avec vous en France ?",
+    "answer_fr": "Oui, mon/ma conjoint(e) vit avec moi en France.",
+    "notes": "Condition essentielle pour la naturalisation par décret si le conjoint est un facteur d'intégration."
+  },
+  {
+    "id": "Q013",
+    "category": "Vie Pratique",
+    "question_fr": "Si vous êtes en couple : Comment partagez-vous les tâches ménagères et l'éducation des enfants ?",
+    "answer_fr": "Nous participons ensemble et de manière égale/équitable aux tâches ménagères et à l'éducation des enfants.",
+    "notes": "Montrer l'adhésion au principe d'égalité homme-femme."
+  },
+  {
+    "id": "Q014",
+    "category": "Valeurs & Principes",
+    "question_fr": "Quelles sont les valeurs de la République française ?",
+    "answer_fr": "La devise de la France est \"Liberté, Égalité, Fraternité\". La République est aussi indivisible, laïque, démocratique et sociale.",
+    "notes": ""
+  },
+  {
+    "id": "Q015",
+    "category": "Valeurs & Principes",
+    "question_fr": "Que signifie \"Liberté\" ?",
+    "answer_fr": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui. Elle inclut la liberté d'expression, de pensée, de conscience, de réunion, etc., dans le respect de la loi.",
+    "notes": ""
+  },
+  {
+    "id": "Q016",
+    "category": "Valeurs & Principes",
+    "question_fr": "Que signifie \"Égalité\" ?",
+    "answer_fr": "L'égalité signifie que la loi est la même pour tous, sans distinction d'origine, de race, de religion ou de sexe. Tous les citoyens sont égaux en droits et devant la justice.",
+    "notes": ""
+  },
+  {
+    "id": "Q017",
+    "category": "Valeurs & Principes",
+    "question_fr": "Que signifie \"Fraternité\" ?",
+    "answer_fr": "La fraternité représente la solidarité entre les citoyens, l'entraide et le respect mutuel. Elle se traduit par exemple dans le système de sécurité sociale.",
+    "notes": ""
+  },
+  {
+    "id": "Q018",
+    "category": "Valeurs & Principes",
+    "question_fr": "Qu'est-ce que la laïcité ?",
+    "answer_fr": "La laïcité garantit la liberté de conscience (croire ou ne pas croire) et la liberté de culte, dans le respect de l'ordre public. Elle implique la neutralité de l'État vis-à-vis des religions et la séparation des Églises et de l'État (loi de 1905). L'État ne finance aucun culte.",
+    "notes": "Principe fondamental."
+  },
+    {
+    "id": "Q019",
+    "category": "Valeurs & Principes",
+    "question_fr": "Peut-on porter des signes religieux dans l'espace public en France ?",
+    "answer_fr": "Oui, la liberté de manifester sa religion est garantie dans l'espace public, dans le respect de l'ordre public. Cependant, le port de signes religieux ostensibles est interdit pour les élèves dans les écoles, collèges et lycées publics (loi de 2004) et le port de tenue dissimulant le visage (voile intégral) est interdit dans tout l'espace public (loi de 2010). Les agents publics sont soumis à un devoir de neutralité.",
+    "notes": ""
+  },
+  {
+    "id": "Q020",
+    "category": "Valeurs & Principes",
+    "question_fr": "Qu'est-ce que la démocratie ?",
+    "answer_fr": "Un régime politique où le pouvoir appartient au peuple (souveraineté populaire), qui l'exerce directement ou par l'intermédiaire de représentants élus. Elle garantit les libertés fondamentales.",
+    "notes": ""
+  },
+    {
+    "id": "Q021",
+    "category": "Valeurs & Principes",
+    "question_fr": "Quels sont les droits et devoirs du citoyen français ?",
+    "answer_fr": "Droits : Droit de vote, éligibilité, libertés fondamentales (expression, circulation, etc.), accès à l'emploi public, protection sociale. Devoirs : Respecter la loi, payer les impôts, participer à la défense nationale (si nécessaire), exercer son droit de vote (devoir civique), respecter les autres et l'environnement.",
+    "notes": ""
+  },
+    {
+    "id": "Q022",
+    "category": "Valeurs & Principes",
+    "question_fr": "Que pensez-vous de la parité homme-femme ?",
+    "answer_fr": "C'est un principe fondamental d'égalité. Les hommes et les femmes doivent avoir les mêmes droits et les mêmes devoirs dans tous les domaines. La loi française promeut l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives.",
+    "notes": "Montrer son adhésion à ce principe."
+  },
+  {
+    "id": "Q023",
+    "category": "Valeurs & Principes",
+    "question_fr": "Qu'est-ce que la discrimination ?",
+    "answer_fr": "C'est traiter différemment une personne en raison de son origine, sexe, âge, orientation sexuelle, religion, opinions, apparence physique, etc. C'est interdit par la loi française et passible de sanctions.",
+    "notes": "Le seul critère d'embauche doit être la compétence."
+  },
+  {
+    "id": "Q024",
+    "category": "Symboles",
+    "question_fr": "Quels sont les symboles de la République française ?",
+    "answer_fr": "Le drapeau tricolore (Bleu, Blanc, Rouge), l'hymne national (La Marseillaise), la devise (Liberté, Égalité, Fraternité), Marianne (allégorie de la République), le 14 juillet (Fête nationale), le coq (emblème sportif notamment).",
+    "notes": ""
+  },
+  {
+    "id": "Q025",
+    "category": "Symboles",
+    "question_fr": "Que représentent les couleurs du drapeau français ?",
+    "answer_fr": "Le bleu et le rouge sont les couleurs de la ville de Paris, encadrant le blanc, couleur de la monarchie. Symbolise l'union de la nation et du roi à l'origine, puis de la nation souveraine.",
+    "notes": ""
+  },
+  {
+    "id": "Q026",
+    "category": "Symboles",
+    "question_fr": "Qui a écrit La Marseillaise et à quelle occasion ?",
+    "answer_fr": "Claude Joseph Rouget de Lisle, en 1792 à Strasbourg, comme 'Chant de guerre pour l'armée du Rhin', suite à la déclaration de guerre à l'Autriche.",
+    "notes": ""
+  },
+  {
+    "id": "Q027",
+    "category": "Symboles",
+    "question_fr": "Qui est Marianne ?",
+    "answer_fr": "Une figure symbolique (allégorie) représentant la République française et ses valeurs. Elle est souvent représentée coiffée d'un bonnet phrygien (symbole de liberté).",
+    "notes": ""
+  },
+  {
+    "id": "Q028",
+    "category": "Symboles",
+    "question_fr": "Que fête-t-on le 14 juillet ?",
+    "answer_fr": "La Fête nationale française. Elle commémore à la fois la prise de la Bastille (14 juillet 1789) et la Fête de la Fédération (14 juillet 1790), symbole de l'unité nationale.",
+    "notes": ""
+  },
+  {
+    "id": "Q029",
+    "category": "Institutions",
+    "question_fr": "Quelle est la nature du régime politique français actuel ?",
+    "answer_fr": "La France est une République démocratique, laïque et sociale. Nous sommes actuellement sous la Vème République.",
+    "notes": ""
+  },
+  {
+    "id": "Q030",
+    "category": "Institutions",
+    "question_fr": "Quand a été instaurée la Vème République ?",
+    "answer_fr": "En 1958, par la Constitution du 4 octobre 1958, largement inspirée par Charles de Gaulle.",
+    "notes": ""
+  },
+  {
+    "id": "Q031",
+    "category": "Institutions",
+    "question_fr": "Quels sont les trois pouvoirs séparés en France ?",
+    "answer_fr": "Le pouvoir législatif (vote les lois), le pouvoir exécutif (applique les lois et conduit la politique) et le pouvoir judiciaire (contrôle l'application des lois et sanctionne).",
+    "notes": "Principe de séparation des pouvoirs."
+  },
+  {
+    "id": "Q032",
+    "category": "Institutions",
+    "question_fr": "Qui détient le pouvoir exécutif ?",
+    "answer_fr": "Le Président de la République et le Gouvernement (dirigé par le Premier ministre).",
+    "notes": ""
+  },
+  {
+    "id": "Q033",
+    "category": "Institutions",
+    "question_fr": "Qui détient le pouvoir législatif ?",
+    "answer_fr": "Le Parlement, composé de deux chambres : l'Assemblée nationale (députés) et le Sénat (sénateurs).",
+    "notes": ""
+  },
+  {
+    "id": "Q034",
+    "category": "Institutions",
+    "question_fr": "Qui détient le pouvoir judiciaire ?",
+    "answer_fr": "Les juges et magistrats, indépendants des autres pouvoirs.",
+    "notes": ""
+  },
+  {
+    "id": "Q035",
+    "category": "Institutions",
+    "question_fr": "Qui est le chef de l'État ?",
+    "answer_fr": "Le Président de la République (actuellement Emmanuel Macron). [Vérifier le nom actuel]",
+    "notes": ""
+  },
+  {
+    "id": "Q036",
+    "category": "Institutions",
+    "question_fr": "Comment est élu le Président de la République ?",
+    "answer_fr": "Au suffrage universel direct, pour un mandat de 5 ans (quinquennat), renouvelable une fois consécutivement. Élection à la majorité absolue à deux tours.",
+    "notes": ""
+  },
+  {
+    "id": "Q037",
+    "category": "Institutions",
+    "question_fr": "Qui est le chef du Gouvernement ?",
+    "answer_fr": "Le Premier ministre (actuellement Gabriel Attal). [Vérifier le nom actuel]",
+    "notes": ""
+  },
+  {
+    "id": "Q038",
+    "category": "Institutions",
+    "question_fr": "Qui nomme le Premier ministre ?",
+    "answer_fr": "Le Président de la République.",
+    "notes": ""
+  },
+  {
+    "id": "Q039",
+    "category": "Institutions",
+    "question_fr": "Qui nomme les ministres ?",
+    "answer_fr": "Le Président de la République, sur proposition du Premier ministre.",
+    "notes": ""
+  },
+  {
+    "id": "Q040",
+    "category": "Institutions",
+    "question_fr": "Où se trouve la résidence officielle du Président ?",
+    "answer_fr": "Au Palais de l'Élysée, à Paris.",
+    "notes": ""
+  },
+  {
+    "id": "Q041",
+    "category": "Institutions",
+    "question_fr": "Où se trouve la résidence officielle du Premier ministre ?",
+    "answer_fr": "À l'Hôtel Matignon, à Paris.",
+    "notes": ""
+  },
+  {
+    "id": "Q042",
+    "category": "Institutions",
+    "question_fr": "Qu'est-ce que l'Assemblée nationale ?",
+    "answer_fr": "C'est la chambre basse du Parlement français. Elle est composée de 577 députés élus au suffrage universel direct pour 5 ans. Elle vote les lois et contrôle le Gouvernement.",
+    "notes": ""
+  },
+    {
+    "id": "Q043",
+    "category": "Institutions",
+    "question_fr": "Qui est le/la président(e) de l'Assemblée nationale ?",
+    "answer_fr": "Actuellement Yaël Braun-Pivet. [Vérifier le nom actuel]",
+    "notes": ""
+  },
+  {
+    "id": "Q044",
+    "category": "Institutions",
+    "question_fr": "Qu'est-ce que le Sénat ?",
+    "answer_fr": "C'est la chambre haute du Parlement français. Il est composé de 348 sénateurs élus au suffrage universel indirect (par les grands électeurs) pour 6 ans (renouvelé par moitié tous les 3 ans). Il vote les lois et représente les collectivités territoriales.",
+    "notes": ""
+  },
+  {
+    "id": "Q045",
+    "category": "Institutions",
+    "question_fr": "Qui est le président du Sénat ?",
+    "answer_fr": "Actuellement Gérard Larcher. [Vérifier le nom actuel]",
+    "notes": "Il assure l'intérim en cas de décès ou démission du Président de la République."
+  },
+  {
+    "id": "Q046",
+    "category": "Institutions",
+    "question_fr": "Quelle est la différence principale entre un député et un sénateur ?",
+    "answer_fr": "Le député est élu directement par les citoyens et représente la Nation. Le sénateur est élu indirectement et représente les collectivités territoriales (communes, départements, régions). L'Assemblée nationale a généralement le dernier mot en cas de désaccord sur une loi.",
+    "notes": ""
+  },
+  {
+    "id": "Q047",
+    "category": "Institutions",
+    "question_fr": "Qu'est-ce que le Conseil Constitutionnel ?",
+    "answer_fr": "Il veille à la constitutionnalité des lois (conformité à la Constitution) et à la régularité des élections nationales et des référendums. Il est composé de 9 membres (+ les anciens Présidents de la République de droit).",
+    "notes": ""
+  },
+  {
+    "id": "Q048",
+    "category": "Institutions",
+    "question_fr": "Qui est le président du Conseil Constitutionnel ?",
+    "answer_fr": "Actuellement Laurent Fabius. [Vérifier le nom actuel]",
+    "notes": ""
+  },
+    {
+    "id": "Q049",
+    "category": "Institutions",
+    "question_fr": "Qu'est-ce qu'une loi ?",
+    "answer_fr": "C'est une règle de droit votée par le Parlement (Assemblée nationale et Sénat).",
+    "notes": ""
+  },
+  {
+    "id": "Q050",
+    "category": "Institutions",
+    "question_fr": "Qui peut proposer une loi ?",
+    "answer_fr": "Le Gouvernement (on parle de 'projet de loi') ou les membres du Parlement (députés ou sénateurs, on parle de 'proposition de loi').",
+    "notes": ""
+  },
+  {
+    "id": "Q051",
+    "category": "Institutions",
+    "question_fr": "Qui a le droit de vote en France ?",
+    "answer_fr": "Tout citoyen français majeur (18 ans et plus) jouissant de ses droits civils et politiques.",
+    "notes": ""
+  },
+    {
+    "id": "Q052",
+    "category": "Institutions",
+    "question_fr": "Quel est l'âge de la majorité civile et politique en France ?",
+    "answer_fr": "18 ans.",
+    "notes": ""
+  },
+  {
+    "id": "Q053",
+    "category": "Institutions",
+    "question_fr": "Qu'est-ce qu'une élection municipale ?",
+    "answer_fr": "Élection permettant d'élire les conseillers municipaux de chaque commune, qui élisent ensuite le maire et ses adjoints.",
+    "notes": ""
+  },
+  {
+    "id": "Q054",
+    "category": "Institutions",
+    "question_fr": "Qui est le maire de votre ville ?",
+    "answer_fr": "[Indiquer le nom du maire de votre commune de résidence].",
+    "notes": "Information à connaître absolument. Vérifier sur le site de votre mairie."
+  },
+    {
+    "id": "Q055",
+    "category": "Institutions",
+    "question_fr": "Qu'est-ce qu'une 'collectivité territoriale' ?",
+    "answer_fr": "Ce sont les communes, les départements et les régions. Elles ont une certaine autonomie administrative et financière.",
+    "notes": ""
+  },
+    {
+    "id": "Q056",
+    "category": "Institutions",
+    "question_fr": "Qu'est-ce que la cohabitation politique ?",
+    "answer_fr": "Situation où le Président de la République et le Premier ministre (issu de la majorité parlementaire) appartiennent à des tendances politiques opposées.",
+    "notes": "Moins fréquente depuis le quinquennat et l'alignement des élections."
+  },
+    {
+    "id": "Q057",
+    "category": "Institutions",
+    "question_fr": "Citez un exemple de cohabitation.",
+    "answer_fr": "François Mitterrand (Président PS) avec Jacques Chirac (Premier ministre RPR) de 1986 à 1988. Ou Jacques Chirac (Président RPR) avec Lionel Jospin (Premier ministre PS) de 1997 à 2002.",
+    "notes": ""
+  },
+  {
+    "id": "Q058",
+    "category": "Institutions",
+    "question_fr": "Qui décide de l'octroi de la nationalité française ?",
+    "answer_fr": "La décision finale relève du Ministre de l'Intérieur (ou par délégation, du Préfet).",
+    "notes": "Le Ministre actuel est Gérald Darmanin. [Vérifier le nom actuel]"
+  },
+    {
+    "id": "Q059",
+    "category": "Institutions",
+    "question_fr": "Quel ministère gère les relations avec les cultes ?",
+    "answer_fr": "Le Ministère de l'Intérieur.",
+    "notes": "En vertu du principe de laïcité."
+  },
+  {
+    "id": "Q060",
+    "category": "Histoire",
+    "question_fr": "Citez des Rois de France importants.",
+    "answer_fr": "Clovis (premier roi des Francs baptisé), Charlemagne (empereur), Saint Louis (Louis IX), François Ier (Renaissance), Henri IV (fin des guerres de religion), Louis XIV (monarchie absolue, Versailles), Louis XVI (Révolution).",
+    "notes": "En connaître 2 ou 3."
+  },
+  {
+    "id": "Q061",
+    "category": "Histoire",
+    "question_fr": "Qu'est-ce que la Révolution française ?",
+    "answer_fr": "Période majeure de l'histoire de France (1789-1799) qui a mis fin à l'Ancien Régime (monarchie absolue, société d'ordres) et a proclamé la Déclaration des Droits de l'Homme et du Citoyen et la Première République.",
+    "notes": ""
+  },
+  {
+    "id": "Q062",
+    "category": "Histoire",
+    "question_fr": "Quand a eu lieu la prise de la Bastille ?",
+    "answer_fr": "Le 14 juillet 1789.",
+    "notes": "Événement symbolique du début de la Révolution."
+  },
+  {
+    "id": "Q063",
+    "category": "Histoire",
+    "question_fr": "Quand a été adoptée la Déclaration des Droits de l'Homme et du Citoyen ?",
+    "answer_fr": "Le 26 août 1789.",
+    "notes": "Texte fondamental, préambule de la Constitution."
+  },
+  {
+    "id": "Q064",
+    "category": "Histoire",
+    "question_fr": "Qui était Napoléon Bonaparte ?",
+    "answer_fr": "Général durant la Révolution, il prend le pouvoir par un coup d'État en 1799, devient Premier Consul puis Empereur des Français (Napoléon Ier). Il a réformé durablement la France (Code Civil, préfets, lycées, Légion d'honneur...).",
+    "notes": ""
+  },
+  {
+    "id": "Q065",
+    "category": "Histoire",
+    "question_fr": "Qu'est-ce que le Code Civil ?",
+    "answer_fr": "Recueil de lois promulgué par Napoléon en 1804, qui organise la vie en société (famille, propriété, contrats). Il est encore largement en vigueur aujourd'hui.",
+    "notes": ""
+  },
+  {
+    "id": "Q066",
+    "category": "Histoire",
+    "question_fr": "Quelles sont les dates des deux guerres mondiales ?",
+    "answer_fr": "Première Guerre mondiale : 1914-1918. Seconde Guerre mondiale : 1939-1945.",
+    "notes": ""
+  },
+  {
+    "id": "Q067",
+    "category": "Histoire",
+    "question_fr": "Qu'appelle-t-on l'Armistice de 1918 ?",
+    "answer_fr": "L'accord signé le 11 novembre 1918 qui met fin aux combats de la Première Guerre mondiale.",
+    "notes": "Le 11 novembre est un jour férié."
+  },
+  {
+    "id": "Q068",
+    "category": "Histoire",
+    "question_fr": "Qui était Charles de Gaulle ?",
+    "answer_fr": "Militaire et homme d'État français. Chef de la France Libre pendant la Seconde Guerre mondiale (Appel du 18 juin 1940). Fondateur et premier Président de la Vème République (1959-1969).",
+    "notes": "Personnage central du XXe siècle français."
+  },
+    {
+    "id": "Q069",
+    "category": "Histoire",
+    "question_fr": "Qu'est-ce que le débarquement de Normandie ?",
+    "answer_fr": "Opération militaire des Alliés (Américains, Britanniques, Canadiens...) le 6 juin 1944 sur les plages de Normandie pour libérer la France de l'occupation allemande pendant la Seconde Guerre mondiale.",
+    "notes": ""
+  },
+  {
+    "id": "Q070",
+    "category": "Histoire",
+    "question_fr": "Quand les femmes ont-elles obtenu le droit de vote en France ?",
+    "answer_fr": "En 1944 (ordonnance du 21 avril 1944). Elles ont voté pour la première fois en 1945.",
+    "notes": ""
+  },
+  {
+    "id": "Q071",
+    "category": "Histoire",
+    "question_fr": "Quand l'école est-elle devenue obligatoire, gratuite et laïque ?",
+    "answer_fr": "Avec les lois Jules Ferry, notamment en 1881 et 1882, sous la IIIème République.",
+    "notes": ""
+  },
+  {
+    "id": "Q072",
+    "category": "Histoire",
+    "question_fr": "Quand a eu lieu la séparation des Églises et de l'État ?",
+    "answer_fr": "Avec la loi du 9 décembre 1905.",
+    "notes": "Fondement de la laïcité."
+  },
+    {
+    "id": "Q073",
+    "category": "Histoire",
+    "question_fr": "Qui était Jeanne d'Arc ?",
+    "answer_fr": "Héroïne de l'histoire de France, cheffe de guerre pendant la guerre de Cent Ans (XVe siècle), qui a contribué à inverser le cours du conflit avant d'être capturée et brûlée vive.",
+    "notes": ""
+  },
+  {
+    "id": "Q074",
+    "category": "Histoire",
+    "question_fr": "Qu'est-ce que la guerre de Cent Ans ?",
+    "answer_fr": "Long conflit intermittent (XIVe-XVe siècles) entre les royaumes de France et d'Angleterre pour la succession au trône de France.",
+    "notes": ""
+  },
+    {
+    "id": "Q075",
+    "category": "Histoire",
+    "question_fr": "Citez une ancienne colonie française.",
+    "answer_fr": "Exemples : Algérie, Sénégal, Vietnam (Indochine), Côte d'Ivoire, Maroc, Tunisie...",
+    "notes": "En connaître une ou deux."
+  },
+  {
+    "id": "Q076",
+    "category": "Histoire",
+    "question_fr": "Quand l'esclavage a-t-il été aboli en France ?",
+    "answer_fr": "Une première fois en 1794 (pendant la Révolution), rétabli par Napoléon, puis aboli définitivement en 1848 (décret Schœlcher).",
+    "notes": ""
+  },
+  {
+    "id": "Q077",
+    "category": "Géographie",
+    "question_fr": "Citez les trois plus grandes villes de France (en population).",
+    "answer_fr": "Paris, Marseille, Lyon.",
+    "notes": ""
+  },
+  {
+    "id": "Q078",
+    "category": "Géographie",
+    "question_fr": "Citez trois fleuves français.",
+    "answer_fr": "La Seine (traverse Paris), la Loire (le plus long), le Rhône (vient de Suisse), la Garonne (Sud-Ouest), le Rhin (frontière Est).",
+    "notes": "En connaître 3."
+  },
+  {
+    "id": "Q079",
+    "category": "Géographie",
+    "question_fr": "Citez trois massifs montagneux en France.",
+    "answer_fr": "Les Alpes (plus hautes montagnes, Mont Blanc), les Pyrénées (frontière Sud), le Massif Central (centre), le Jura (Est), les Vosges (Nord-Est).",
+    "notes": "En connaître 3."
+  },
+  {
+    "id": "Q080",
+    "category": "Géographie",
+    "question_fr": "Quel est le point culminant de la France ?",
+    "answer_fr": "Le Mont Blanc, dans les Alpes (environ 4806 mètres).",
+    "notes": ""
+  },
+  {
+    "id": "Q081",
+    "category": "Géographie",
+    "question_fr": "Citez trois pays frontaliers de la France métropolitaine.",
+    "answer_fr": "Espagne, Italie, Suisse, Allemagne, Luxembourg, Belgique. (Andorre et Monaco sont aussi frontaliers).",
+    "notes": "En connaître 3."
+  },
+  {
+    "id": "Q082",
+    "category": "Géographie",
+    "question_fr": "Qu'est-ce qu'un département d'outre-mer (DOM) ?",
+    "answer_fr": "C'est une ancienne colonie devenue département français, avec les mêmes lois que la métropole. Ils font partie de la France et de l'Union Européenne.",
+    "notes": ""
+  },
+  {
+    "id": "Q083",
+    "category": "Géographie",
+    "question_fr": "Citez trois départements ou régions d'outre-mer (DROM).",
+    "answer_fr": "La Guadeloupe, la Martinique, la Guyane, La Réunion, Mayotte.",
+    "notes": ""
+  },
+    {
+    "id": "Q084",
+    "category": "Géographie",
+    "question_fr": "Dans quelle région et quel département habitez-vous ?",
+    "answer_fr": "[Indiquer le nom de votre région et de votre département de résidence].",
+    "notes": "Information à connaître absolument. À personnaliser."
+  },
+  {
+    "id": "Q085",
+    "category": "Personnalités & Culture",
+    "question_fr": "Citez un écrivain français célèbre.",
+    "answer_fr": "Victor Hugo (Les Misérables, Notre-Dame de Paris), Molière (Le Malade Imaginaire, Tartuffe), Albert Camus (L'Étranger), Voltaire, Rousseau, Balzac, Proust...",
+    "notes": "En connaître un ou deux et idéalement une œuvre."
+  },
+  {
+    "id": "Q086",
+    "category": "Personnalités & Culture",
+    "question_fr": "Citez un peintre français célèbre.",
+    "answer_fr": "Claude Monet (impressionnisme), Auguste Renoir, Edgar Degas, Paul Cézanne, Eugène Delacroix, Gustave Courbet...",
+    "notes": "En connaître un."
+  },
+  {
+    "id": "Q087",
+    "category": "Personnalités & Culture",
+    "question_fr": "Citez un musicien ou compositeur français célèbre.",
+    "answer_fr": "Claude Debussy, Maurice Ravel, Hector Berlioz, Georges Bizet (Carmen). Ou des chanteurs : Édith Piaf, Charles Aznavour, Johnny Hallyday...",
+    "notes": "En connaître un."
+  },
+  {
+    "id": "Q088",
+    "category": "Personnalités & Culture",
+    "question_fr": "Citez un scientifique français célèbre.",
+    "answer_fr": "Louis Pasteur (vaccins, pasteurisation), Marie Curie (radioactivité, prix Nobel - naturalisée française), Pierre Curie, Antoine Lavoisier (chimie moderne)...",
+    "notes": "En connaître un."
+  },
+    {
+    "id": "Q089",
+    "category": "Personnalités & Culture",
+    "question_fr": "Citez un monument historique français célèbre.",
+    "answer_fr": "La Tour Eiffel, l'Arc de Triomphe, le Château de Versailles, Notre-Dame de Paris, le Mont Saint-Michel, le Louvre, le Pont du Gard...",
+    "notes": "En connaître 2 ou 3."
+  },
+  {
+    "id": "Q090",
+    "category": "Personnalités & Culture",
+    "question_fr": "Citez un plat typique français.",
+    "answer_fr": "Pot-au-feu, bœuf bourguignon, coq au vin, quiche lorraine, cassoulet, bouillabaisse, crêpes, ratatouille...",
+    "notes": ""
+  },
+  {
+    "id": "Q091",
+    "category": "Personnalités & Culture",
+    "question_fr": "Citez un sportif ou une sportive français(e) célèbre.",
+    "answer_fr": "Zinédine Zidane (football), Kylian Mbappé (football), Teddy Riner (judo), Martin Fourcade (biathlon), Yannick Noah (tennis), Michel Platini (football)...",
+    "notes": "En connaître un."
+  },
+    {
+    "id": "Q092",
+    "category": "Personnalités & Culture",
+    "question_fr": "Citez une femme politique française importante.",
+    "answer_fr": "Simone Veil (loi sur l'IVG, Présidente du Parlement Européen), Élisabeth Borne (ancienne Première ministre), Ségolène Royal (ancienne candidate présidentielle), Christine Lagarde (Présidente de la BCE), Anne Hidalgo (Maire de Paris)...",
+    "notes": "Simone Veil est une figure très consensuelle et respectée."
+  },
+  {
+    "id": "Q093",
+    "category": "Personnalités & Culture",
+    "question_fr": "Qu'est-ce que la loi Veil ?",
+    "answer_fr": "Loi de 1975, portée par la ministre Simone Veil, qui a légalisé l'Interruption Volontaire de Grossesse (IVG) en France.",
+    "notes": "Droit fondamental pour les femmes."
+  },
+  {
+    "id": "Q094",
+    "category": "Europe",
+    "question_fr": "La France fait-elle partie de l'Union Européenne ?",
+    "answer_fr": "Oui, la France est l'un des six pays fondateurs de ce qui est devenu l'Union Européenne.",
+    "notes": ""
+  },
+  {
+    "id": "Q095",
+    "category": "Europe",
+    "question_fr": "Combien y a-t-il d'États membres dans l'Union Européenne ?",
+    "answer_fr": "Il y a 27 États membres.",
+    "notes": "Depuis le départ du Royaume-Uni (Brexit) en 2020."
+  },
+  {
+    "id": "Q096",
+    "category": "Europe",
+    "question_fr": "Quelle est la monnaie de la France ?",
+    "answer_fr": "L'euro (€), monnaie commune à plusieurs pays de l'Union Européenne (zone euro).",
+    "notes": ""
+  },
+  {
+    "id": "Q097",
+    "category": "Europe",
+    "question_fr": "Quelle est la devise de l'Union Européenne ?",
+    "answer_fr": "\"Unie dans la diversité\".",
+    "notes": ""
+  },
+  {
+    "id": "Q098",
+    "category": "Europe",
+    "question_fr": "Quel est l'hymne de l'Union Européenne ?",
+    "answer_fr": "L'Ode à la joie, extrait de la 9ème symphonie de Beethoven.",
+    "notes": ""
+  },
+    {
+    "id": "Q099",
+    "category": "Europe",
+    "question_fr": "Que symbolise le drapeau européen ?",
+    "answer_fr": "Les 12 étoiles dorées en cercle sur fond bleu symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Le nombre 12 représente la perfection et la plénitude (pas le nombre de pays).",
+    "notes": ""
+  },
+  {
+    "id": "Q100",
+    "category": "Europe",
+    "question_fr": "Quand est la Journée de l'Europe ?",
+    "answer_fr": "Le 9 mai. Elle commémore la déclaration Schuman du 9 mai 1950, considérée comme l'acte fondateur de l'UE.",
+    "notes": ""
+  },
+  {
+    "id": "Q101",
+    "category": "Europe",
+    "question_fr": "Où se trouve le siège du Parlement européen ?",
+    "answer_fr": "Le siège officiel est à Strasbourg (France). Des sessions additionnelles ont lieu à Bruxelles (Belgique).",
+    "notes": ""
+  },
+  {
+    "id": "Q102",
+    "category": "Europe",
+    "question_fr": "Où se trouve le siège de la Commission européenne ?",
+    "answer_fr": "À Bruxelles (Belgique).",
+    "notes": ""
+  },
+  {
+    "id": "Q103",
+    "category": "Europe",
+    "question_fr": "Quel pays assure la présidence tournante du Conseil de l'UE actuellement ?",
+    "answer_fr": "La présidence tourne tous les 6 mois. Il faut vérifier quel pays préside au moment de l'entretien. [Consulter le site officiel du Conseil de l'UE pour l'information à jour].",
+    "notes": "Ex: Belgique de Jan à Juin 2024, Hongrie de Juil à Dec 2024, Pologne de Jan à Juin 2025..."
+  },
+    {
+    "id": "Q104",
+    "category": "Europe",
+    "question_fr": "Qu'est-ce que l'espace Schengen ?",
+    "answer_fr": "Un espace de libre circulation où les contrôles aux frontières intérieures entre les pays participants ont été supprimés. La France en fait partie.",
+    "notes": ""
+  },
+  {
+    "id": "Q105",
+    "category": "Vie Pratique",
+    "question_fr": "Qu'est-ce que la Sécurité Sociale ?",
+    "answer_fr": "Un système de protection sociale qui assure les individus contre certains risques (maladie, maternité, invalidité, vieillesse, chômage...). Elle est financée par les cotisations sociales (employeurs et salariés).",
+    "notes": "Expression de la fraternité."
+  },
+    {
+    "id": "Q106",
+    "category": "Vie Pratique",
+    "question_fr": "Est-il obligatoire de payer ses impôts en France ?",
+    "answer_fr": "Oui, c'est un devoir citoyen fondamental et une obligation légale.",
+    "notes": "Question piège."
+  },
+  {
+    "id": "Q107",
+    "category": "Motivation & Intégration",
+    "question_fr": "Si vous obtenez la nationalité française, comptez-vous vivre en France ?",
+    "answer_fr": "Oui, mon objectif est de vivre en France de manière stable et durable.",
+    "notes": "Question piège. La nationalité est liée à la résidence et à l'intégration en France."
+  },
+  {
+    "id": "Q108",
+    "category": "Vie Pratique",
+    "question_fr": "Comment les citoyens manifestent-ils leur désaccord avec le gouvernement ?",
+    "answer_fr": "Par des moyens démocratiques et légaux : manifestations, grèves, pétitions, vote, contact avec les élus...",
+    "notes": ""
+  },
+  {
+    "id": "Q109",
+    "category": "Institutions",
+    "question_fr": "Quelles sont les prochaines élections prévues en France ?",
+    "answer_fr": "Il faut vérifier le calendrier électoral officiel. Après les européennes de juin 2024, les prochaines élections nationales importantes seraient les municipales en 2026 et la présidentielle/législatives en 2027. [Vérifier le calendrier à jour proche de l'entretien].",
+    "notes": "Montrer qu'on s'intéresse à la vie politique."
+  },
+  {
+    "id": "Q110",
+    "category": "Institutions",
+    "question_fr": "Quelle est la dernière loi importante votée récemment ?",
+    "answer_fr": "Il est important de suivre l'actualité politique et législative française. [Consulter des sources d'information fiables comme Légifrance, vie-publique.fr ou les médias nationaux pour connaître les lois récentes importantes au moment de l'entretien].",
+    "notes": "Montrer son intérêt pour l'actualité française."
+  }
+]

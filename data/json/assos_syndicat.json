@@ -1,0 +1,146 @@
+[
+  {
+    "id": "SOC001",
+    "category": "Syndicats",
+    "type": "Timeline",
+    "tags": ["Histoire", "Droit du travail"],
+    "date": "1791",
+    "event": "Loi Le Chapelier",
+    "details": "Interdit les corporations de métiers et les groupements professionnels, au nom de la liberté d'entreprise. A entravé la création de syndicats jusqu'en 1884.",
+    "difficulty": 2
+  },
+  {
+    "id": "SOC002",
+    "category": "Syndicats",
+    "type": "Timeline",
+    "tags": ["Histoire", "Droit du travail", "Révolution Industrielle"],
+    "date": "Vers 1820 - Milieu XIXe",
+    "event": "Révolution Industrielle en France",
+    "details": "Développement plus tardif qu'en Grande Bretagne. Essor mines (charbon), textile, métallurgie (machine à vapeur, acier). Exode rural, conditions de travail très dures, tensions sociales.",
+    "difficulty": 2
+  },
+   {
+    "id": "SOC003",
+    "category": "Syndicats",
+    "type": "Timeline",
+    "tags": ["Histoire", "Droit du travail", "Légalisation"],
+    "date": "1884",
+    "event": "Loi Waldeck-Rousseau",
+    "details": "Légalise les syndicats professionnels en France et reconnaît implicitement le droit de grève.",
+    "notes": "Met fin à l'interdiction de la loi Le Chapelier.",
+    "difficulty": 1
+  },
+  {
+    "id": "SOC004",
+    "category": "Syndicats",
+    "type": "Lesson",
+    "tags": ["Histoire", "Droit du travail", "Luttes sociales", "Lois sociales"],
+    "period": "XIXe - XXe siècle",
+    "title": "Principales Luttes Ouvrières et Lois Sociales",
+    "key_points": [
+      "XIXe s: Lois sur travail des enfants (1841, 1851, 1881, 1892), Loi Waldeck-Rousseau (1884).",
+      "Début XXe: Répression grèves (Courrières 1906), Repos dominical (1906), Ministère Travail (1906).",
+      "Après WWI: Journée 8h / Semaine 48h (1919).",
+      "Front Populaire (1936): Congés payés (2 sem.), Semaine 40h.",
+      "Après WWII (CNR): Rétablissement 40h, Sécurité Sociale (1946), SMIG (1950), 3ème/4ème sem. congés (1956/1969), Assurance chômage (1958)."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "SOC005",
+    "category": "Syndicats",
+    "type": "Flashcard",
+    "tags": ["Définition", "Rôle"],
+    "front": "Quel est le rôle principal d'un syndicat de salariés ?",
+    "back": "Défendre les droits et les intérêts (économiques, professionnels) collectifs et individuels des salariés, chômeurs et retraités.",
+    "difficulty": 1
+  },
+   {
+    "id": "SOC006",
+    "category": "Syndicats",
+    "type": "Flashcard",
+    "tags": ["Représentativité", "Critères"],
+    "front": "Citez 3 critères pour qu'un syndicat soit considéré comme 'représentatif'.",
+    "back": "Respect valeurs républicaines, Indépendance (financière...), Transparence financière, Ancienneté (min 2 ans), Influence (activité), Adhérents, Audience électorale (le plus important).",
+    "notes": "L'audience est mesurée par les élections professionnelles (tous les 4 ans). Seuil: 10% entreprise, 8% branche.",
+    "difficulty": 2
+  },
+  {
+    "id": "SOC007",
+    "category": "Syndicats",
+    "type": "Quiz",
+    "tags": ["Représentativité", "Organisations"],
+    "question": "Citez les 5 principales organisations syndicales de salariés jugées représentatives au niveau national.",
+    "answer": "CFDT, CGT, FO, CFE-CGC, CFTC.",
+     "options": [
+       {"text": "CFDT, CGT, FO, MEDEF, CPME", "isCorrect": false},
+       {"text": "CFDT, CGT, FO, CFE-CGC, CFTC", "isCorrect": true},
+       {"text": "CGT, FO, SUD, UNSA, FSU", "isCorrect": false},
+       {"text": "CFDT, CGT, MEDEF, U2P, FNSEA", "isCorrect": false}
+    ],
+    "notes": "Basé sur les résultats 2017-2020. L'ordre peut varier légèrement.",
+    "difficulty": 1
+  },
+  {
+    "id": "SOC008",
+    "category": "Organisations Patronales",
+    "type": "Flashcard",
+    "tags": ["Définition", "Rôle"],
+    "front": "Qu'est-ce qu'une organisation patronale ?",
+    "back": "Un syndicat d'employeurs qui défend les intérêts de ses membres (entreprises). Participe au dialogue social (négociations avec syndicats de salariés, gouvernement).",
+    "difficulty": 1
+  },
+   {
+    "id": "SOC009",
+    "category": "Organisations Patronales",
+    "type": "Flashcard",
+    "tags": ["Représentativité", "Organisations"],
+    "front": "Citez les 3 principales organisations patronales représentatives au niveau national interprofessionnel.",
+    "back": "Le MEDEF (Mouvement des Entreprises de France), la CPME (Confédération des Petites et Moyennes Entreprises), l'U2P (Union des entreprises de proximité).",
+    "difficulty": 2
+  },
+   {
+    "id": "SOC010",
+    "category": "Droit du Travail",
+    "type": "Term",
+    "tags": ["CSE", "Représentation du personnel"],
+    "term": "Comité Social et Economique (CSE)",
+    "definition": "Instance unique de représentation du personnel dans les entreprises (depuis 2020), obligatoire à partir de 11 salariés (avec missions élargies à partir de 50). Fusionne les anciennes instances (DP, CE, CHSCT).",
+    "difficulty": 2
+  },
+   {
+    "id": "SOC011",
+    "category": "Associations",
+    "type": "Timeline",
+    "tags": ["Histoire", "Loi 1901"],
+    "date": "1er juillet 1901",
+    "event": "Loi relative au contrat d'association",
+    "details": "Loi fondamentale qui régit les associations en France. Garantit la liberté de s'associer sans autorisation préalable pour un but autre que le partage de bénéfices.",
+    "difficulty": 1
+  },
+   {
+    "id": "SOC012",
+    "category": "Associations",
+    "type": "Lesson",
+    "tags": ["Types", "Statuts"],
+    "title": "Principaux Types d'Associations (Loi 1901)",
+    "key_points": [
+      "Association non déclarée ('de fait') : Pas de personnalité morale ni capacité juridique.",
+      "Association déclarée : Déclaration en préfecture, publication JO -> personnalité morale (peut recevoir cotisations, subventions, agir en justice...).",
+      "Association d'intérêt général : Déclarée, peut émettre reçus fiscaux pour dons.",
+      "Association reconnue d'utilité publique (RUP) : Déclarée, intérêt général, +3 ans existence, taille/influence suffisante. Peut recevoir dons et legs. Statut accordé par décret.",
+      "Association agréée : Reçue un agrément ministériel ('label') pour certains domaines (sport, environnement...). Condition pour certaines subventions.",
+      "Association habilitée : Agréée et autorisée par l'État à organiser un service public."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "SOC013",
+    "category": "Associations",
+    "type": "Flashcard",
+    "tags": ["Fonctionnement", "But non lucratif"],
+    "front": "Quelle est la caractéristique essentielle d'une association loi 1901 ?",
+    "back": "Elle doit avoir un but non lucratif, c'est-à-dire un autre but que de partager des bénéfices entre ses membres.",
+    "difficulty": 1
+  }
+]

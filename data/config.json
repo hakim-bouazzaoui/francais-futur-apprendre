@@ -1,0 +1,23 @@
+{
+  "protectedDirectories": [
+    "data/json"
+  ],
+  "contentSources": [
+    "assos_syndicat.json",
+    "culture_auteurs.json",
+    "droits_devoirs.json",
+    "education.json",
+    "generalites.json",
+    "geography.json",
+    "history.json",
+    "institutions.json",
+    "orga_territoire.json",
+    "protection_sociale.json",
+    "sante.json",
+    "securite_defense.json",
+    "valeurs_republique.json"
+  ],
+  "version": "1.0",
+  "lastUpdated": "2025-04-25",
+  "readOnly": true
+}

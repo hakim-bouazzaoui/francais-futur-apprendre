@@ -1,0 +1,666 @@
+[
+    // --- AUTEURS DU XVIe SIÈCLE ---
+    {
+      "id": "AUT001",
+      "category": "Personnalités & Culture",
+      "type": "Figure", // Type principal: fiche sur l'auteur
+      "tags": ["XVIe siècle", "Renaissance", "Écrivain", "Médecin", "Humanisme"],
+      "name": "François RABELAIS",
+      "period": "Né en 1483 ou 1494, Décédé en 1553", // Format Année N - Année D
+      "role": "Religieux, médecin et écrivain, Conteur et polémiste",
+      "key_works": ["Gargantua", "Pantagruel"],
+      "key_facts": [
+        "Érudit de culture antique, a beaucoup voyagé en Italie.",
+        "Auteur d'œuvres comiques et satiriques (aventures de géants).",
+        "Représentant de l'humanisme de la Renaissance.",
+        "Sa philosophie met en avant la confiance en l'homme et la nature ('Rire est le propre de l’homme')."
+      ],
+      "quote": "Rire est le propre de l’homme.",
+      "difficulty": 2
+    },
+    {
+      "id": "AUT002",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIe siècle", "Renaissance", "Philosophe", "Écrivain", "Humanisme", "Essai"],
+      "name": "Michel de MONTAIGNE",
+      "period": "Né en 1533, Décédé en 1592",
+      "role": "Noble, magistrat, homme politique et écrivain",
+      "key_works": ["Les Essais"],
+      "key_facts": [
+        "Inventeur de la forme littéraire de l'\"essai\" (réflexions personnelles sur divers sujets).",
+        "Thème central : la connaissance de soi ('Que sais-je?').",
+        "Influencé par la pensée antique (stoïcisme, scepticisme, épicurisme).",
+        "Prône la tolérance, le doute, la modération et une vie simple.",
+        "Fait preuve de sens critique et d'ouverture d'esprit."
+      ],
+      "quote": "Sur le plus beau trône du monde, on n’est jamais assis que sur son cul.",
+      "difficulty": 2
+    },
+  
+    // --- AUTEURS DU XVIIe SIÈCLE ---
+    {
+      "id": "AUT003",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIe siècle", "Classicisme", "Philosophe", "Mathématicien", "Rationalisme"],
+      "name": "René DESCARTES",
+      "period": "Né en 1596, Décédé en 1650",
+      "role": "Mathématicien, philosophe et physicien",
+      "key_works": ["Discours de la méthode"],
+      "key_facts": [
+        "Figure majeure du rationalisme et de la philosophie moderne.",
+        "Auteur de la 'méthode cartésienne' : ensemble de règles basées sur le doute pour atteindre la vérité.",
+        "Importance de la raison et de la pensée critique.",
+        "Célèbre pour sa formule : 'Cogito, ergo sum' ('Je pense, donc je suis')."
+      ],
+      "quote": "Je pense donc je suis...",
+      "difficulty": 1
+    },
+    {
+      "id": "AUT004",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIe siècle", "Classicisme", "Philosophe", "Mathématicien", "Théologien", "Jansénisme"],
+      "name": "Blaise PASCAL",
+      "period": "Né en 1623, Décédé en 1662",
+      "role": "Mathématicien, physicien, inventeur, philosophe, moraliste et théologien",
+      "key_works": ["Pensées", "Les Provinciales"],
+      "key_facts": [
+        "Inventeur précoce (machine à calculer).",
+        "Les 'Pensées' : œuvre philosophique et théologique majeure (apologie de la foi chrétienne, réflexion sur la condition humaine, le pari de Pascal).",
+        "Aborde les paradoxes : infini/néant, raison/foi.",
+        "Associé au mouvement religieux du Jansénisme."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT005",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIe siècle", "Classicisme", "Dramaturge", "Théâtre", "Tragédie"],
+      "name": "Pierre CORNEILLE",
+      "period": "Né en 1606, Décédé en 1684",
+      "role": "Auteur de théâtre, tragédien",
+      "key_works": ["Le Cid", "Horace", "Cinna", "Œdipe"],
+      "key_facts": [
+        "Un des trois grands dramaturges classiques français (avec Racine et Molière).",
+        "Maître de la tragédie.",
+        "Thèmes récurrents : honneur, devoir, volonté, héroïsme ('dilemme cornélien').",
+        "Son théâtre est marqué par la grandeur et la complexité morale."
+      ],
+      "quote": "À vaincre sans péril, on triomphe sans gloire.",
+      "difficulty": 1
+    },
+    {
+      "id": "AUT006",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIe siècle", "Classicisme", "Dramaturge", "Théâtre", "Poète", "Tragédie"],
+      "name": "Jean RACINE",
+      "period": "Né en 1639, Décédé en 1699",
+      "role": "Auteur de théâtre, tragédien",
+      "key_works": ["Andromaque", "Phèdre", "Britannicus", "Bérénice", "Iphigénie"],
+      "key_facts": [
+        "Grand maître de la tragédie classique.",
+        "Pièces inspirées de l'Antiquité grecque et romaine.",
+        "Explore la fatalité des passions humaines (amour, jalousie, ambition).",
+        "Style réputé pour sa pureté, sa musicalité et sa rigueur psychologique."
+      ],
+      "quote": "Il n’est point de secrets que le temps ne révèle.",
+      "difficulty": 1
+    },
+    {
+      "id": "AUT007",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIe siècle", "Classicisme", "Roman", "Préciosité", "Analyse psychologique"],
+      "name": "Comtesse de LA FAYETTE",
+      "period": "Née en 1634, Décédée en 1693",
+      "role": "Auteure de romans",
+      "key_works": ["La Princesse de Clèves", "Zaïde", "La Princesse de Montpensier"],
+      "key_facts": [
+        "Considérée comme la créatrice du roman psychologique moderne.",
+        "Récits centrés sur l'analyse des sentiments et les tourments amoureux.",
+        "Vision souvent pessimiste de l'amour et de la passion.",
+        "Figure des salons littéraires précieux."
+      ],
+      "quote": "On pardonne les infidélités, mais on ne les oublie pas.",
+      "difficulty": 2
+    },
+    {
+      "id": "AUT008",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIe siècle", "Classicisme", "Dramaturge", "Comédie", "Acteur"],
+      "name": "MOLIERE (Jean-Baptiste Poquelin)",
+      "period": "Né en 1622, Décédé en 1673",
+      "role": "Comédien et auteur de théâtre",
+      "key_works": ["L'Avare", "Tartuffe", "Le Malade imaginaire", "Le Misanthrope", "Les Femmes Savantes", "Le Bourgeois gentilhomme"],
+      "key_facts": [
+        "Le plus célèbre auteur de comédies français.",
+        "Acteur et chef de troupe, protégé par Louis XIV.",
+        "A donné ses lettres de noblesse à la comédie.",
+        "Peint une satire des mœurs et des travers de la société de son temps (prétention, hypocrisie, avarice, pédantisme...).",
+        "Mort sur scène en jouant 'Le Malade imaginaire'."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "AUT009",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIe siècle", "Classicisme", "Poète", "Fabuliste"],
+      "name": "Jean de LA FONTAINE",
+      "period": "Né en 1621, Décédé en 1695",
+      "role": "Poète et fabuliste",
+      "key_works": ["Fables (ex: Le Corbeau et le Renard, La Cigale et la Fourmi, Le Loup et l'Agneau, Le Lièvre et la Tortue, Le Laboureur et ses enfants...)"],
+      "key_facts": [
+        "Auteur des célèbres 'Fables', inspirées d'Ésope et de Phèdre.",
+        "Utilise des animaux pour critiquer la société humaine, la cour, les puissants.",
+        "Maîtrise de la versification et du langage.",
+        "Ses morales sont souvent subtiles et invitent à la réflexion."
+      ],
+      "difficulty": 1
+    },
+  
+    // --- AUTEURS DU XVIIIe SIÈCLE (LUMIÈRES) ---
+    {
+      "id": "AUT010",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIIe siècle", "Lumières", "Philosophe", "Politique", "Séparation des pouvoirs"],
+      "name": "MONTESQUIEU (Charles Louis de Secondat)",
+      "period": "Né en 1689, Décédé en 1755",
+      "role": "Noble, Penseur politique, philosophe et écrivain",
+      "key_works": ["De l'Esprit des lois", "Lettres persanes"],
+      "key_facts": [
+        "Philosophe majeur des Lumières.",
+        "Analyse les différents régimes politiques.",
+        "Théoricien de la séparation des pouvoirs (législatif, exécutif, judiciaire) pour garantir la liberté.",
+        "Son œuvre a influencé la rédaction de nombreuses constitutions, dont celle des États-Unis et de la France."
+      ],
+      "quote": "Une injustice faite à un seul est une menace faite à tous.",
+      "difficulty": 1
+    },
+    {
+      "id": "AUT011",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIIe siècle", "Lumières", "Philosophe", "Écrivain", "Polémiste", "Tolérance"],
+      "name": "VOLTAIRE (François-Marie Arouet)",
+      "period": "Né en 1694, Décédé en 1778",
+      "role": "Poète, philosophe, polémiste, écrivain et auteur de théâtre",
+      "key_works": ["Candide ou l'Optimisme", "Zadig", "L'Ingénu", "Lettres philosophiques", "Traité sur la tolérance"],
+      "key_facts": [
+        "Figure emblématique des Lumières, symbole de la lutte pour la tolérance et la liberté d'expression.",
+        "Critique l'intolérance religieuse, l'absolutisme, l'injustice ('Affaire Calas').",
+        "Auteur prolifique : contes philosophiques, essais, théâtre, poésie.",
+        "Style ironique et mordant.",
+        "Grande influence en Europe."
+      ],
+      "quote": "Ce monde est un vaste naufrage : sauve qui peut !",
+      "difficulty": 1
+    },
+    {
+      "id": "AUT012",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIIe siècle", "Lumières", "Philosophe", "Écrivain", "Contrat social", "Éducation"],
+      "name": "Jean-Jacques ROUSSEAU",
+      "period": "Né en 1712, Décédé en 1778",
+      "role": "Musicien, philosophe, polémiste, écrivain et auteur de théâtre",
+      "key_works": ["Du Contrat social", "Émile ou De l'éducation", "Les Confessions", "Discours sur l'origine et les fondements de l'inégalité parmi les hommes"],
+      "key_facts": [
+        "Philosophe majeur des Lumières, aux idées parfois opposées à celles de Voltaire.",
+        "Théoricien du 'contrat social' : la société légitime repose sur un pacte volontaire entre citoyens.",
+        "Idée de la souveraineté populaire.",
+        "Pense que l'homme naît bon mais est corrompu par la société.",
+        "Réflexions importantes sur l'éducation ('Émile').",
+        "Influence majeure sur la Révolution française et la pensée romantique."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "AUT013",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIIe siècle", "Lumières", "Philosophe", "Écrivain", "Encyclopédie"],
+      "name": "Denis DIDEROT",
+      "period": "Né en 1713, Décédé en 1784",
+      "role": "Philosophe, essayiste, romancier, encyclopédiste et homme d'art",
+      "key_works": ["L'Encyclopédie (direction avec d'Alembert)", "Jacques le Fataliste", "Le Neveu de Rameau"],
+      "key_facts": [
+        "Figure centrale des Lumières, principal maître d'œuvre de l'Encyclopédie.",
+        "L'Encyclopédie visait à rassembler toutes les connaissances de l'époque et à diffuser l'esprit des Lumières.",
+        "Auteur polyvalent : romans novateurs, critique d'art, théâtre.",
+        "Pensée matérialiste et critique envers les institutions."
+      ],
+      "difficulty": 2
+    },
+  
+    // --- AUTEURS DU XIXe SIÈCLE ---
+    {
+      "id": "AUT014",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Préromantisme", "Romantisme", "Écrivain", "Politique"],
+      "name": "Germaine de STAËL",
+      "period": "Née en 1766, Décédée en 1817",
+      "role": "Femme d'influence, romancière et auteure de théâtre",
+      "key_works": ["De l'Allemagne", "Delphine", "Corinne ou l'Italie"],
+      "key_facts": [
+        "Figure intellectuelle majeure à la charnière des XVIIIe et XIXe siècles.",
+        "Pionnière du romantisme en France, notamment par son livre 'De l'Allemagne'.",
+        "Tient un salon influent, s'oppose à Napoléon.",
+        "Défend la liberté politique et intellectuelle, l'esprit européen.",
+        "Fille du financier et ministre Jacques Necker."
+      ],
+      "quote": "Comprendre, c’est pardonner.",
+      "difficulty": 3
+    },
+    {
+      "id": "AUT015",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Romantisme", "Écrivain", "Politique", "Voyage"],
+      "name": "François-René de CHATEAUBRIAND",
+      "period": "Né à Saint Malo en 1768, Décédé en 1848",
+      "role": "Militaire, diplomate, homme politique et écrivain",
+      "key_works": ["Mémoires d'outre-tombe", "Atala", "René", "Génie du christianisme"],
+      "key_facts": [
+        "Figure majeure du premier romantisme français.",
+        "Célèbre pour ses descriptions de la nature et l'analyse des sentiments ('mal du siècle').",
+        "A contribué au renouveau du catholicisme avec 'Génie du christianisme'.",
+        "Carrière politique (royaliste) et diplomatique.",
+        "Son chef-d'œuvre autobiographique : 'Mémoires d'outre-tombe'."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT016",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Romantisme", "Écrivain", "Poète", "Dramaturge", "Engagement"],
+      "name": "Victor HUGO",
+      "period": "Né en 1802, Décédé en 1885",
+      "role": "Poète, romancier, auteur de théâtre, homme politique, penseur et homme d'influence",
+      "key_works": ["Les Misérables", "Notre-Dame de Paris", "Les Châtiments", "Les Contemplations", "Hernani", "Ruy Blas"],
+      "key_facts": [
+        "Chef de file du mouvement romantique.",
+        "Un des plus grands écrivains de langue française, tous genres confondus.",
+        "Œuvre immense marquée par l'engagement social et politique (contre la peine de mort, la misère).",
+        "Exilé sous Napoléon III.",
+        "Funérailles nationales grandioses, inhumé au Panthéon."
+      ],
+      "quote": "La liberté commence où l’ignorance finit.",
+      "difficulty": 1
+    },
+    {
+      "id": "AUT017",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Réalisme", "Roman"],
+      "name": "Honoré de BALZAC",
+      "period": "Né en 1799, Décédé en 1850",
+      "role": "Journaliste, romancier, dramaturge et critique d'art",
+      "key_works": ["La Comédie humaine (cycle de ~90 romans/nouvelles)", "Le Père Goriot", "Eugénie Grandet", "Le Colonel Chabert", "Illusions perdues"],
+      "key_facts": [
+        "Considéré comme un des pères du roman réaliste.",
+        "Auteur de 'La Comédie humaine', fresque monumentale visant à dépeindre la société française de son temps.",
+        "Créateur de personnages récurrents et d'une grande acuité psychologique et sociale.",
+        "Travailleur acharné, mort d'épuisement."
+      ],
+      "quote": "On ne partage pas un cœur de mère.",
+      "difficulty": 2
+    },
+    {
+      "id": "AUT018",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Symbolisme", "Poète", "Décadence"],
+      "name": "Paul VERLAINE",
+      "period": "Né en 1844, Décédé en 1896",
+      "role": "Poète et écrivain",
+      "key_works": ["Fêtes galantes", "Romances sans paroles", "Sagesse", "Poèmes saturniens"],
+      "key_facts": [
+        "Poète majeur du symbolisme et du décadentisme.",
+        "Poésie marquée par la musicalité, la mélancolie et la suggestion.",
+        "Vie tourmentée (relation avec Rimbaud, prison).",
+        "Auteur de la 'Chanson d'automne' (utilisée comme message codé par Radio Londres en 1944)."
+      ],
+      "quote": "Et surtout soyons-nous l’un à l’autre indulgents.",
+      "difficulty": 2
+    },
+    {
+      "id": "AUT019",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Naturalisme", "Roman", "Engagement", "Affaire Dreyfus"],
+      "name": "Emile ZOLA",
+      "period": "Né en 1840, Décédé en 1902",
+      "role": "Écrivain, journaliste littéraire et politique",
+      "key_works": ["Les Rougon-Macquart (cycle)", "L'Assommoir", "Nana", "Germinal", "Thérèse Raquin"],
+      "key_facts": [
+        "Chef de file du mouvement naturaliste.",
+        "Auteur du cycle romanesque 'Les Rougon-Macquart', qui dépeint l'influence du milieu et de l'hérédité sur plusieurs générations d'une famille sous le Second Empire.",
+        "S'est engagé publiquement dans l'Affaire Dreyfus avec son article célèbre 'J'accuse...!' (1898).",
+        "Inhumé au Panthéon."
+      ],
+      "quote": "Tous ces gens-là sont aveugles : ils n’aiment pas.",
+      "difficulty": 1
+    },
+    {
+      "id": "AUT020",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Littérature jeunesse", "Roman"],
+      "name": "Comtesse de SEGUR",
+      "period": "Née en 1799, Décédée en 1874",
+      "role": "Romancière russe de langue française",
+      "key_works": ["Les Malheurs de Sophie", "Les Petites Filles modèles", "Un bon petit diable"],
+      "key_facts": [
+        "Auteure célèbre de romans pour enfants.",
+        "Ses livres mettent souvent en scène des enfants de l'aristocratie.",
+        "Critique des châtiments corporels."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "AUT021",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Roman", "Aventure", "Théâtre"],
+      "name": "Alexandre DUMAS père",
+      "period": "Né en 1802, Décédé en 1870",
+      "role": "Écrivain",
+      "key_works": ["Les Trois Mousquetaires", "Le Comte de Monte-Cristo", "La Reine Margot"],
+      "key_facts": [
+        "Auteur extrêmement populaire de romans historiques et d'aventure.",
+        "Origines afro-antillaises par sa grand-mère paternelle.",
+        "Œuvre prolifique, souvent écrite avec des collaborateurs.",
+        "Entré au Panthéon en 2002."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "AUT022",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Romantisme", "Roman", "Féminisme", "Engagement social"],
+      "name": "George SAND (Amantine Aurore Lucile Dupin)",
+      "period": "Née en 1804, Décédée en 1876",
+      "role": "Romancière, essayiste et journaliste. Femme d'influence",
+      "key_works": ["Indiana", "La Mare au diable", "La Petite Fadette", "Le Meunier d'Angibault", "Mauprat"],
+      "key_facts": [
+        "Écrivaine très prolifique et influente.",
+        "Adopte un pseudonyme masculin pour publier.",
+        "Défend les droits des femmes et s'intéresse à la question sociale (pauvreté, condition ouvrière).",
+        "Vie amoureuse libre et scandaleuse pour l'époque (liaison avec Chopin, Musset)."
+      ],
+      "quote": "Dieu laisse les orgueilleux à eux-mêmes.",
+      "difficulty": 2
+    },
+  
+    // --- AUTEURS DU XXe SIÈCLE ---
+    {
+      "id": "AUT023",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman", "Catholicisme", "Spiritualité"],
+      "name": "Georges BERNANOS",
+      "period": "Né en 1888, Décédé en 1948",
+      "role": "Écrivain",
+      "key_works": ["Sous le soleil de Satan", "Journal d'un curé de campagne"],
+      "key_facts": [
+        "Romancier catholique explorant le combat spirituel entre le Bien et le Mal.",
+        "Style puissant et vision tragique de l'existence.",
+        "Engagé politiquement (d'abord Action Française, puis résistant)."
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "AUT024",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Philosophie", "Absurde", "Existentialisme", "Roman", "Théâtre", "Prix Nobel", "Résistance"],
+      "name": "Albert CAMUS",
+      "period": "Né en 1913, Décédé en 1960",
+      "role": "Philosophe, écrivain, auteur de théâtre et journaliste. Résistant.",
+      "key_works": ["L'Étranger", "La Peste", "Le Mythe de Sisyphe", "Les Justes", "La Chute"],
+      "nobel_prize": 1957,
+      "key_facts": [
+        "Figure majeure de l'existentialisme athée et de la philosophie de l'absurde.",
+        "Explore la condition humaine face à l'absurdité de l'existence.",
+        "Prône la révolte, la solidarité et l'humanisme comme réponses.",
+        "Engagé dans la Résistance pendant la Seconde Guerre mondiale.",
+        "Prix Nobel de littérature en 1957.",
+        "Rupture avec Sartre sur la question du totalitarisme soviétique."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "AUT025",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman", "Essai", "Prix Nobel"],
+      "name": "André GIDE",
+      "period": "Né en 1869, Décédé en 1951",
+      "role": "Écrivain",
+      "key_works": ["La Symphonie pastorale", "Les Faux-monnayeurs", "Les Nourritures terrestres", "Les Caves du Vatican"],
+      "nobel_prize": 1947,
+      "key_facts": [
+        "Figure centrale de la littérature française de la première moitié du XXe siècle.",
+        "Fondateur de La Nouvelle Revue Française (NRF).",
+        "Œuvre marquée par la quête de sincérité, l'exploration morale et les tensions intérieures (hédonisme/puritanisme).",
+        "Prix Nobel de littérature en 1947."
+      ],
+      "quote": "Les extrêmes me touchent.",
+      "difficulty": 2
+    },
+    {
+      "id": "AUT026",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Poète", "Essayiste", "Catholicisme", "Nationalisme"],
+      "name": "Charles PEGUY",
+      "period": "Né en 1873, Mort pour la France en 1914",
+      "role": "Écrivain, poète et intellectuel engagé",
+      "key_works": ["Notre Patrie", "Le Mystère de la charité de Jeanne d'Arc", "L'Argent"],
+      "key_facts": [
+        "Poète et essayiste marqué par une foi chrétienne profonde et un engagement socialiste puis nationaliste.",
+        "Style reconnaissable, répétitif et incantatoire.",
+        "Mort au combat au début de la Première Guerre mondiale."
+      ],
+      "difficulty": 3
+    },
+     {
+      "id": "AUT027",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman", "Modernisme", "Temps", "Mémoire"],
+      "name": "Marcel PROUST",
+      "period": "Né en 1871, Décédé en 1922",
+      "role": "Écrivain",
+      "key_works": ["À la recherche du temps perdu (cycle en 7 tomes)"],
+      "key_facts": [
+        "Auteur de l'un des cycles romanesques les plus importants de la littérature mondiale.",
+        "Explore la mémoire involontaire, le temps, l'amour, la jalousie, l'art et la société mondaine.",
+        "Style très particulier, longues phrases complexes.",
+        "Œuvre majeure du modernisme littéraire."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT028",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Philosophie", "Existentialisme", "Roman", "Théâtre", "Engagement", "Prix Nobel"],
+      "name": "Jean-Paul SARTRE",
+      "period": "Né en 1904, Décédé en 1980",
+      "role": "Écrivain, auteur de théâtre et philosophe, auteur engagé et militant",
+      "key_works": ["L'Être et le Néant", "La Nausée", "Huis clos", "Les Mains sales", "Les Chemins de la liberté"],
+      "nobel_prize": "1964 (refusé)",
+      "key_facts": [
+        "Figure majeure de l'existentialisme.",
+        "Philosophie basée sur l'idée que 'l'existence précède l'essence' : l'homme est libre et responsable de ses choix.",
+        "Intellectuel très engagé politiquement (proche du communisme, puis gauchiste).",
+        "A refusé le Prix Nobel de littérature en 1964.",
+        "Compagnon de Simone de Beauvoir."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "AUT029",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman", "Essai", "Académie Française"],
+      "name": "Marguerite YOURCENAR",
+      "period": "Née en 1903, Décédée en 1987",
+      "role": "Romancière et essayiste",
+      "key_works": ["Mémoires d'Hadrien", "L'Œuvre au noir"],
+      "key_facts": [
+        "Première femme élue à l'Académie Française (1980).",
+        "Style classique et érudit.",
+        "Romans historiques et philosophiques explorant la condition humaine à travers des figures du passé.",
+        "Inspirée par la sagesse antique (gréco-latine) et orientale."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "AUT030",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Sociologie", "Philosophie politique", "Journalisme", "Libéralisme"],
+      "name": "Raymond ARON",
+      "period": "Né en 1905, Décédé en 1983",
+      "role": "Écrivain, philosophe, historien et journaliste. Intellectuel engagé",
+      "key_works": ["L'Opium des intellectuels", "Paix et guerre entre les nations", "Dix-huit leçons sur la société industrielle"],
+      "key_facts": [
+        "Sociologue et philosophe politique majeur du XXe siècle.",
+        "Défenseur du libéralisme politique et critique des totalitarismes (notamment marxiste).",
+        "Observateur lucide des relations internationales et de la société contemporaine.",
+        "Ami puis adversaire intellectuel de Sartre."
+      ],
+      "difficulty": 3
+    },
+      {
+      "id": "AUT031",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman", "Autofiction"],
+      "name": "COLETTE (Sidonie-Gabrielle Colette)",
+      "period": "Née en 1873, Décédée en 1954",
+      "role": "Romancière",
+      "key_works": ["Claudine (série)", "Le Blé en herbe", "Gigi", "Sido", "Mitsou"],
+      "key_facts": [
+        "Une des romancières les plus célèbres de la première moitié du XXe siècle.",
+        "Œuvre largement autobiographique, explorant la sensualité, la nature, l'indépendance féminine.",
+        "Style précis et évocateur.",
+        "Première femme présidente de l'Académie Goncourt."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT032",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "XXIe siècle", "Roman", "Autofiction", "Sociologie", "Prix Nobel"],
+      "name": "Annie ERNAUX",
+      "period": "Née en 1940",
+      "role": "Professeur de lettres, écrivaine",
+      "key_works": ["Les Armoires vides", "La Place", "Les Années", "L'Événement", "Mémoire de fille"],
+      "nobel_prize": 2022,
+      "key_facts": [
+        "Écrivaine majeure contemporaine.",
+        "Pionnière de l'autofiction / auto-socio-biographie.",
+        "Explore la mémoire personnelle et collective, les classes sociales, la condition féminine.",
+        "Style plat, factuel, clinique.",
+        "Prix Nobel de littérature en 2022 (première autrice française à le recevoir)."
+      ],
+      "quote": "Sauver quelque chose du temps où l’on ne sera plus jamais.",
+      "difficulty": 1
+    },
+      {
+      "id": "AUT033",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Poésie", "Modernisme", "Surréalisme"],
+      "name": "Guillaume APOLLINAIRE",
+      "period": "1880 - 1918",
+      "role": "Poète, écrivain",
+      "key_works": ["Alcools", "Calligrammes"],
+      "key_facts": [
+        "Poète majeur du début du XXe siècle, précurseur du surréalisme.",
+        "A renouvelé les formes poétiques (vers libres, suppression ponctuation, calligrammes).",
+        "Né à Rome d'une mère polonaise et d'un père inconnu (possiblement suisse-italien).",
+        "Mort de la grippe espagnole."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT034",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman", "Diplomatie", "Prix Goncourt"],
+      "name": "Romain GARY (Roman Kacew)",
+      "period": "1914 - 1980",
+      "role": "Écrivain, diplomate",
+      "key_works": ["Les Racines du ciel", "La Promesse de l'aube", "La Vie devant soi (sous pseudo Émile Ajar)"],
+      "key_facts": [
+        "Né en Lituanie (alors Empire russe), d'origine juive.",
+        "Résistant (Compagnon de la Libération), diplomate.",
+        "Seul auteur à avoir reçu deux fois le Prix Goncourt (une fois sous son nom, une fois sous pseudonyme Émile Ajar, la supercherie ne fut révélée qu'après sa mort)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT035",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Nouveau Roman", "Roman", "Cinéma", "Théâtre"],
+      "name": "Marguerite DURAS",
+      "period": "1914 - 1996",
+      "role": "Écrivaine, dramaturge et réalisatrice",
+      "key_works": ["L'Amant", "Hiroshima mon amour (scénario)", "Moderato cantabile"],
+      "key_facts": [
+        "Figure importante du Nouveau Roman.",
+        "Œuvre marquée par l'exploration du désir, de la mémoire, de la douleur.",
+        "Style épuré, elliptique.",
+        "Également scénariste et réalisatrice."
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "AUT036",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Philosophie", "Existentialisme", "Féminisme"],
+      "name": "Simone de BEAUVOIR",
+      "period": "1908 - 1986",
+      "role": "Écrivaine, philosophe et féministe",
+      "key_works": ["Le Deuxième Sexe", "Les Mandarins", "Mémoires d'une jeune fille rangée"],
+      "key_facts": [
+        "Philosophe existentialiste et figure majeure du féminisme moderne.",
+        "'Le Deuxième Sexe' (1949) est un ouvrage fondateur de la pensée féministe.",
+        "Compagne intellectuelle et amoureuse de Jean-Paul Sartre."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "AUT037",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman"],
+      "name": "Françoise SAGAN",
+      "period": "1935 - 2004",
+      "role": "Écrivaine et dramaturge",
+      "key_works": ["Bonjour tristesse", "Aimez-vous Brahms..."],
+      "key_facts": [
+        "Connue pour son premier roman 'Bonjour tristesse', écrit à 18 ans, qui fit scandale.",
+        "Style de vie glamour et anticonformiste.",
+        "Thèmes : ennui, amour, désillusion dans les milieux bourgeois."
+      ],
+      "difficulty": 2
+    }
+  ]
