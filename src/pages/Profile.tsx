@@ -1,10 +1,9 @@
-
 import { useState } from "react";
 import Header from "@/components/Header";
 import Navbar from "@/components/Navbar";
 import BadgeCard from "@/components/BadgeCard";
 import { badges, streakData, userStats } from "@/lib/mock-data";
-import { Fire, Trophy, Award, BookOpen, CheckCircle, Clock } from "lucide-react";
+import { Flame, Trophy, Award, BookOpen, CheckCircle, Clock } from "lucide-react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
 export default function Profile() {
@@ -34,7 +33,7 @@ export default function Profile() {
                 </div>
                 
                 <div className="flex items-center gap-1 bg-gray-100 px-3 py-1 rounded-full">
-                  <Fire className="h-4 w-4 text-amber-500" />
+                  <Flame className="h-4 w-4 text-amber-500" />
                   <span className="text-sm">{streakData.current} jours</span>
                 </div>
                 
@@ -61,7 +60,7 @@ export default function Profile() {
             
             <div className="bg-white p-4 rounded-lg border border-gray-100 shadow-sm text-center">
               <div className="w-10 h-10 mx-auto mb-2 rounded-full bg-amber-100 flex items-center justify-center">
-                <Fire className="h-5 w-5 text-amber-500" />
+                <Flame className="h-5 w-5 text-amber-500" />
               </div>
               <div className="text-2xl font-bold text-gray-800">{streakData.longest}</div>
               <div className="text-xs text-gray-500">Record de série</div>
@@ -99,7 +98,7 @@ export default function Profile() {
                   <div className={`w-10 h-10 mx-auto rounded-full flex items-center justify-center ${
                     isActive ? "bg-france-blue text-white" : "bg-gray-100 text-gray-400"
                   }`}>
-                    {isActive && <Fire className="h-4 w-4" />}
+                    {isActive && <Flame className="h-4 w-4" />}
                   </div>
                   <div className="text-xs mt-1">{day}</div>
                 </div>

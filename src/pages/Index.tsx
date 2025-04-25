@@ -1,11 +1,10 @@
-
 import { useEffect, useState } from "react";
 import Header from "@/components/Header";
 import Navbar from "@/components/Navbar";
 import LearningModule from "@/components/LearningModule";
 import { modules, streakData, userStats } from "@/lib/mock-data";
 import { Button } from "@/components/ui/button";
-import { Fire, Trophy } from "lucide-react";
+import { Flame, Trophy } from "lucide-react";
 
 export default function Index() {
   const [greeting, setGreeting] = useState("");
@@ -36,7 +35,7 @@ export default function Index() {
               </div>
               
               <div className="streak-indicator px-3 py-1 bg-amber-100 rounded-full">
-                <Fire className="h-4 w-4 text-amber-500" />
+                <Flame className="h-4 w-4 text-amber-500" />
                 <span className="text-amber-700 font-medium ml-1">{streakData.current}</span>
               </div>
             </div>
