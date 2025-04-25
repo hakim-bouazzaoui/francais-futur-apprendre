@@ -282,5 +282,93 @@
     ],
      "notes": "Le document source cite 98 millions en 2023.",
     "difficulty": 2
+  },
+   {
+    "id": "GEO025",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["Fleuves", "Géographie Physique", "Loire"],
+    "front": "Quel est le plus long fleuve de France ?",
+    "back": "La Loire (environ 1012 km).",
+    "difficulty": 2
+  },
+  {
+    "id": "GEO026",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["Fleuves", "Géographie Physique", "Seine"],
+    "front": "Quel fleuve traverse Paris ?",
+    "back": "La Seine.",
+    "difficulty": 1
+  },
+  {
+    "id": "GEO027",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["Fleuves", "Géographie Physique", "Rhône"],
+    "front": "Quel grand fleuve français prend sa source en Suisse et se jette dans la Méditerranée ?",
+    "back": "Le Rhône.",
+    "difficulty": 2
+  },
+    {
+    "id": "GEO028",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["Fleuves", "Géographie Physique", "Garonne"],
+    "front": "Quel fleuve traverse les villes de Toulouse et Bordeaux ?",
+    "back": "La Garonne.",
+    "difficulty": 2
+  },
+  {
+    "id": "GEO029",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["Fleuves", "Géographie Physique", "Rhin"],
+    "front": "Quel fleuve marque une partie de la frontière entre la France et l'Allemagne ?",
+    "back": "Le Rhin.",
+    "difficulty": 2
+  },
+   {
+    "id": "GEO030",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["Montagnes", "Géographie Physique", "Alpes"],
+    "front": "Quel massif montagneux abrite le Mont Blanc, point culminant de France ?",
+    "back": "Les Alpes.",
+    "difficulty": 1
+  },
+   {
+    "id": "GEO031",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["Montagnes", "Géographie Physique", "Pyrénées"],
+    "front": "Quel massif montagneux forme une frontière naturelle entre la France et l'Espagne ?",
+    "back": "Les Pyrénées.",
+    "difficulty": 1
+  },
+   {
+    "id": "GEO032",
+    "category": "Géographie",
+    "type": "Flashcard",
+    "tags": ["Montagnes", "Géographie Physique", "Massif Central"],
+    "front": "Quel vaste massif montagneux occupe le centre-sud de la France ?",
+    "back": "Le Massif Central.",
+    "notes": "D'origine volcanique ancienne.",
+    "difficulty": 2
+  },
+   {
+    "id": "GEO033",
+    "category": "Géographie",
+    "type": "Quiz",
+    "tags": ["Montagnes", "Géographie Physique", "Jura", "Vosges"],
+    "question": "Quels sont les deux massifs montagneux situés dans l'Est de la France, l'un près de la Suisse, l'autre près de l'Allemagne ?",
+    "answer": "Le Jura (près de la Suisse) et les Vosges (près de l'Allemagne).",
+    "options": [
+       {"text": "Les Alpes et les Pyrénées", "isCorrect": false},
+       {"text": "Le Massif Central et les Ardennes", "isCorrect": false},
+       {"text": "Le Jura et les Vosges", "isCorrect": true},
+       {"text": "Les Alpes et le Massif Central", "isCorrect": false}
+    ],
+    "difficulty": 2
   }
 ]

@@ -17,7 +17,8 @@ export type RootStackParamList = {
     items: SRSItem[];
   };
   ContentList: undefined;
-  ContentTest: undefined; // Add the new screen
+  ContentTest: undefined;
+  ContentSyncTest: undefined; // Added for sync testing
 };
 
 export type MainTabParamList = {
@@ -69,7 +70,6 @@ export interface SRSItem {
   lastReviewed?: number;
 }
 
-// Add ContentStats interface for the test screen
 export interface ContentStats {
   totalItems: number;
   byCategory: Record<string, CategoryStats>;

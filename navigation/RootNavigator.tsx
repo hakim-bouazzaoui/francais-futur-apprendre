@@ -6,6 +6,7 @@ import QuizScreen from '../screens/Quiz/QuizScreen';
 import QuizResultsScreen from '../screens/Quiz/QuizResultsScreen';
 import SRSReviewScreen from '../screens/Revision/SRSReviewScreen';
 import ContentTestScreen from '../screens/ContentTestScreen';
+import ContentSyncTestScreen from '../screens/ContentSyncTestScreen';
 import type { RootStackParamList } from './types';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -61,6 +62,16 @@ const RootNavigator = () => {
         component={ContentTestScreen}
         options={{
           title: 'Test du Contenu',
+          headerTintColor: '#0055A4',
+          // Only show in development
+          presentation: __DEV__ ? 'card' : 'none',
+        }}
+      />
+      <Stack.Screen
+        name="ContentSyncTest"
+        component={ContentSyncTestScreen}
+        options={{
+          title: 'Test de Synchronisation',
           headerTintColor: '#0055A4',
           // Only show in development
           presentation: __DEV__ ? 'card' : 'none',
