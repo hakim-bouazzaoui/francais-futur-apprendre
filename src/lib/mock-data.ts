@@ -35,7 +35,7 @@ export const modules: LearningModuleProps[] = [
     completedLessons: 0,
     totalLessons: 10,
     category: "Culture",
-    isLocked: true
+    isLocked: false
   }
 ];
 
@@ -156,6 +156,32 @@ export const questions: QuizQuestion[] = [
     correctAnswer: "Alexandre Dumas",
     explanation: "Les Trois Mousquetaires est un roman d'Alexandre Dumas écrit en collaboration avec Auguste Maquet."
   },
+  {
+    id: "c2",
+    moduleId: "culture",
+    question: "Qu'est-ce que la philosophie des Lumières ?",
+    options: [
+      "Un mouvement culturel et intellectuel contre l'obscurantisme",
+      "Une école de peinture du XIXe siècle",
+      "Une technique d'éclairage des monuments",
+      "Une théorie scientifique sur la lumière"
+    ],
+    correctAnswer: "Un mouvement culturel et intellectuel contre l'obscurantisme",
+    explanation: "La philosophie des Lumières est un mouvement culturel, philosophique et intellectuel qui a œuvré contre les oppressions et pour le progrès des connaissances."
+  },
+  {
+    id: "c3",
+    moduleId: "culture",
+    question: "En quelle année a été aboli l'esclavage en France ?",
+    options: [
+      "1848",
+      "1789",
+      "1905",
+      "1830"
+    ],
+    correctAnswer: "1848",
+    explanation: "L'esclavage a été définitivement aboli en France le 27 avril 1848."
+  },
   // Géographie
   {
     id: "g1",
@@ -169,6 +195,19 @@ export const questions: QuizQuestion[] = [
     ],
     correctAnswer: "Belgique, Luxembourg, Allemagne, Suisse, Italie, Andorre, Espagne, Monaco",
     explanation: "La France métropolitaine partage ses frontières avec huit pays."
+  },
+  {
+    id: "g2",
+    moduleId: "geography",
+    question: "Quel est le point culminant de la France ?",
+    options: [
+      "Le Mont-Blanc",
+      "Le Pic du Midi",
+      "Le Puy de Dôme",
+      "Le Mont Ventoux"
+    ],
+    correctAnswer: "Le Mont-Blanc",
+    explanation: "Le Mont-Blanc, situé entre la France et l'Italie, est le point culminant de la France avec une altitude d'environ 4809 mètres."
   }
 ];
 
@@ -190,6 +229,25 @@ export const lessons = {
       id: "i1",
       title: "La Cinquième République",
       content: "La Constitution de la Cinquième République, adoptée le 4 octobre 1958, définit l'organisation actuelle de l'État français..."
+    }
+  ],
+  "culture": [
+    {
+      id: "c1",
+      title: "Arts et Littérature",
+      content: "La France possède un riche patrimoine littéraire et artistique avec des figures emblématiques comme Victor Hugo, Alexandre Dumas et bien d'autres..."
+    },
+    {
+      id: "c2",
+      title: "Traditions et Mode de vie",
+      content: "Les traditions françaises sont variées et reflètent la diversité des régions, de la gastronomie aux fêtes populaires..."
+    }
+  ],
+  "geography": [
+    {
+      id: "g1",
+      title: "Les régions françaises",
+      content: "La France métropolitaine est divisée en 13 régions, chacune avec ses particularités géographiques et culturelles..."
     }
   ]
 };
