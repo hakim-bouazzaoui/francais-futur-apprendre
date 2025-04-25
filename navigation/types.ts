@@ -16,13 +16,14 @@ export type RootStackParamList = {
   SRSReview: {
     items: SRSItem[];
   };
-  ContentList: undefined; // Add the new screen
+  ContentList: undefined;
+  ContentTest: undefined; // Add the new screen
 };
 
 export type MainTabParamList = {
   Home: undefined;
   Lessons: undefined;
-  Content: undefined; // Add new tab for content
+  Content: undefined;
   Revision: undefined;
   Profile: undefined;
 };
@@ -66,4 +67,20 @@ export interface SRSItem {
   easeFactor: number;
   consecutive: number;
   lastReviewed?: number;
+}
+
+// Add ContentStats interface for the test screen
+export interface ContentStats {
+  totalItems: number;
+  byCategory: Record<string, CategoryStats>;
+}
+
+export interface CategoryStats {
+  total: number;
+  byType: {
+    Quiz: number;
+    Flashcard: number;
+    Lesson: number;
+    Term: number;
+  };
 }

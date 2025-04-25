@@ -1,0 +1,249 @@
+[
+    // --- LA FRANCE DANS L'EUROPE ET LE MONDE ---
+    {
+      "id": "INTL001",
+      "category": "Europe",
+      "type": "Quiz",
+      "tags": ["UE", "Géographie"],
+      "question": "Quelle est la différence principale entre 'Europe' et 'Union européenne' ?",
+      "answer": "L'Europe est un continent (notion géographique, ~50 États). L'Union européenne est une organisation internationale régionale (notion institutionnelle) composée de 27 États membres.",
+      "options": [
+         {"text": "Ce sont des termes synonymes.", "isCorrect": false},
+         {"text": "L'Europe est une organisation, l'UE est un continent.", "isCorrect": false},
+         {"text": "L'Europe est un continent, l'UE est une organisation de 27 États.", "isCorrect": true},
+         {"text": "L'UE regroupe tous les pays d'Europe.", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "INTL002",
+      "category": "Europe",
+      "type": "Flashcard",
+      "tags": ["UE", "France", "Fondateurs"],
+      "front": "La France est-elle un pays fondateur de l'Union européenne ?",
+      "back": "Oui, la France fait partie des six pays fondateurs de la CECA en 1951, ancêtre de l'UE.",
+      "difficulty": 1
+    },
+    {
+      "id": "INTL003",
+      "category": "Europe",
+      "type": "Flashcard",
+      "tags": ["UE", "France", "Statistiques", "Population", "Superficie"],
+      "front": "Quelle est la position de la France au sein de l'UE en termes de superficie et de population ?",
+      "back": "La France est le plus grand pays de l'UE en superficie et le deuxième en population (après l'Allemagne).",
+      "difficulty": 2
+    },
+    {
+      "id": "INTL004",
+      "category": "International",
+      "type": "Flashcard",
+      "tags": ["Organisations", "ONU", "OTAN", "Conseil de l'Europe"],
+      "front": "Citez 3 organisations internationales (hors UE) dont la France est membre.",
+      "back": "L'ONU (Organisation des Nations Unies), l'OTAN (Organisation du Traité de l'Atlantique Nord), le Conseil de l'Europe.",
+      "notes": "La France est membre de plus de 150 organisations internationales.",
+      "difficulty": 1
+    },
+     {
+      "id": "INTL005",
+      "category": "International",
+      "type": "Quiz",
+      "tags": ["ONU", "Conseil de Sécurité", "France"],
+      "question": "Quel statut particulier la France détient-elle au Conseil de Sécurité de l'ONU ?",
+      "answer": "Elle est l'un des 5 membres permanents et dispose du droit de véto.",
+       "options": [
+         {"text": "Membre non-permanent élu", "isCorrect": false},
+         {"text": "État observateur", "isCorrect": false},
+         {"text": "Membre permanent avec droit de véto", "isCorrect": true},
+         {"text": "Présidente actuelle du Conseil", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "INTL006",
+      "category": "Europe",
+      "type": "Term",
+      "tags": ["Conseil de l'Europe", "Droits de l'Homme", "CEDH"],
+      "term": "Conseil de l'Europe",
+      "definition": "Organisation internationale européenne (siège à Strasbourg, 46 États) distincte de l'UE, dédiée à la promotion de la démocratie, des droits de l'homme et de l'État de droit. A l'origine de la Convention européenne des droits de l'homme (CEDH).",
+      "difficulty": 3
+    },
+      {
+      "id": "INTL007",
+      "category": "Europe",
+      "type": "Flashcard",
+      "tags": ["UE", "Citoyenneté"],
+      "front": "Qu'est-ce que la citoyenneté européenne ?",
+      "back": "Tout citoyen d'un État membre de l'UE est aussi citoyen européen. Cela confère des droits spécifiques : droit de circuler/séjourner librement, droit de vote/éligibilité aux élections européennes et municipales dans son État de résidence, protection consulaire...",
+      "difficulty": 1
+    },
+    {
+      "id": "INTL008",
+      "category": "Europe",
+      "type": "Lesson",
+      "tags": ["UE", "Fonctionnement", "Compétences", "Institutions"],
+      "title": "Particularités de l'Union Européenne",
+      "key_points": [
+        "Transfert de compétences : Les États membres ont transféré des compétences importantes à l'UE (certaines exclusives : monnaie, commerce ; d'autres partagées : environnement, agriculture...).",
+        "Décisions prises par institutions EU : Conseil (représente États) et Parlement européen (représente citoyens), sur proposition de la Commission (intérêt général UE). Majorité qualifiée souvent requise au Conseil (limite blocages).",
+        "Ordre juridique sophistiqué : Droit européen prime sur droits nationaux, règles directement applicables ou invocables par les citoyens (union de droit).",
+        "Cour de Justice de l'UE (CJUE) : Veille au respect du droit de l'UE par États et institutions."
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "INTL009",
+      "category": "Europe",
+      "type": "Quiz",
+      "tags": ["UE", "Symboles"],
+      "question": "Quelle est la devise de l'Union Européenne ?",
+      "answer": "Unie dans la diversité",
+       "options": [
+         {"text": "Liberté, Égalité, Fraternité", "isCorrect": false},
+         {"text": "L'union fait la force", "isCorrect": false},
+         {"text": "Unie dans la diversité", "isCorrect": true},
+         {"text": "Paix, Prospérité, Partenariat", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "INTL010",
+      "category": "Europe",
+      "type": "Flashcard",
+      "tags": ["UE", "Symboles"],
+      "front": "Citez 3 symboles de l'Union Européenne.",
+      "back": "Le drapeau européen (12 étoiles sur fond bleu), l'hymne (Ode à la joie), la devise (Unie dans la diversité), la Journée de l'Europe (9 mai), l'euro (monnaie).",
+      "difficulty": 1
+    },
+     {
+      "id": "INTL011",
+      "category": "Europe",
+      "type": "Timeline",
+      "tags": ["UE", "Histoire", "Traités", "CECA", "CEE"],
+      "date": "1950-1957",
+      "event": "Les débuts de la construction européenne",
+      "details": "9 Mai 1950: Déclaration Schuman (projet de paix Franco-Allemand via économie). 1951: Traité de Paris créant la CECA (Charbon/Acier, 6 pays fondateurs : FR, DE, IT, BE, NL, LU). 1957: Traités de Rome créant la CEE (Marché commun) et Euratom (énergie atomique).",
+      "difficulty": 2
+    },
+     {
+      "id": "INTL012",
+      "category": "Europe",
+      "type": "Timeline",
+      "tags": ["UE", "Histoire", "Traités", "Approfondissement"],
+      "date": "1986-1992",
+      "event": "Accélération : Marché unique et Union politique",
+      "details": "1986: Acte Unique Européen (objectif Marché intérieur pour 1993 : libre circulation marchandises, services, personnes, capitaux). 1992: Traité de Maastricht créant l'Union Européenne (ajoute piliers politique étrangère/sécurité et justice/affaires intérieures), citoyenneté européenne, projet monnaie unique (Euro).",
+      "difficulty": 2
+    },
+     {
+      "id": "INTL013",
+      "category": "Europe",
+      "type": "Timeline",
+      "tags": ["UE", "Histoire", "Traités", "Réforme"],
+      "date": "1997-2007",
+      "event": "Traités de réforme et préparation élargissement",
+      "details": "1997: Traité d'Amsterdam (intègre Schengen, renforce coopération justice). 2001: Traité de Nice (adapte institutions à l'élargissement). 2007: Traité de Lisbonne (révise traités après échec projet Constitution, en vigueur 2009).",
+      "difficulty": 3
+    },
+      {
+      "id": "INTL014",
+      "category": "Europe",
+      "type": "Flashcard",
+      "tags": ["UE", "Traité de Lisbonne", "Réforme"],
+      "front": "Quels sont les principaux apports du Traité de Lisbonne (2007) ?",
+      "back": "Simplifie architecture/processus décision (double majorité), renforce démocratie (Parlement européen, parlements nationaux), clarifie compétences, crée présidence stable Conseil européen et Haut représentant, rend Charte droits fondamentaux contraignante, reconnaît droit de retrait.",
+      "difficulty": 3
+    },
+      {
+      "id": "INTL015",
+      "category": "Europe",
+      "type": "Timeline",
+      "tags": ["UE", "Élargissement", "Histoire"],
+      "date": "1973-2013",
+      "event": "Les Vagues d'Élargissement de l'UE",
+      "details": "1973: RU, Irlande, Danemark. 1981: Grèce. 1986: Espagne, Portugal. 1995: Autriche, Finlande, Suède. 2004: 10 pays (majorité ex-communistes + Malte/Chypre). 2007: Roumanie, Bulgarie. 2013: Croatie.",
+      "notes": "L'UE passe de 6 à 28 membres. Le RU quitte en 2020 (Brexit).",
+      "difficulty": 2
+    },
+    {
+      "id": "INTL016",
+      "category": "Europe",
+      "type": "Flashcard",
+      "tags": ["UE", "Élargissement", "Candidats"],
+      "front": "Quels pays sont actuellement candidats officiels à l'adhésion à l'UE (ou en négociation) ?",
+      "back": "Pays des Balkans occidentaux (Serbie, Monténégro, Albanie, Macédoine du Nord, Bosnie-Herzégovine), Turquie, Ukraine, Moldavie, Géorgie.",
+      "notes": "Statut et avancement variables. A vérifier ponctuellement.",
+      "difficulty": 2
+    },
+    {
+      "id": "INTL017",
+      "category": "Europe",
+      "type": "Flashcard",
+      "tags": ["UE", "Budget", "Financement"],
+      "front": "Comment l'Union Européenne finance-t-elle ses actions ?",
+      "back": "Principalement par des contributions des États membres basées sur leur RNB (Revenu National Brut), une part de la TVA nationale, et des droits de douane. Le budget reste faible (~1% du RNB total des 27).",
+      "notes": "Budget 2024: ~190 Mds €. Utilise aussi la BEI et des fonds de relance (Next Gen EU).",
+      "difficulty": 2
+    },
+    {
+      "id": "INTL018",
+      "category": "Europe",
+      "type": "Quiz",
+      "tags": ["UE", "Budget", "France"],
+      "question": "La France est-elle un contributeur net ou un bénéficiaire net du budget de l'UE ?",
+      "answer": "La France est un contributeur net (elle verse plus qu'elle ne reçoit directement du budget).",
+       "options": [
+         {"text": "Bénéficiaire net", "isCorrect": false},
+         {"text": "Contributeur net", "isCorrect": true},
+         {"text": "Neutre (reçoit autant qu'elle verse)", "isCorrect": false}
+      ],
+      "notes": "2ème contributeur après l'Allemagne.",
+      "difficulty": 2
+    },
+    {
+      "id": "INTL019",
+      "category": "Europe",
+      "type": "Lesson",
+      "tags": ["UE", "Institutions", "Triangle institutionnel"],
+      "title": "Les 7 Institutions Principales de l'UE",
+      "key_points": [
+        "Triangle décisionnel :",
+        "  - Commission Européenne (Bruxelles) : Propose lois, exécute budget, gardienne traités (intérêt général UE). 1 commissaire/pays.",
+        "  - Conseil de l'Union Européenne (Conseil des Ministres) (Bruxelles) : Législateur et budgétaire avec Parlement. Représente gouvernements États membres (ministres).",
+        "  - Parlement Européen (Strasbourg/Bruxelles) : Législateur et budgétaire avec Conseil. Représente citoyens (720 députés élus). Contrôle Commission.",
+        "Autres institutions clés :",
+        "  - Conseil Européen (Bruxelles) : Chefs d'État/Gouvernement. Définit grandes orientations politiques.",
+        "  - Cour de Justice de l'UE (Luxembourg) : Assure respect droit UE.",
+        "  - Banque Centrale Européenne (BCE) (Francfort) : Gère euro, politique monétaire.",
+        "  - Cour des Comptes Européenne (Luxembourg) : Contrôle finances UE."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "INTL020",
+      "category": "Europe",
+      "type": "Term",
+      "tags": ["UE", "Droit", "Règlement", "Directive"],
+      "term": "Règlement vs Directive (Droit UE)",
+      "definition": "Règlement : Acte législatif UE obligatoire dans tous ses éléments et directement applicable dans tous les États membres (comme une loi nationale). Directive : Acte législatif UE qui fixe un objectif à atteindre, mais laisse aux États le choix des moyens pour la transposer dans leur droit national dans un délai donné.",
+      "difficulty": 3
+    },
+    {
+      "id": "INTL021",
+      "category": "Europe",
+      "type": "Term",
+      "tags": ["UE", "Droit", "Primauté", "Effet direct"],
+      "term": "Primauté et Effet Direct (Droit UE)",
+      "definition": "Primauté : En cas de conflit, le droit de l'UE l'emporte sur le droit national des États membres. Effet Direct : Possibilité pour les particuliers d'invoquer directement une norme européenne devant leurs juges nationaux.",
+      "notes": "Caractéristiques clés de l'ordre juridique de l'UE.",
+      "difficulty": 3
+    },
+     {
+      "id": "INTL022",
+      "category": "Europe",
+      "type": "Flashcard",
+      "tags": ["UE", "France", "Liaison", "SGAE", "RP"],
+      "front": "Comment la France coordonne-t-elle sa politique européenne ?",
+      "back": "Via le Secrétariat Général aux Affaires Européennes (SGAE, rattaché au PM) à Paris, et la Représentation Permanente (RP) de la France auprès de l'UE à Bruxelles.",
+      "difficulty": 3
+    }
+  ]

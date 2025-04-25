@@ -662,5 +662,510 @@
         "Thèmes : ennui, amour, désillusion dans les milieux bourgeois."
       ],
       "difficulty": 2
+    },
+    // Poésie
+    {
+      "id": "AUT038",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Poète", "Symbolisme", "Modernité"],
+      "name": "Charles BAUDELAIRE",
+      "period": "1821 - 1867",
+      "role": "Poète, critique d'art",
+      "key_works": ["Les Fleurs du Mal", "Le Spleen de Paris (Petits Poèmes en prose)"],
+      "key_facts": [
+        "Poète majeur, précurseur du symbolisme.",
+        "Explore les thèmes de la beauté et du mal, de l'idéal et du spleen, de la modernité urbaine.",
+        "Son recueil 'Les Fleurs du Mal' a fait scandale et a été partiellement censuré."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "AUT039",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Poète", "Voyant", "Symbolisme"],
+      "name": "Arthur RIMBAUD",
+      "period": "1854 - 1891",
+      "role": "Poète",
+      "key_works": ["Une saison en enfer", "Illuminations", "Le Bateau ivre"],
+      "key_facts": [
+        "Poète prodige, œuvre écrite principalement avant ses 20 ans.",
+        "A révolutionné la poésie par sa quête d'un langage nouveau ('lettre du voyant').",
+        "Relation tumultueuse avec Verlaine.",
+        "A abandonné la poésie pour voyager et faire du commerce en Afrique."
+      ],
+      "difficulty": 3
+    },
+     {
+      "id": "AUT040",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Poète", "Surréalisme"],
+      "name": "Paul ÉLUARD",
+      "period": "1895 - 1952",
+      "role": "Poète",
+      "key_works": ["Capitale de la douleur", "Liberté (poème)"],
+      "key_facts": [
+        "Poète majeur du surréalisme puis engagé dans la Résistance.",
+        "Thèmes de l'amour, du rêve, de la liberté.",
+        "Son poème 'Liberté' est devenu un symbole de la Résistance."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT041",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Poète", "Chanson"],
+      "name": "Jacques PRÉVERT",
+      "period": "1900 - 1977",
+      "role": "Poète, scénariste",
+      "key_works": ["Paroles", "Spectacle"],
+      "key_facts": [
+        "Poète très populaire, langage simple et accessible.",
+        "Thèmes : amour, enfance, critique sociale, liberté.",
+        "Nombreux poèmes mis en musique et chantés (ex: 'Les Feuilles mortes').",
+        "Scénariste de films célèbres ('Les Enfants du paradis')."
+      ],
+      "difficulty": 1
+    },
+  
+    // Roman (autres époques/genres)
+    {
+      "id": "AUT042",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Réalisme", "Roman"],
+      "name": "STENDHAL (Henri Beyle)",
+      "period": "1783 - 1842",
+      "role": "Écrivain",
+      "key_works": ["Le Rouge et le Noir", "La Chartreuse de Parme"],
+      "key_facts": [
+        "Romancier majeur du XIXe siècle, précurseur du réalisme.",
+        "Analyse psychologique fine de ses personnages (ambition, amour).",
+        "Style sobre et précis."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT043",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Réalisme", "Roman"],
+      "name": "Gustave FLAUBERT",
+      "period": "1821 - 1880",
+      "role": "Écrivain",
+      "key_works": ["Madame Bovary", "L'Éducation sentimentale", "Salammbô"],
+      "key_facts": [
+        "Figure majeure du réalisme.",
+        "Recherche obsessionnelle du style parfait ('le mot juste').",
+        "Critique de la bourgeoisie et de la médiocrité.",
+        "'Madame Bovary' a fait l'objet d'un procès pour immoralité."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT044",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XIXe siècle", "Roman", "Aventure", "Science-fiction"],
+      "name": "Jules VERNE",
+      "period": "1828 - 1905",
+      "role": "Écrivain",
+      "key_works": ["Voyages extraordinaires (cycle)", "Vingt mille lieues sous les mers", "Le Tour du monde en quatre-vingts jours", "De la Terre à la Lune"],
+      "key_facts": [
+        "Pionnier du roman d'aventure et de science-fiction.",
+        "Œuvre très populaire mêlant voyages, explorations et anticipations scientifiques.",
+        "Un des auteurs français les plus traduits dans le monde."
+      ],
+      "difficulty": 1
+    },
+      {
+      "id": "AUT045",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman", "Aventure", "Aviation"],
+      "name": "Antoine de SAINT-EXUPÉRY",
+      "period": "1900 - 1944",
+      "role": "Écrivain, poète et aviateur",
+      "key_works": ["Le Petit Prince", "Vol de nuit", "Terre des hommes"],
+      "key_facts": [
+        "Aviateur pionnier de l'Aéropostale et écrivain.",
+        "Œuvre humaniste mêlant aventure, poésie et réflexion.",
+        "'Le Petit Prince' est l'un des livres les plus vendus et traduits au monde.",
+        "Disparu en mission de reconnaissance aérienne pendant la Seconde Guerre mondiale."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "AUT046",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Roman", "Nouveau Roman"],
+      "name": "Alain ROBBE-GRILLET",
+      "period": "1922 - 2008",
+      "role": "Écrivain, cinéaste",
+      "key_works": ["Les Gommes", "La Jalousie", "Pour un Nouveau Roman (essai)"],
+      "key_facts": [
+        "Figure de proue et théoricien du Nouveau Roman.",
+        "Remise en cause des conventions du roman traditionnel (intrigue, personnage, psychologie).",
+        "Accent mis sur la description objective des objets et des perceptions.",
+        "Également réalisateur de films expérimentaux."
+      ],
+      "difficulty": 3
+    },
+  
+    // Théâtre (autres)
+    {
+      "id": "AUT047",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XVIIIe siècle", "Théâtre", "Comédie"],
+      "name": "BEAUMARCHAIS (Pierre-Augustin Caron de)",
+      "period": "1732 - 1799",
+      "role": "Écrivain, dramaturge, musicien, homme d'affaires",
+      "key_works": ["Le Barbier de Séville", "Le Mariage de Figaro"],
+      "key_facts": [
+        "Auteur de comédies célèbres mettant en scène le personnage de Figaro.",
+        "'Le Mariage de Figaro' fut considéré comme une critique audacieuse de l'Ancien Régime et précurseur de la Révolution.",
+        "Vie aventureuse (horloger, agent secret, fournisseur d'armes...)."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT048",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Théâtre", "Absurde"],
+      "name": "Eugène IONESCO",
+      "period": "1909 - 1994",
+      "role": "Dramaturge, écrivain",
+      "key_works": ["La Cantatrice chauve", "La Leçon", "Rhinocéros"],
+      "key_facts": [
+        "Un des principaux représentants du Théâtre de l'Absurde.",
+        "Pièces caractérisées par le non-sens, la critique du langage et de la conformité sociale.",
+        "Originaire de Roumanie, écrit en français."
+      ],
+      "difficulty": 3
+    },
+     {
+      "id": "AUT049",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["XXe siècle", "Théâtre", "Absurde", "Prix Nobel"],
+      "name": "Samuel BECKETT",
+      "period": "1906 - 1989",
+      "role": "Écrivain, poète, dramaturge",
+      "key_works": ["En attendant Godot", "Fin de partie"],
+      "nobel_prize": 1969,
+      "key_facts": [
+        "Figure majeure du Théâtre de l'Absurde et du minimalisme.",
+        "Explore l'absurdité de la condition humaine, l'attente, l'impossibilité de communiquer.",
+        "Originaire d'Irlande, écrit principalement en français.",
+        "Prix Nobel de littérature en 1969."
+      ],
+      "difficulty": 3
+    },
+  
+    // Musique
+    {
+      "id": "AUT050",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Musique", "Compositeur", "Impressionnisme"],
+      "name": "Claude DEBUSSY",
+      "period": "1862 - 1918",
+      "role": "Compositeur",
+      "key_works": ["Prélude à l'après-midi d'un faune", "La Mer", "Clair de lune"],
+      "key_facts": [
+        "Compositeur majeur, souvent associé à l'impressionnisme musical.",
+        "A renouvelé l'harmonie et la forme musicale.",
+        "Recherche de sonorités nouvelles et évocatrices."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT051",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Musique", "Compositeur", "XXe siècle"],
+      "name": "Maurice RAVEL",
+      "period": "1875 - 1937",
+      "role": "Compositeur",
+      "key_works": ["Boléro", "Daphnis et Chloé", "Concerto pour la main gauche"],
+      "key_facts": [
+        "Compositeur majeur du XXe siècle.",
+        "Style raffiné, orchestration brillante.",
+        "Influencé par Debussy mais avec une écriture plus structurée."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT052",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Musique", "Chanson française", "XXe siècle"],
+      "name": "Édith PIAF",
+      "period": "1915 - 1963",
+      "role": "Chanteuse",
+      "key_works": ["La Vie en rose", "Non, je ne regrette rien", "Hymne à l'amour"],
+      "key_facts": [
+        "Chanteuse emblématique de la chanson française.",
+        "Voix puissante et interprétation dramatique.",
+        "Carrière internationale, symbole de Paris."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "AUT053",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Musique", "Chanson française", "XXe siècle"],
+      "name": "Charles AZNAVOUR",
+      "period": "1924 - 2018",
+      "role": "Auteur-compositeur-interprète, acteur",
+      "key_works": ["La Bohème", "Emmenez-moi", "For me formidable"],
+      "key_facts": [
+        "Monument de la chanson française, d'origine arménienne.",
+        "Carrière exceptionnellement longue et internationale.",
+        "Auteur de plus de mille chansons."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "AUT054",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Musique", "Chanson française", "XXe siècle", "Poésie"],
+      "name": "Georges BRASSENS",
+      "period": "1921 - 1981",
+      "role": "Auteur-compositeur-interprète",
+      "key_works": ["Le Gorille", "Chanson pour l'Auvergnat", "Les Copains d'abord"],
+      "key_facts": [
+        "Figure majeure de la chanson française à texte.",
+        "Poète libertaire, anticonformiste.",
+        "Accompagnement simple à la guitare."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT055",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Musique", "Chanson française", "Belgique", "XXe siècle"],
+      "name": "Jacques BREL",
+      "period": "1929 - 1978",
+      "role": "Auteur-compositeur-interprète, acteur",
+      "key_works": ["Ne me quitte pas", "Amsterdam", "Le Moribond", "Vesoul"],
+      "key_facts": [
+        "Artiste belge francophone, immense influence sur la chanson française.",
+        "Interprétation scénique intense et théâtrale.",
+        "Textes puissants, poétiques et souvent sombres."
+      ],
+      "difficulty": 1
+    },
+  
+    // Peinture / Arts Visuels
+    {
+      "id": "AUT056",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Art", "Peinture", "XIXe siècle", "Impressionnisme"],
+      "name": "Claude MONET",
+      "period": "1840 - 1926",
+      "role": "Peintre",
+      "key_works": ["Impression, soleil levant", "Série des Nymphéas", "Série des Cathédrales de Rouen"],
+      "key_facts": [
+        "Un des fondateurs de l'impressionnisme.",
+        "Travail sur la lumière, la couleur et les impressions fugitives.",
+        "Peinture en plein air.",
+        "Ses 'Nymphéas' (jardin de Giverny) sont mondialement célèbres."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "AUT057",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Art", "Peinture", "XIXe siècle", "Impressionnisme", "Post-impressionnisme"],
+      "name": "Auguste RENOIR",
+      "period": "1841 - 1919",
+      "role": "Peintre",
+      "key_works": ["Bal du moulin de la Galette", "Le Déjeuner des canotiers"],
+      "key_facts": [
+        "Peintre majeur de l'impressionnisme.",
+        "Célèbre pour ses scènes de vie parisienne, ses portraits et ses nus.",
+        "Palette lumineuse et touche vibrante."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "AUT058",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Art", "Sculpture", "XIXe siècle"],
+      "name": "Auguste RODIN",
+      "period": "1840 - 1917",
+      "role": "Sculpteur",
+      "key_works": ["Le Penseur", "Le Baiser", "La Porte de l'Enfer"],
+      "key_facts": [
+        "Considéré comme l'un des plus grands sculpteurs.",
+        "A renouvelé la sculpture par son réalisme expressif et son travail sur le mouvement.",
+        "Influence majeure sur la sculpture moderne."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "AUT059",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Art", "Peinture", "XXe siècle", "Fauvisme", "Modernisme"],
+      "name": "Henri MATISSE",
+      "period": "1869 - 1954",
+      "role": "Peintre, dessinateur, sculpteur",
+      "key_works": ["La Danse", "Nu bleu", "Intérieur aux aubergines"],
+      "key_facts": [
+        "Figure majeure de l'art moderne.",
+        "Chef de file du fauvisme (utilisation de couleurs pures et vives).",
+        "Recherche de l'harmonie décorative et de la simplification des formes."
+      ],
+      "difficulty": 2
+    },
+  
+    // Sciences (autres)
+     {
+      "id": "AUT060",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Science", "Biologie", "Médecine", "Pasteurisation", "Vaccin"],
+      "name": "Louis PASTEUR",
+      "period": "1822 - 1895",
+      "role": "Scientifique (chimiste, physicien, biologiste)",
+      "key_facts": [
+        "Pionnier de la microbiologie.",
+        "Invention de la pasteurisation.",
+        "Développement de vaccins (notamment contre la rage).",
+        "Ses travaux ont révolutionné la médecine et l'hygiène.",
+        "Fondateur de l'Institut Pasteur."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "AUT061",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Science", "Physique", "Chimie", "Radioactivité", "Prix Nobel"],
+      "name": "Marie CURIE (Maria Skłodowska)",
+      "period": "1867 - 1934",
+      "role": "Physicienne et chimiste",
+      "key_works": ["Recherches sur les substances radioactives"],
+      "nobel_prize": "Physique 1903 (avec Pierre Curie et H. Becquerel), Chimie 1911",
+      "key_facts": [
+        "Pionnière dans l'étude de la radioactivité.",
+        "Née en Pologne, naturalisée française.",
+        "Seule personne à avoir reçu le Prix Nobel dans deux disciplines scientifiques distinctes.",
+        "Première femme lauréate du Prix Nobel, première femme professeur à la Sorbonne.",
+        "Morte des suites de son exposition aux radiations.",
+        "Inhumée au Panthéon."
+      ],
+      "difficulty": 1
+    },
+  
+    // Cinéma
+    {
+      "id": "AUT062",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Cinéma", "Réalisateur", "Pionnier"],
+      "name": "Frères LUMIÈRE (Auguste et Louis)",
+      "period": "Fin XIXe - début XXe siècle",
+      "role": "Ingénieurs, industriels, pionniers du cinéma",
+      "key_works": ["La Sortie de l'usine Lumière à Lyon", "L'Arrivée d'un train en gare de La Ciotat"],
+      "key_facts": [
+        "Inventeurs du Cinématographe (appareil de prise de vues et de projection).",
+        "Organisateurs de la première séance publique de cinéma payante (Paris, 1895).",
+        "Considérés comme les pères du cinéma."
+      ],
+      "difficulty": 1
+    },
+     {
+      "id": "AUT063",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Cinéma", "Réalisateur", "Nouvelle Vague"],
+      "name": "François TRUFFAUT",
+      "period": "1932 - 1984",
+      "role": "Réalisateur, scénariste, critique de cinéma",
+      "key_works": ["Les Quatre Cents Coups", "Jules et Jim", "Le Dernier Métro"],
+      "key_facts": [
+        "Figure majeure de la Nouvelle Vague française.",
+        "Cinéma centré sur l'enfance, l'amour, la littérature.",
+        "Style sensible et personnel."
+      ],
+      "difficulty": 2
+    },
+      {
+      "id": "AUT064",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Cinéma", "Réalisateur", "Nouvelle Vague"],
+      "name": "Jean-Luc GODARD",
+      "period": "1930 - 2022",
+      "role": "Réalisateur, scénariste, critique de cinéma",
+      "key_works": ["À bout de souffle", "Le Mépris", "Pierrot le Fou"],
+      "key_facts": [
+        "Figure emblématique et radicale de la Nouvelle Vague.",
+        "A révolutionné le langage cinématographique (montage, narration).",
+        "Cinéma intellectuel, politique et expérimental."
+      ],
+      "difficulty": 3
+    },
+      {
+      "id": "AUT065",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Cinéma", "Actrice", "XXe siècle"],
+      "name": "Brigitte BARDOT",
+      "period": "Née en 1934",
+      "role": "Actrice, chanteuse, militante des droits des animaux",
+      "key_works": ["Et Dieu… créa la femme", "Le Mépris"],
+      "key_facts": [
+        "Icône du cinéma français des années 50-60, sex-symbol international.",
+        "A arrêté sa carrière d'actrice pour se consacrer à la défense des animaux."
+      ],
+      "notes": "Souvent citée dans les questions de naturalisation.",
+      "difficulty": 1
+    },
+     {
+      "id": "AUT066",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Cinéma", "Acteur", "XXe siècle", "XXIe siècle"],
+      "name": "Gérard DEPARDIEU",
+      "period": "Né en 1948",
+      "role": "Acteur",
+      "key_works": ["Les Valseuses", "Le Dernier Métro", "Cyrano de Bergerac", "Astérix et Obélix"],
+      "key_facts": [
+        "Un des acteurs français les plus connus et prolifiques.",
+        "Grande diversité de rôles, du drame à la comédie.",
+        "Personnalité controversée."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "AUT067",
+      "category": "Personnalités & Culture",
+      "type": "Figure",
+      "tags": ["Cinéma", "Actrice", "XXIe siècle", "International"],
+      "name": "Marion COTILLARD",
+      "period": "Née en 1975",
+      "role": "Actrice",
+      "key_works": ["La Môme (Oscar)", "Inception", "De rouille et d'os"],
+      "key_facts": [
+        "Actrice française reconnue internationalement.",
+        "A remporté l'Oscar de la meilleure actrice pour son interprétation d'Édith Piaf."
+      ],
+      "difficulty": 1
     }
   ]

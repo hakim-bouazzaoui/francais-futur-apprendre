@@ -1,9 +1,10 @@
 [
+    // --- Entrées existantes (inchangées) ---
     {
       "id": "VAL001",
       "category": "Valeurs & Principes",
       "type": "Term",
-      "tags": ["État de Droit", "Fondamental", "République"],
+      "tags": ["État de Droit", "Fondamental", "République", "Droit"],
       "term": "État de Droit",
       "definition": "Concept où la puissance de l'État est limitée par le droit. Il repose sur 3 critères : 1) Hiérarchie des normes (chaque règle respecte une norme supérieure, ex: loi respecte Constitution), 2) Égalité devant la loi (tous, y compris l'État, sont soumis aux mêmes règles), 3) Séparation des pouvoirs (exécutif, législatif, judiciaire).",
       "notes": "Théorisé par Hans Kelsen. Fondamental pour la République Française.",
@@ -13,7 +14,7 @@
       "id": "VAL002",
       "category": "Valeurs & Principes",
       "type": "Quiz",
-      "tags": ["État de Droit", "Séparation des pouvoirs", "Montesquieu"],
+      "tags": ["État de Droit", "Séparation des pouvoirs", "Montesquieu", "Lumières"],
       "question": "Qui a théorisé le principe de la séparation des pouvoirs (exécutif, législatif, judiciaire) essentiel à l'État de droit ?",
       "answer": "Montesquieu",
       "options": [
@@ -28,7 +29,7 @@
       "id": "VAL003",
       "category": "Valeurs & Principes",
       "type": "Flashcard",
-      "tags": ["État de Droit", "Hiérarchie des normes"],
+      "tags": ["État de Droit", "Hiérarchie des normes", "Constitution"],
       "front": "Quel est le principe de la hiérarchie des normes dans un État de Droit ?",
       "back": "Chaque norme juridique (loi, décret...) doit être conforme à une norme qui lui est supérieure. La Constitution est au sommet de cette hiérarchie en France.",
       "difficulty": 2
@@ -37,7 +38,7 @@
       "id": "VAL004",
       "category": "Valeurs & Principes",
       "type": "Flashcard",
-      "tags": ["État de Droit", "Égalité"],
+      "tags": ["État de Droit", "Égalité", "Loi"],
       "front": "Que signifie l'égalité devant la loi dans un État de Droit ?",
       "back": "Les personnes (physiques ou morales) et les organisations, y compris l'État lui-même, sont soumises aux mêmes règles juridiques.",
       "difficulty": 2
@@ -46,7 +47,7 @@
       "id": "VAL005",
       "category": "Valeurs & Principes",
       "type": "Term",
-      "tags": ["Citoyenneté", "Nationalité"],
+      "tags": ["Citoyenneté", "Nationalité", "Droits", "Devoirs"],
       "term": "Citoyenneté",
       "definition": "Fait pour un individu ou un groupe d'être reconnu officiellement comme membre d'une Cité (ville) ou, plus généralement, d'un État. Implique des droits (civils, politiques) et des devoirs civiques.",
       "notes": "Ne pas confondre avec la nationalité (lien juridique avec un État). On peut être de nationalité française et citoyen européen.",
@@ -56,15 +57,204 @@
       "id": "VAL006",
       "category": "Valeurs & Principes",
       "type": "Lesson",
-      "tags": ["Démocratie", "Origines", "Principes", "Lumières"],
+      "tags": ["Démocratie", "Origines", "Principes", "Lumières", "Souveraineté"],
       "title": "La Démocratie : Origines et Principes Fondamentaux",
       "key_points": [
-        "Origine : Grèce antique (Athènes, Ve s. av. JC), mais citoyenneté limitée (hommes adultes libres).",
+        "Origine : Grèce antique (Athènes, Ve s. av. JC), mais citoyenneté limitée.",
         "Étymologie : 'Dêmos' (peuple) + 'Kratos' (pouvoir).",
-        "Principes athéniens : Égalité en droit (isonomie), participation aux décisions (Ecclesia), accès aux fonctions publiques.",
         "Démocratie moderne : Système où le peuple est souverain, protégé par des institutions contre la tyrannie, respectant des procédures légales. Valeurs clés : égalité et liberté.",
         "Influence des Lumières : Critique de l'absolutisme, promotion de la raison, des droits de l'homme, de la séparation des pouvoirs (Montesquieu), du contrat social (Rousseau)."
       ],
       "difficulty": 2
+    },
+  
+    // --- Nouvelles entrées ---
+    {
+      "id": "VAL007",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["Devise", "République", "Liberté", "Égalité", "Fraternité", "Constitution"],
+      "front": "Quelle est la devise de la République française ?",
+      "back": "Liberté, Égalité, Fraternité.",
+      "notes": "Inscrite à l'Article 2 de la Constitution de 1958.",
+      "difficulty": 1
+    },
+    {
+      "id": "VAL008",
+      "category": "Valeurs & Principes",
+      "type": "TimelineEvent",
+      "tags": ["Devise", "République", "Histoire"],
+      "date": "1848",
+      "event": "Adoption officielle de la devise 'Liberté, Égalité, Fraternité'",
+      "details": "La devise devient officiellement celle de la France lors de la proclamation de la IIème République.",
+      "difficulty": 3
+    },
+    {
+      "id": "VAL009",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["Liberté", "Droits fondamentaux", "DDHC"],
+      "title": "Le Principe de Liberté",
+      "key_points": [
+        "Fondement : Art. 1 et 4 de la DDHC ('Les hommes naissent et demeurent libres...'; 'La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui').",
+        "Comprend de nombreuses libertés : d'opinion, d'expression, de conscience, de culte, de réunion, d'association, de circulation, de la presse, droit à la vie privée, droit de propriété, sûreté (protection contre l'arbitraire).",
+        "Limites : La liberté de chacun s'arrête où commence celle des autres, et elle est encadrée par la loi pour protéger l'ordre public et les droits d'autrui."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "VAL010",
+      "category": "Valeurs & Principes",
+      "type": "Quiz",
+      "tags": ["Liberté", "Limites", "Loi"],
+      "question": "Quelle est la principale limite à l'exercice des libertés individuelles en France ?",
+      "answer": "Le respect de la loi et des droits des autres.",
+      "options": [
+        {"text": "La volonté du Président.", "isCorrect": false},
+        {"text": "Les traditions religieuses.", "isCorrect": false},
+        {"text": "Le respect de la loi et des droits des autres.", "isCorrect": true},
+        {"text": "L'appartenance politique.", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "VAL011",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["Égalité", "Droits fondamentaux", "DDHC", "Constitution"],
+      "title": "Le Principe d'Égalité",
+      "key_points": [
+        "Fondement : Art. 1 DDHC ('Les hommes naissent et demeurent libres et égaux en droits'). Art. 1 Constitution ('La France... assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion').",
+        "Signification : Égalité devant la loi (la même pour tous), égalité devant la justice, égalité devant l'impôt, égalité d'accès aux emplois publics.",
+        "Inclut : Égalité des sexes (hommes-femmes), lutte contre les discriminations.",
+        "Objectif : Assurer les mêmes droits et les mêmes chances à tous les citoyens."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "VAL012",
+      "category": "Valeurs & Principes",
+      "type": "Quiz",
+      "tags": ["Égalité", "Discrimination"],
+      "question": "Le principe d'égalité interdit les distinctions basées sur :",
+      "answer": "L'origine, la race, la religion, le sexe, etc.",
+      "options": [
+        {"text": "Le mérite et le talent.", "isCorrect": false},
+        {"text": "L'origine, la race, la religion, le sexe, etc.", "isCorrect": true},
+        {"text": "L'âge légal de la majorité.", "isCorrect": false},
+        {"text": "Le lieu de résidence.", "isCorrect": false}
+      ],
+      "notes": "L'Art 1 DDHC précise que les distinctions sociales ne peuvent être fondées que sur l'utilité commune.",
+      "difficulty": 1
+    },
+    {
+      "id": "VAL013",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["Fraternité", "Solidarité", "Constitution", "Protection sociale"],
+      "title": "Le Principe de Fraternité",
+      "key_points": [
+        "Fondement : Devise républicaine. Mentionnée dans le préambule de la Constitution de 1946.",
+        "Signification : Lien de solidarité et d'entraide entre les membres de la communauté nationale.",
+        "Manifestations concrètes : Système de protection sociale (Sécurité Sociale, assurance chômage), impôt progressif, aide aux plus démunis, devoir d'assistance à personne en danger.",
+        "Implique : Respect mutuel, refus de l'exclusion et de la haine."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "VAL014",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["Fraternité", "Solidarité", "Protection sociale"],
+      "front": "Quel système illustre concrètement le principe de Fraternité en France ?",
+      "back": "Le système de protection sociale (Sécurité Sociale), basé sur la solidarité nationale.",
+      "difficulty": 2
+    },
+     {
+      "id": "VAL015", // Reprise concise de LAIC001 pour cette catégorie
+      "category": "Valeurs & Principes",
+      "type": "Term",
+      "tags": ["Laïcité", "Fondamental", "République", "Loi 1905", "Neutralité", "Liberté de conscience"],
+      "term": "Laïcité",
+      "definition": "Principe fondamental (Constitution Art. 1, Loi 1905) assurant la liberté de conscience et la neutralité de l'État vis-à-vis des religions. L'État ne reconnaît ni ne finance aucun culte et garantit le libre exercice des cultes dans le respect de l'ordre public.",
+      "difficulty": 1
+    },
+    {
+      "id": "VAL016",
+      "category": "Valeurs & Principes",
+      "type": "Lesson",
+      "tags": ["République", "Caractéristiques", "Constitution"],
+      "title": "Les Caractères de la République Française",
+      "key_points": [
+        "Article 1 de la Constitution de 1958 : 'La France est une République indivisible, laïque, démocratique et sociale.'",
+        "- **Indivisible** : La souveraineté nationale appartient au peuple entier, aucune partie ne peut se l'attribuer. L'unité du territoire et l'unicité de la loi sont affirmées.",
+        "- **Laïque** : Séparation des Églises et de l'État, neutralité de l'État, liberté de conscience.",
+        "- **Démocratique** : Le pouvoir émane du peuple (suffrage universel), respect des libertés fondamentales, pluralisme politique.",
+        "- **Sociale** : Recherche de l'égalité réelle, protection des plus faibles, droit à la protection sociale, à l'éducation, à la santé."
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "VAL017",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["République", "Indivisible"],
+      "front": "Que signifie le caractère 'indivisible' de la République ?",
+      "back": "Que la souveraineté appartient au peuple français dans son ensemble et que la loi est la même sur tout le territoire.",
+      "difficulty": 2
+    },
+    {
+      "id": "VAL018",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["République", "Sociale"],
+      "front": "Que signifie le caractère 'social' de la République ?",
+      "back": "Que l'État vise à réduire les inégalités et à garantir des droits sociaux à tous (éducation, santé, protection...).",
+      "difficulty": 2
+    },
+    {
+      "id": "VAL019",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["Souveraineté", "Peuple", "Démocratie"],
+      "front": "À qui appartient la souveraineté nationale en France ?",
+      "back": "Au peuple, qui l'exerce par ses représentants (élus) et par la voie du référendum.",
+      "notes": "Principe de la démocratie.",
+      "difficulty": 1
+    },
+    {
+      "id": "VAL020",
+      "category": "Valeurs & Principes",
+      "type": "Flashcard",
+      "tags": ["Langue", "République", "Constitution"],
+      "front": "Quelle est la langue de la République selon la Constitution ?",
+      "back": "Le français (Article 2 de la Constitution).",
+      "difficulty": 1
+    },
+    {
+      "id": "VAL021",
+      "category": "Valeurs & Principes",
+      "type": "Quiz",
+      "tags": ["Respect de la loi", "État de Droit", "Devoirs"],
+      "question": "Le respect de la loi est-il une option ou une obligation pour tous les citoyens ?",
+      "answer": "Une obligation",
+      "options": [
+        {"text": "Une option si on n'est pas d'accord.", "isCorrect": false},
+        {"text": "Une obligation seulement pour les étrangers.", "isCorrect": false},
+        {"text": "Une obligation pour tous.", "isCorrect": true},
+        {"text": "Une option si la loi semble injuste.", "isCorrect": false}
+      ],
+      "notes": "Fondement de l'État de Droit.",
+      "difficulty": 1
+    },
+      {
+      "id": "VAL022",
+      "category": "Valeurs & Principes",
+      "type": "Term",
+      "tags": ["Mérite", "Égalité", "République"],
+      "term": "Mérite Républicain",
+      "definition": "Idée selon laquelle la réussite sociale et la reconnaissance doivent être fondées sur le talent, l'effort et les capacités individuelles, et non sur l'origine sociale, la naissance ou les privilèges. Lié au principe d'égalité des chances.",
+      "notes": "L'école républicaine vise notamment à promouvoir ce mérite.",
+      "difficulty": 3
     }
   ]

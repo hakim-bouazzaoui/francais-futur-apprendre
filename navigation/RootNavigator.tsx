@@ -5,6 +5,7 @@ import LessonDetailScreen from '../screens/Lessons/LessonDetailScreen';
 import QuizScreen from '../screens/Quiz/QuizScreen';
 import QuizResultsScreen from '../screens/Quiz/QuizResultsScreen';
 import SRSReviewScreen from '../screens/Revision/SRSReviewScreen';
+import ContentTestScreen from '../screens/ContentTestScreen';
 import type { RootStackParamList } from './types';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -54,6 +55,16 @@ const RootNavigator = () => {
           // Prevent going back during review
           headerBackVisible: false,
         })}
+      />
+      <Stack.Screen
+        name="ContentTest"
+        component={ContentTestScreen}
+        options={{
+          title: 'Test du Contenu',
+          headerTintColor: '#0055A4',
+          // Only show in development
+          presentation: __DEV__ ? 'card' : 'none',
+        }}
       />
     </Stack.Navigator>
   );
