@@ -1,4 +1,3 @@
-
 import { LearningModuleProps } from "@/components/LearningModule";
 
 export const modules: LearningModuleProps[] = [
@@ -84,46 +83,92 @@ export const badges = [
   }
 ];
 
-export const questions = [
+export interface QuizQuestion {
+  id: string;
+  moduleId: string;
+  question: string;
+  options: string[];
+  correctAnswer: string;
+  explanation: string;
+}
+
+export const questions: QuizQuestion[] = [
+  // Histoire
   {
-    id: "q1",
+    id: "h1",
     moduleId: "history",
-    question: "En quelle année la République française a-t-elle été proclamée pour la première fois ?",
+    question: "En quelle année a eu lieu la Révolution française ?",
     options: ["1789", "1792", "1804", "1848"],
-    correctAnswer: "1792",
-    explanation: "La Première République française a été proclamée le 22 septembre 1792, après la chute de la monarchie pendant la Révolution française."
+    correctAnswer: "1789",
+    explanation: "La Révolution française a débuté en 1789 avec la prise de la Bastille le 14 juillet."
   },
   {
-    id: "q2",
+    id: "h2",
     moduleId: "history",
-    question: "Quel symbole n'est PAS un emblème officiel de la République française ?",
-    options: ["Marianne", "La devise 'Liberté, Égalité, Fraternité'", "Le drapeau tricolore", "La fleur de lys"],
-    correctAnswer: "La fleur de lys",
-    explanation: "La fleur de lys était un symbole de la monarchie française, pas de la République."
+    question: "Qui était Charles de Gaulle ?",
+    options: [
+      "Un militaire et président de la 5ème République",
+      "Un roi de France",
+      "Un philosophe des Lumières",
+      "Un écrivain célèbre"
+    ],
+    correctAnswer: "Un militaire et président de la 5ème République",
+    explanation: "Charles de Gaulle était un militaire, résistant et homme politique français qui a fondé la 5ème République."
+  },
+  // Institutions
+  {
+    id: "i1",
+    moduleId: "institutions",
+    question: "Quelle est la devise de la République française ?",
+    options: [
+      "Liberté, Égalité, Fraternité",
+      "Travail, Famille, Patrie",
+      "Unité, Progrès, Justice",
+      "Ordre et Justice"
+    ],
+    correctAnswer: "Liberté, Égalité, Fraternité",
+    explanation: "Liberté, Égalité, Fraternité est la devise de la République française depuis 1848."
   },
   {
-    id: "q3",
+    id: "i2",
+    moduleId: "institutions",
+    question: "Quel est le rôle du Parlement français ?",
+    options: [
+      "Voter les lois et contrôler l'action du gouvernement",
+      "Diriger la police et l'armée",
+      "Représenter la France à l'étranger",
+      "Gérer les collectivités locales"
+    ],
+    correctAnswer: "Voter les lois et contrôler l'action du gouvernement",
+    explanation: "Le Parlement, composé de l'Assemblée nationale et du Sénat, vote les lois et contrôle l'action du gouvernement."
+  },
+  // Culture
+  {
+    id: "c1",
+    moduleId: "culture",
+    question: "Qui a écrit Les Trois Mousquetaires ?",
+    options: [
+      "Alexandre Dumas",
+      "Victor Hugo",
+      "Émile Zola",
+      "Voltaire"
+    ],
+    correctAnswer: "Alexandre Dumas",
+    explanation: "Les Trois Mousquetaires est un roman d'Alexandre Dumas écrit en collaboration avec Auguste Maquet."
+  },
+  // Géographie
+  {
+    id: "g1",
     moduleId: "geography",
-    question: "Combien de régions la France métropolitaine compte-t-elle actuellement ?",
-    options: ["13", "18", "22", "27"],
-    correctAnswer: "13",
-    explanation: "Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 régions, contre 22 auparavant."
-  },
-  {
-    id: "q4",
-    moduleId: "institutions",
-    question: "Qui élit le président de la République française ?",
-    options: ["L'Assemblée nationale", "Le Sénat", "Les citoyens français par suffrage universel direct", "Le Conseil constitutionnel"],
-    correctAnswer: "Les citoyens français par suffrage universel direct",
-    explanation: "Depuis la réforme constitutionnelle de 1962, le président est élu au suffrage universel direct par les citoyens français."
-  },
-  {
-    id: "q5",
-    moduleId: "institutions",
-    question: "Quelle est la durée du mandat présidentiel en France actuellement ?",
-    options: ["4 ans", "5 ans", "6 ans", "7 ans"],
-    correctAnswer: "5 ans",
-    explanation: "Depuis la réforme constitutionnelle de 2000, le mandat présidentiel est de 5 ans (quinquennat)."
+    question: "Quels sont les pays frontaliers de la France ?",
+    options: [
+      "Belgique, Luxembourg, Allemagne, Suisse, Italie, Andorre, Espagne, Monaco",
+      "Belgique, Pays-Bas, Allemagne, Suisse, Italie, Espagne",
+      "Belgique, Luxembourg, Allemagne, Autriche, Italie, Espagne",
+      "Belgique, Royaume-Uni, Allemagne, Suisse, Italie, Espagne"
+    ],
+    correctAnswer: "Belgique, Luxembourg, Allemagne, Suisse, Italie, Andorre, Espagne, Monaco",
+    explanation: "La France métropolitaine partage ses frontières avec huit pays."
   }
 ];
 
