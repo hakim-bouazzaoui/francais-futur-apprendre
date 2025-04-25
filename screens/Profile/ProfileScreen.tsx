@@ -38,6 +38,17 @@ const ProfileScreen = () => {
                 <Paragraph style={styles.buttonDescription}>
                   Analyser la distribution et la structure du contenu
                 </Paragraph>
+
+                <Button
+                  mode="contained"
+                  onPress={() => navigation.navigate('ContentSyncTest')}
+                  style={styles.button}
+                >
+                  Test de Synchronisation
+                </Button>
+                <Paragraph style={styles.buttonDescription}>
+                  Tester la synchronisation automatique du contenu
+                </Paragraph>
               </View>
             </Card.Content>
           </Card>
@@ -69,6 +80,7 @@ const styles = StyleSheet.create({
     fontSize: 12,
     color: '#666',
     marginLeft: 8,
+    marginBottom: 16,
   },
 });
 
