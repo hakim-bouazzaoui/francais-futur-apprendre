@@ -10,6 +10,7 @@ import { theme } from '../constants/theme';
 const ContentSyncTestScreen = () => {
   const [events, setEvents] = useState<Array<{ event: string; timestamp: number }>>([]);
   const [analysis, setAnalysis] = useState<any>(null);
+  const [testSyncResult, setTestSyncResult] = useState<any>(null);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
@@ -28,6 +29,7 @@ const ContentSyncTestScreen = () => {
 
     // Initial analysis
     updateAnalysis();
+    verifyTestSync();
 
     return () => {
       // Cleanup event handlers
@@ -42,11 +44,17 @@ const ContentSyncTestScreen = () => {
     setAnalysis(result);
   };
 
+  const verifyTestSync = async () => {
+    const result = await ContentTestHelper.verifyTestSyncContent();
+    setTestSyncResult(result);
+  };
+
   const handleSimulateChanges = async () => {
     setLoading(true);
     try {
       await ContentTestHelper.simulateContentChanges();
       await updateAnalysis();
+      await verifyTestSync();
     } catch (error) {
       console.error('Error simulating changes:', error);
     } finally {
@@ -59,6 +67,7 @@ const ContentSyncTestScreen = () => {
     try {
       await dataSync.forceRefresh();
       await updateAnalysis();
+      await verifyTestSync();
     } catch (error) {
       console.error('Error forcing refresh:', error);
     } finally {
@@ -72,6 +81,7 @@ const ContentSyncTestScreen = () => {
       await ContentTestHelper.clearCache();
       await dataSync.forceRefresh();
       await updateAnalysis();
+      await verifyTestSync();
     } catch (error) {
       console.error('Error clearing cache:', error);
     } finally {
@@ -107,6 +117,33 @@ const ContentSyncTestScreen = () => {
                   title="Intégrité"
                   description={analysis.isConsistent ? '✅ OK' : '❌ Erreurs'}
                 />
+              </>
+            )}
+          </Card.Content>
+        </Card>
+
+        {/* Test Sync Results */}
+        <Card style={styles.card}>
+          <Card.Content>
+            <Title>Test de Synchronisation</Title>
+            {testSyncResult && (
+              <>
+                <List.Item
+                  title="Contenu de test trouvé"
+                  description={testSyncResult.found ? '✅ Oui' : '❌ Non'}
+                />
+                <Divider />
+                <List.Item
+                  title="Éléments de test"
+                  description={`${testSyncResult.itemCount} éléments`}
+                />
+                {testSyncResult.items.map((item: any) => (
+                  <List.Item
+                    key={item.id}
+                    title={item.id}
+                    description={`Type: ${item.type}`}
+                  />
+                ))}
               </>
             )}
           </Card.Content>

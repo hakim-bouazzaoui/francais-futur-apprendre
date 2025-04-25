@@ -19,7 +19,8 @@
     "protection_sociale.json",
     "sante.json",
     "securite_defense.json",
-    "valeurs_republique.json"
+    "valeurs_republique.json",
+    "test_sync.json"
   ],
   "version": "1.0",
   "lastUpdated": "2025-04-25",

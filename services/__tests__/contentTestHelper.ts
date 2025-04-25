@@ -162,4 +162,27 @@ export class ContentTestHelper {
 
     return integrity;
   }
+
+  /**
+   * Verify test sync content
+   */
+  static async verifyTestSyncContent() {
+    const content = contentRegistry.getContent();
+    const testContent = content.filter(item => item.category === 'Test Sync');
+    
+    console.log('\n=== Test Sync Content ===');
+    console.log(`Found ${testContent.length} test items`);
+    testContent.forEach(item => {
+      console.log(`\nItem: ${item.id}`);
+      console.log(`Type: ${item.type}`);
+      console.log(`Tags: ${item.tags.join(', ')}`);
+    });
+    console.log('=====================\n');
+
+    return {
+      found: testContent.length > 0,
+      itemCount: testContent.length,
+      items: testContent
+    };
+  }
 }

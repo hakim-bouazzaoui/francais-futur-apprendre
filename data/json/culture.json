@@ -1,0 +1,594 @@
+[
+    // --- CULTURE minscellaneous ---
+    {
+      "id": "CULT001",
+      "category": "Culture",
+      "type": "Lesson",
+      "tags": ["Cuisine", "Gastronomie", "Repas", "UNESCO"],
+      "title": "La Gastronomie Française",
+      "key_points": [
+        "Réputation mondiale : Reconnue pour sa diversité et son raffinement.",
+        "Repas gastronomique des Français : Inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2010 (valorise convivialité, art du 'bien manger', produits du terroir...).",
+        "Diversité Régionale : Chaque région a ses spécialités (ex: Choucroute alsacienne, Cassoulet du Sud-Ouest, Bouillabaisse marseillaise, Crêpes bretonnes, Bœuf bourguignon...).",
+        "Produits emblématiques : Fromages (+ de 1200 variétés !), Vins (Bordeaux, Bourgogne, Champagne...), Pain (baguette), Pâtisseries.",
+        "Moments clés : Apéritif, repas structuré (entrée, plat, fromage, dessert), importance des produits frais et de saison."
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "CULT002",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Gastronomie", "Plats régionaux"],
+      "front": "Citez 3 plats typiques régionaux français.",
+      "back": "Exemples : Choucroute (Alsace), Quiche Lorraine, Cassoulet (Sud-Ouest), Bouillabaisse (Marseille), Pot-au-feu, Tartiflette (Savoie), Coq au vin, Crêpes/Galettes (Bretagne)...",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT003",
+      "category": "Culture",
+      "type": "Quiz",
+      "tags": ["Cuisine", "Gastronomie", "Fromage"],
+      "question": "Quel produit laitier est particulièrement emblématique de la diversité culinaire française ?",
+      "answer": "Le fromage",
+      "options": [
+         {"text": "Le yaourt", "isCorrect": false},
+         {"text": "Le beurre", "isCorrect": false},
+         {"text": "Le fromage", "isCorrect": true},
+         {"text": "La crème fraîche", "isCorrect": false}
+      ],
+      "notes": "On dit souvent qu'il existe un fromage différent pour chaque jour de l'année.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT004",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Gastronomie", "Boissons", "Vin"],
+      "front": "Citez deux grandes régions viticoles françaises.",
+      "back": "Exemples : Bordeaux, Bourgogne, Champagne, Vallée de la Loire, Vallée du Rhône, Alsace, Provence...",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT005",
+      "category": "Culture",
+      "type": "Lesson",
+      "tags": ["Architecture", "Patrimoine", "Styles", "Histoire"],
+      "title": "Aperçu de l'Architecture en France",
+      "key_points": [
+        "Riche patrimoine architectural témoignant de l'histoire.",
+        "Styles majeurs :",
+        "  - Gallo-Romain : Arènes (Nîmes, Arles), Théâtres (Orange), Aqueducs (Pont du Gard).",
+        "  - Roman (XIe-XIIe s) : Églises robustes, voûtes en berceau, murs épais, petites ouvertures (ex: Abbaye de Cluny, St-Sernin Toulouse).",
+        "  - Gothique (XIIe-XVe s) : Cathédrales élancées, arcs-boutants, voûtes sur croisée d'ogives, grands vitraux (ex: Notre-Dame Paris, Chartres, Reims, Amiens).",
+        "  - Renaissance (XVIe s) : Influence italienne, châteaux de la Loire (Chambord, Chenonceau), symétrie, ordres antiques.",
+        "  - Classique (XVIIe s - Louis XIV) : Ordre, symétrie, grandeur (ex: Château de Versailles, Place Vendôme, Les Invalides).",
+        "  - Baroque : Variante plus ornementée du classique.",
+        "  - Haussmannien (XIXe s) : Transformation de Paris sous Napoléon III (grands boulevards, immeubles en pierre de taille).",
+        "  - Art Nouveau / Art Déco (début XXe s) : Motifs floraux, courbes / Formes géométriques.",
+        "  - Moderne / Contemporain : Le Corbusier, Centre Pompidou, Pyramide du Louvre, Philharmonie de Paris..."
+      ],
+      "difficulty": 2
+    },
+     {
+      "id": "CULT006",
+      "category": "Culture",
+      "type": "Quiz",
+      "tags": ["Architecture", "Art Gothique", "Cathédrales"],
+      "question": "Quel style architectural est caractérisé par des cathédrales très hautes avec des arcs-boutants et de grands vitraux ?",
+      "answer": "Le style Gothique",
+      "options": [
+         {"text": "Le style Roman", "isCorrect": false},
+         {"text": "Le style Gothique", "isCorrect": true},
+         {"text": "Le style Renaissance", "isCorrect": false},
+         {"text": "Le style Classique", "isCorrect": false}
+      ],
+      "difficulty": 1
+    },
+      {
+      "id": "CULT007",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Art Gothique", "Cathédrales"],
+      "front": "Citez deux cathédrales gothiques célèbres en France.",
+      "back": "Notre-Dame de Paris, Chartres, Reims, Amiens, Strasbourg...",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT008",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Renaissance", "Châteaux"],
+      "front": "Dans quelle région se trouvent de nombreux châteaux célèbres de la Renaissance ?",
+      "back": "Dans la Vallée de la Loire.",
+      "notes": "Ex: Chambord, Chenonceau, Amboise...",
+      "difficulty": 1
+    },
+     {
+      "id": "CULT009",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Classicisme", "Versailles", "Louis XIV"],
+      "front": "Quel château emblématique représente le style Classique français et l'apogée de la monarchie absolue sous Louis XIV ?",
+      "back": "Le Château de Versailles.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT010",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Paris", "Haussmann", "XIXe siècle"],
+      "front": "Qui a dirigé la transformation de Paris au XIXe siècle avec la création des grands boulevards ?",
+      "back": "Le Baron Haussmann (sous Napoléon III).",
+      "difficulty": 2
+    },
+    {
+      "id": "CULT011",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Patrimoine", "Monuments", "Paris", "Tour Eiffel"],
+      "front": "Pour quelle occasion la Tour Eiffel a-t-elle été construite ?",
+      "back": "Pour l'Exposition Universelle de 1889 à Paris.",
+      "difficulty": 1
+    },
+     {
+      "id": "CULT012",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Patrimoine", "Monuments", "Paris", "Louvre"],
+      "front": "Quel célèbre musée parisien est installé dans un ancien palais royal et reconnaissable à sa pyramide de verre ?",
+      "back": "Le Musée du Louvre.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT013",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Patrimoine", "Monuments", "Paris", "Arc de Triomphe"],
+      "front": "Quel monument parisien se trouve au sommet de l'avenue des Champs-Élysées ?",
+      "back": "L'Arc de Triomphe.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT014",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Patrimoine", "Monuments", "Mont Saint-Michel"],
+      "front": "Quel monument célèbre, une abbaye sur un îlot rocheux, se trouve en Normandie ?",
+      "back": "Le Mont Saint-Michel.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT015",
+      "category": "Culture",
+      "type": "Flashcard",
+      "tags": ["Patrimoine", "UNESCO", "Liste"],
+      "front": "Citez un site ou un élément français inscrit au patrimoine mondial de l'UNESCO.",
+      "back": "Exemples : Mont Saint-Michel, Palais de Versailles, Rives de la Seine à Paris, Cathédrale de Chartres, Cité de Carcassonne, Pont du Gard, Centre historique d'Avignon, Sites préhistoriques de la Vézère... (et le Repas gastronomique !)",
+      "notes": "La France compte de nombreux sites inscrits.",
+      "difficulty": 2
+    },
+    {
+      "id": "CULT016",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Plats régionaux", "Lorraine", "Alsace"],
+      "image_ref": "quiche_choucroute.jpg",
+      "front": "Citez un plat typique de Lorraine et un plat typique d'Alsace.",
+      "back": "Lorraine : Quiche Lorraine. Alsace : Choucroute garnie.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT017",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Plats régionaux", "Bourgogne"],
+      "image_ref": "boeuf_bourguignon.jpg",
+      "front": "Quel plat mijoté à base de bœuf et de vin rouge est une spécialité de Bourgogne ?",
+      "back": "Le Bœuf Bourguignon.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT018",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Plats régionaux", "Sud-Ouest"],
+      "image_ref": "cassoulet.jpg",
+      "front": "Quel plat copieux à base de haricots blancs et de viandes (canard, porc...) est typique du Sud-Ouest ?",
+      "back": "Le Cassoulet (Toulouse, Castelnaudary, Carcassonne).",
+      "difficulty": 2
+    },
+    {
+      "id": "CULT019",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Plats régionaux", "Provence", "Marseille"],
+      "image_ref": "bouillabaisse.jpg",
+      "front": "Quelle soupe de poissons de roche est une spécialité emblématique de Marseille ?",
+      "back": "La Bouillabaisse.",
+      "difficulty": 2
+    },
+    {
+      "id": "CULT020",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Plats régionaux", "Bretagne"],
+      "image_ref": "crepes_galettes.jpg",
+      "front": "Quelles sont les fines galettes salées (sarrasin) et sucrées (froment) typiques de Bretagne ?",
+      "back": "Les Galettes (salées) et les Crêpes (sucrées).",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT021",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Plats régionaux", "Savoie", "Montagne"],
+      "image_ref": "tartiflette_raclette.jpg",
+      "front": "Citez un plat convivial à base de fromage fondu typique des Alpes / Savoie.",
+      "back": "La Tartiflette (reblochon, pommes de terre, lardons) ou la Raclette.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT022",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Pâtisserie", "Boulangerie"],
+      "image_ref": "croissant_painchoc.jpg",
+      "front": "Citez deux viennoiseries françaises très connues.",
+      "back": "Le Croissant, le Pain au chocolat (ou chocolatine dans le Sud-Ouest).",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT023",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Pâtisserie", "Dessert"],
+      "image_ref": "macaron_eclair.jpg",
+      "front": "Citez deux pâtisseries françaises célèbres.",
+      "back": "L'Éclair (au chocolat, café...), le Macaron, le Mille-feuille, la Tarte Tatin, la Crème brûlée...",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT024",
+      "category": "Culture (Cuisine)",
+      "type": "Flashcard",
+      "tags": ["Cuisine", "Boulangerie", "Pain"],
+      "image_ref": "baguette.jpg",
+      "front": "Quel type de pain est emblématique de la France ?",
+      "back": "La Baguette (notamment la baguette de tradition française).",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT025",
+      "category": "Culture (Cuisine)",
+      "type": "Term",
+      "tags": ["Cuisine", "Gastronomie", "Concept", "Produits"],
+      "term": "Terroir",
+      "definition": "Notion qui lie un produit alimentaire (vin, fromage, charcuterie...) à une zone géographique spécifique, avec ses caractéristiques propres (sol, climat, savoir-faire). Souligne l'importance de l'origine et de la tradition.",
+      "difficulty": 3
+    },
+    {
+      "id": "CULT026",
+      "category": "Culture (Cuisine)",
+      "type": "Term",
+      "tags": ["Cuisine", "Gastronomie", "Labels", "Qualité", "Origine"],
+      "term": "AOC / AOP",
+      "definition": "Appellation d'Origine Contrôlée (AOC - label français) / Appellation d'Origine Protégée (AOP - équivalent européen). Labels qui garantissent qu'un produit (vin, fromage...) provient d'une zone géographique délimitée et respecte un cahier des charges strict lié au terroir et au savoir-faire.",
+      "difficulty": 3
+    },
+    {
+      "id": "CULT027",
+      "category": "Culture (Cuisine)",
+      "type": "Quiz",
+      "tags": ["Cuisine", "Gastronomie", "Plats régionaux"],
+      "question": "Laquelle de ces spécialités n'est PAS typique de la région Provence-Alpes-Côte d'Azur ?",
+      "answer": "La Choucroute",
+      "options": [
+         {"text": "La Bouillabaisse", "isCorrect": false},
+         {"text": "La Ratatouille", "isCorrect": false},
+         {"text": "La Choucroute", "isCorrect": true},
+         {"text": "La Salade Niçoise", "isCorrect": false}
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "CULT028", // Nouvel ID
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Monuments", "Paris", "Tour Eiffel"],
+      "image_ref": "tour_eiffel.jpg",
+      "front": "Tour Eiffel : Quand et pourquoi a-t-elle été construite ?",
+      "back": "Construite par Gustave Eiffel pour l'Exposition Universelle de 1889 à Paris. Symbole de la révolution industrielle et de Paris.",
+      "difficulty": 1
+    },
+      {
+      "id": "CULT029",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Monuments", "Paris", "Notre-Dame"],
+      "image_ref": "notre_dame_paris.jpg",
+      "front": "Notre-Dame de Paris : Quel est son style architectural principal et quel événement récent l'a marquée ?",
+      "back": "Chef-d'œuvre de l'architecture Gothique. Marquée par un grave incendie en avril 2019, suivie d'une importante restauration.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT030",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Monuments", "Versailles", "Histoire"],
+      "image_ref": "chateau_versailles.jpg",
+      "front": "Château de Versailles : Qui l'a fait construire et qu'a-t-il symbolisé ?",
+      "back": "Principalement construit par Louis XIV. Symbole de la monarchie absolue française et de la puissance du Roi-Soleil. Centre politique et culturel majeur au XVIIe siècle.",
+      "difficulty": 1
+    },
+    {
+      "id": "CULT031",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Monuments", "Paris", "Louvre"],
+      "image_ref": "louvre_pyramide.jpg",
+      "front": "Musée du Louvre : Quelle était sa fonction avant d'être un musée ?",
+      "back": "C'était un palais royal, résidence des rois de France à Paris.",
+      "notes": "La pyramide de verre (architecte I.M. Pei) a été ajoutée en 1989.",
+      "difficulty": 2
+    },
+     {
+      "id": "CULT032",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Monuments", "Paris", "Arc de Triomphe"],
+      "image_ref": "arc_de_triomphe.jpg",
+      "front": "Arc de Triomphe : Qui a ordonné sa construction et que commémore-t-il ?",
+      "back": "Ordonné par Napoléon Ier après la bataille d'Austerlitz. Commémore les victoires des armées françaises. Il abrite la tombe du Soldat inconnu.",
+      "difficulty": 2
+    },
+    {
+      "id": "CULT033",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Monuments", "Mont Saint-Michel", "UNESCO"],
+      "image_ref": "mont_saint_michel.jpg",
+      "front": "Mont Saint-Michel : Quelle est sa particularité géographique et historique ?",
+      "back": "Abbaye médiévale construite sur un îlot rocheux sujet aux plus grandes marées d'Europe. Lieu de pèlerinage majeur et symbole de résistance (jamais pris par les Anglais). Site UNESCO.",
+      "difficulty": 2
+    },
+     {
+      "id": "CULT034",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Régional", "Alsace", "Normandie"],
+      "image_ref": "maison_colombages.jpg",
+      "front": "Comment appelle-t-on les maisons traditionnelles avec une structure en bois apparente, typiques de l'Alsace ou de la Normandie ?",
+      "back": "Les maisons à colombages (ou à pans de bois).",
+      "difficulty": 2
+    },
+    {
+      "id": "CULT035",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Régional", "Provence"],
+      "image_ref": "mas_provencal.jpg",
+      "front": "Quel type d'habitation rurale traditionnelle, en pierre, avec un toit en tuiles canal, est typique de la Provence ?",
+      "back": "Le Mas provençal.",
+      "difficulty": 3
+    },
+     {
+      "id": "CULT036",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Figure",
+      "tags": ["Architecture", "Militaire", "XVIIe siècle", "Fortifications"],
+      "name": "Vauban (Sébastien Le Prestre de)",
+      "period": "1633 - 1707",
+      "role": "Ingénieur militaire, Maréchal de France sous Louis XIV.",
+      "key_facts": [
+        "Expert majeur dans l'art de la fortification (poliorcétique).",
+        "A conçu ou amélioré plus d'une centaine de places fortes pour protéger les frontières du royaume ('pré carré').",
+        "Plusieurs de ses fortifications sont classées au patrimoine mondial de l'UNESCO."
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "CULT037",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Quiz",
+      "tags": ["Architecture", "Styles", "Caractéristiques"],
+      "question": "Associez le style architectural à sa caractéristique principale :",
+      "answer": "Roman=Voûte en berceau; Gothique=Arc-boutant/Vitraux; Renaissance=Influence italienne/Symétrie; Classique=Ordre/Grandeur.",
+      "notes": "Peut être décliné en plusieurs QCM ou questions d'association.",
+      "difficulty": 2
+    },
+    {
+      "id": "CULT038",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Moderne", "Le Corbusier"],
+      "image_ref": "villa_savoye.jpg",
+      "front": "Qui est Le Corbusier ?",
+      "back": "Architecte, urbaniste et théoricien majeur du Mouvement moderne au XXe siècle (d'origine suisse, naturalisé français). Connu pour ses 'unités d'habitation' (ex: Cité Radieuse à Marseille) et ses villas (ex: Villa Savoye).",
+      "difficulty": 3
+    },
+      {
+      "id": "CULT039",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "Flashcard",
+      "tags": ["Architecture", "Contemporain", "Paris", "Musée"],
+      "image_ref": "centre_pompidou.jpg",
+      "front": "Quel bâtiment parisien des années 1970 est célèbre pour son architecture 'intérieure à l'extérieur' (tuyaux, escalators visibles) ?",
+      "back": "Le Centre Pompidou (Centre national d'art et de culture Georges-Pompidou). Architectes : Renzo Piano et Richard Rogers.",
+      "difficulty": 2
+    },
+    // --- Styles Architecturaux détail ---
+    {
+      "id": "ARCHI001",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "Antiquité", "Gallo-Romain"],
+      "style_name": "Gallo-Romain",
+      "period": "Antiquité (-Ier s. av. JC - Ve s. ap. JC)",
+      "description": "Architecture romaine adaptée en Gaule. Caractérisée par l'utilisation de techniques et de formes romaines (arc en plein cintre, voûte, béton, brique) pour des édifices publics et privés.",
+      "key_characteristics": [
+        "Utilisation de l'arc en plein cintre",
+        "Voûtes (berceau, arêtes)",
+        "Construction en pierre, brique, mortier (opus caementicium)",
+        "Ordres architecturaux grecs adaptés (dorique, ionique, corinthien)",
+        "Édifices monumentaux pour la vie publique : arènes, théâtres, thermes, aqueducs, temples, arcs de triomphe."
+      ],
+      "examples": ["Arènes de Nîmes", "Arènes d'Arles", "Théâtre antique d'Orange", "Pont du Gard (aqueduc)", "Maison Carrée (Nîmes)"],
+      "image_ref": "pont_du_gard.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "ARCHI002",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "Moyen Âge", "Roman"],
+      "style_name": "Roman",
+      "period": "XIe - XIIe siècles",
+      "description": "Premier grand style architectural médiéval unifié en Europe. Principalement religieux (églises, abbayes), caractérisé par sa robustesse et sa sobriété.",
+      "key_characteristics": [
+        "Murs épais en pierre",
+        "Petites ouvertures (fenêtres étroites)",
+        "Arcs en plein cintre",
+        "Voûtes en berceau ou d'arêtes",
+        "Aspect massif et solide",
+        "Sculptures sur chapiteaux et tympans (souvent didactiques)"
+      ],
+      "examples": ["Abbaye de Cluny (vestiges)", "Basilique Saint-Sernin (Toulouse)", "Église Sainte-Foy de Conques", "Abbaye de Fontenay"],
+      "image_ref": "saint_sernin_toulouse.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "ARCHI003",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "Moyen Âge", "Gothique", "Cathédrales"],
+      "style_name": "Gothique",
+      "period": "XIIe - XVe siècles",
+      "description": "Style architectural né en Île-de-France, caractérisé par la recherche de hauteur et de lumière dans les édifices religieux, notamment les cathédrales.",
+      "key_characteristics": [
+        "Voûte sur croisée d'ogives (reporte le poids sur des piliers)",
+        "Arc brisé",
+        "Arcs-boutants (contreforts extérieurs)",
+        "Murs plus fins permettant de grandes ouvertures",
+        "Grands vitraux colorés, rosaces",
+        "Élévation importante, verticalité"
+      ],
+      "examples": ["Notre-Dame de Paris", "Cathédrale de Chartres", "Cathédrale de Reims", "Cathédrale d'Amiens", "Sainte-Chapelle (Paris)"],
+      "image_ref": "cathedrale_chartres_vitrail.jpg",
+      "difficulty": 1
+    },
+    {
+      "id": "ARCHI004",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "Renaissance", "Châteaux"],
+      "style_name": "Renaissance",
+      "period": "XVIe siècle",
+      "description": "Style inspiré par la redécouverte de l'Antiquité gréco-romaine, venu d'Italie. S'exprime particulièrement dans les châteaux (notamment de la Loire).",
+      "key_characteristics": [
+        "Symétrie et harmonie des proportions",
+        "Utilisation des ordres antiques (colonnes, frontons)",
+        "Fenêtres larges et régulières",
+        "Toits d'ardoise pentus (spécificité française)",
+        "Décors sculptés (médaillons, pilastres)",
+        "Loggias, galeries, escaliers monumentaux"
+      ],
+      "examples": ["Château de Chambord", "Château de Chenonceau", "Château d'Azay-le-Rideau", "Partie Renaissance du Louvre"],
+      "image_ref": "chateau_chambord.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "ARCHI005",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "Classicisme", "XVIIe siècle", "Louis XIV", "Versailles"],
+      "style_name": "Classique",
+      "period": "XVIIe siècle (surtout sous Louis XIV)",
+      "description": "Style qui recherche l'ordre, la mesure, la symétrie et la grandeur, inspiré de l'Antiquité mais adapté au goût français. Associé à l'affirmation de la monarchie absolue.",
+      "key_characteristics": [
+        "Rigueur géométrique, lignes droites",
+        "Symétrie parfaite des façades",
+        "Sobriété du décor extérieur (ordres antiques souvent superposés)",
+        "Grandeur, monumentalité",
+        "Recherche de l'équilibre et de l'harmonie",
+        "Importance des jardins à la française (Le Nôtre)"
+      ],
+      "examples": ["Château de Versailles (façade sur jardin)", "Palais du Luxembourg (partiellement)", "Place Vendôme (Paris)", "Les Invalides (Paris)"],
+      "image_ref": "versailles_facade_jardin.jpg",
+      "difficulty": 2
+    },
+    {
+      "id": "ARCHI006",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "Baroque", "XVIIe siècle", "XVIIIe siècle"],
+      "style_name": "Baroque",
+      "period": "XVIIe - début XVIIIe siècles",
+      "description": "Variante du Classique, plus exubérante et décorative. Recherche le mouvement, les effets de surprise et l'émotion. Moins dominant en France qu'en Italie ou en Espagne.",
+      "key_characteristics": [
+        "Lignes courbes, contre-courbes",
+        "Décors riches et foisonnants (stucs, dorures, peintures en trompe-l'œil)",
+        "Jeux d'ombre et de lumière",
+        "Théâtralité, recherche de l'effet spectaculaire"
+      ],
+      "examples": ["Certains intérieurs de Versailles (Galerie des Glaces)", "Église du Val-de-Grâce (Paris)", "Certaines églises en Savoie"],
+      "image_ref": "val_de_grace_paris.jpg",
+      "difficulty": 3
+    },
+    {
+      "id": "ARCHI007",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "XIXe siècle", "Paris", "Haussmann", "Urbanisme"],
+      "style_name": "Haussmannien",
+      "period": "Second Empire (milieu XIXe siècle)",
+      "description": "Style architectural et urbanistique lié à la transformation de Paris dirigée par le Baron Haussmann sous Napoléon III.",
+      "key_characteristics": [
+        "Immeubles en pierre de taille, hauteur uniforme (6 étages max)",
+        "Façades alignées et rythmées (balcons filants aux 2e et 5e étages)",
+        "Toits mansardés en zinc avec lucarnes",
+        "Percement de larges avenues rectilignes",
+        "Création de places (ex: Place de l'Étoile), parcs et squares",
+        "Réseaux modernes (égouts, adduction d'eau)"
+      ],
+      "examples": ["Grands boulevards parisiens", "Opéra Garnier (élément clé du plan)", "Majorité des immeubles du centre de Paris"],
+      "image_ref": "immeuble_haussmannien.jpg",
+      "difficulty": 1
+    },
+    {
+      "id": "ARCHI008",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "Fin XIXe", "Début XXe", "Art Nouveau", "Art Déco"],
+      "style_name": "Art Nouveau / Art Déco",
+      "period": "~1890 - 1930",
+      "description": "Styles décoratifs qui ont marqué l'architecture et les arts appliqués au tournant du XXe siècle.",
+      "key_characteristics": [
+        "**Art Nouveau** (~1890-1910) : Inspiration nature (lignes courbes, motifs floraux, insectes), utilisation du fer forgé, du verre, de la céramique (ex: entrées métro Guimard, Castel Béranger).",
+        "**Art Déco** (~1910-1930) : Retour à la rigueur géométrique, formes stylisées, symétrie, matériaux luxueux (ex: Théâtre des Champs-Élysées, Palais de Chaillot, paquebot Normandie)."
+      ],
+      "examples": ["Entrées de métro Hector Guimard (Paris)", "Villa Majorelle (Nancy)", "Théâtre des Champs-Élysées (Paris)", "Palais de la Porte Dorée (Paris)"],
+      "image_ref": "metro_guimard.jpg", // Exemple Art Nouveau
+      "difficulty": 3
+    },
+    {
+      "id": "ARCHI009",
+      "category": "Culture (Architecture & Patrimoine)",
+      "type": "StyleArchitecture",
+      "tags": ["Architecture", "XXe siècle", "XXIe siècle", "Moderne", "Contemporain"],
+      "style_name": "Moderne / Contemporain",
+      "period": "XXe siècle - Aujourd'hui",
+      "description": "Grande diversité de courants après 1945. Recherche de nouvelles formes, matériaux et techniques. Influence du fonctionnalisme, du brutalisme, du post-modernisme, du déconstructivisme, de l'architecture high-tech, etc.",
+      "key_characteristics": [
+        "Utilisation béton armé, acier, verre",
+        "Formes épurées, géométriques (Modernisme)",
+        "Structures apparentes (Centre Pompidou)",
+        "Recherche d'intégration environnementale",
+        "Formes complexes, déconstruites",
+        "Innovation technique (ex: Viaduc de Millau)"
+      ],
+      "examples": ["Le Corbusier (Cité Radieuse, Villa Savoye)", "Centre Pompidou", "Pyramide du Louvre", "Institut du Monde Arabe", "Philharmonie de Paris", "Musée des Confluences (Lyon)", "Viaduc de Millau"],
+      "image_ref": "centre_pompidou.jpg",
+      "difficulty": 2
+    }
+  ]

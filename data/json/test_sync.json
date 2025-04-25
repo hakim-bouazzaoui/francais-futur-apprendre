@@ -1,0 +1,41 @@
+[
+  {
+    "id": "TEST001",
+    "category": "Test Sync",
+    "type": "Quiz",
+    "tags": ["test", "sync"],
+    "question": "Is content synchronization working?",
+    "answer": "Yes, content sync is working!",
+    "options": [
+      {"text": "No, it's not working", "isCorrect": false},
+      {"text": "Yes, content sync is working!", "isCorrect": true},
+      {"text": "Cannot determine", "isCorrect": false},
+      {"text": "Need more testing", "isCorrect": false}
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "TEST002",
+    "category": "Test Sync",
+    "type": "Flashcard",
+    "tags": ["test", "sync"],
+    "front": "What happens when new content is added?",
+    "back": "The app automatically detects and loads the new content, updates categories, and refreshes the UI.",
+    "difficulty": 1
+  },
+  {
+    "id": "TEST003",
+    "category": "Test Sync",
+    "type": "Lesson",
+    "tags": ["test", "sync"],
+    "title": "Understanding Content Sync",
+    "key_points": [
+      "Content is automatically detected",
+      "Categories are dynamically updated",
+      "Content is validated on load",
+      "Changes are reflected in real-time",
+      "Cache is managed automatically"
+    ],
+    "difficulty": 1
+  }
+]
