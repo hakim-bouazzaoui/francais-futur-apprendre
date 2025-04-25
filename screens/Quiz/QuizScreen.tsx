@@ -1,16 +1,19 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { View, ScrollView, StyleSheet, SafeAreaView, Animated } from 'react-native';
 import { Button, Card, Title, Paragraph, RadioButton, Text } from 'react-native-paper';
 import { useRoute, useNavigation } from '@react-navigation/native';
-import type { NativeStackScreenProps } from '@react-navigation/native-stack';
+import type { NativeStackScreenProps, NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { RouteProp } from '@react-navigation/native';
 import { theme } from '../../constants/theme';
 import type { RootStackParamList, QuizResult } from '../../navigation/types';
+import { addQuizQuestionsToSRS } from '../../services/srs';
 
-type QuizScreenProps = NativeStackScreenProps<RootStackParamList, 'Quiz'>;
+type QuizScreenNavigationProp = NativeStackNavigationProp<RootStackParamList>;
+type QuizScreenRouteProp = RouteProp<RootStackParamList, 'Quiz'>;
 
-const QuizScreen = () => {
-  const route = useRoute<QuizScreenProps['route']>();
-  const navigation = useNavigation();
+const QuizScreen: React.FC = () => {
+  const route = useRoute<QuizScreenRouteProp>();
+  const navigation = useNavigation<QuizScreenNavigationProp>();
   const { questions, moduleId, lessonTitle } = route.params;
 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -28,6 +31,15 @@ const QuizScreen = () => {
     if (selectedAnswer === null || isTransitioning) return;
 
     const isCorrect = selectedAnswer === currentQuestion.correctAnswer;
+    
+    // Debug log for answer
+    console.log('=== Answer Check ===');
+    console.log('Question:', currentQuestionIndex + 1);
+    console.log('Selected:', selectedAnswer);
+    console.log('Correct:', currentQuestion.correctAnswer);
+    console.log('Is Correct:', isCorrect);
+    console.log('=================');
+
     setAnswers([...answers, isCorrect]);
     setShowExplanation(true);
   };
@@ -41,13 +53,33 @@ const QuizScreen = () => {
       toValue: 0,
       duration: 200,
       useNativeDriver: true,
-    }).start(() => {
+    }).start(async () => {
       if (isLastQuestion) {
         const endTime = Date.now();
-        const timeSpent = (endTime - startTime) / 1000; // Convert to seconds
-        const correctAnswers = answers.filter(answer => answer).length + 
-          (selectedAnswer === currentQuestion.correctAnswer ? 1 : 0);
-        const score = Math.round((correctAnswers / questions.length) * 100);
+        const timeSpent = (endTime - startTime) / 1000;
+        
+        // Debug logs for score calculation
+        console.log('=== Quiz Score Calculation ===');
+        console.log('Total Questions:', questions.length);
+        console.log('Answers Array:', answers);
+        console.log('Answers Length:', answers.length);
+
+        // Just count the answers we have - they're already stored correctly
+        const correctAnswers = answers.filter((answer: boolean) => answer).length;
+        console.log('Correct Answers:', correctAnswers);
+        
+        const score = Math.max(0, Math.min(100, 
+          Math.round((correctAnswers / questions.length) * 100)
+        ));
+        console.log('Final Score:', score);
+        console.log('========================');
+
+        // Add questions to SRS system
+        try {
+          await addQuizQuestionsToSRS(moduleId, lessonTitle, questions);
+        } catch (error) {
+          console.error('Error adding questions to SRS:', error);
+        }
 
         const result: QuizResult = {
           moduleId,
@@ -56,14 +88,14 @@ const QuizScreen = () => {
           score,
           totalQuestions: questions.length,
           timeSpent,
-          answers: questions.map((_, index) => ({
+          questions, // Include the questions array
+          answers: questions.map((_: any, index: number) => ({
             questionId: questions[index].id,
-            correct: index < answers.length ? answers[index] : 
-              (index === answers.length && selectedAnswer === questions[index].correctAnswer),
+            correct: answers[index] || false,
           })),
         };
 
-        navigation.replace('QuizResults', { result });
+        navigation.navigate('QuizResults', { result });
         return;
       }
 
@@ -111,7 +143,7 @@ const QuizScreen = () => {
                 onValueChange={value => !isTransitioning && setSelectedAnswer(Number(value))}
                 value={selectedAnswer?.toString() ?? ''}
               >
-                {currentQuestion.options.map((option, index) => (
+                {currentQuestion.options.map((option: string, index: number) => (
                   <RadioButton.Item
                     key={index}
                     label={option}

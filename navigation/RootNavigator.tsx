@@ -4,6 +4,7 @@ import AppNavigator from './AppNavigator';
 import LessonDetailScreen from '../screens/Lessons/LessonDetailScreen';
 import QuizScreen from '../screens/Quiz/QuizScreen';
 import QuizResultsScreen from '../screens/Quiz/QuizResultsScreen';
+import SRSReviewScreen from '../screens/Revision/SRSReviewScreen';
 import type { RootStackParamList } from './types';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -41,6 +42,16 @@ const RootNavigator = () => {
           title: 'Résultats',
           headerTintColor: '#0055A4',
           // Prevent going back to quiz
+          headerBackVisible: false,
+        })}
+      />
+      <Stack.Screen
+        name="SRSReview"
+        component={SRSReviewScreen}
+        options={({ route }) => ({
+          title: 'Révision',
+          headerTintColor: '#0055A4',
+          // Prevent going back during review
           headerBackVisible: false,
         })}
       />

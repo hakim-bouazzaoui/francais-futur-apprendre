@@ -13,6 +13,9 @@ export type RootStackParamList = {
   QuizResults: {
     result: QuizResult;
   };
+  SRSReview: {
+    items: SRSItem[];
+  };
 };
 
 export type MainTabParamList = {
@@ -37,6 +40,7 @@ export interface QuizResult {
   score: number;
   totalQuestions: number;
   timeSpent: number;
+  questions: QuizQuestion[]; // Added this field
   answers: {
     questionId: string;
     correct: boolean;
@@ -48,4 +52,16 @@ export interface QuizStats {
   averageScore: number;
   totalTimeSpent: number;
   streakDays: number;
+}
+
+export interface SRSItem {
+  id: string;
+  moduleId: string;
+  lessonTitle: string;
+  question: string;
+  nextReview: number;
+  interval: number;
+  easeFactor: number;
+  consecutive: number;
+  lastReviewed?: number;
 }

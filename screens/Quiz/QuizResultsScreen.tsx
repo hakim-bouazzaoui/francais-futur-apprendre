@@ -2,16 +2,17 @@ import React, { useEffect } from 'react';
 import { View, ScrollView, StyleSheet, SafeAreaView, Animated } from 'react-native';
 import { Card, Title, Paragraph, Button, Text } from 'react-native-paper';
 import { useRoute, useNavigation } from '@react-navigation/native';
-import type { NativeStackScreenProps } from '@react-navigation/native-stack';
+import type { NativeStackScreenProps, NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { theme } from '../../constants/theme';
 import type { RootStackParamList } from '../../navigation/types';
 import { saveQuizResult } from '../../services/storage';
 
 type QuizResultsProps = NativeStackScreenProps<RootStackParamList, 'QuizResults'>;
+type QuizResultsNavigationProp = NativeStackNavigationProp<RootStackParamList>;
 
-const QuizResultsScreen = () => {
+const QuizResultsScreen: React.FC = () => {
   const route = useRoute<QuizResultsProps['route']>();
-  const navigation = useNavigation();
+  const navigation = useNavigation<QuizResultsNavigationProp>();
   const { result } = route.params;
 
   // Animations
@@ -19,6 +20,13 @@ const QuizResultsScreen = () => {
   const fadeAnim = new Animated.Value(0);
 
   useEffect(() => {
+    console.log('=== Quiz Results Screen ===');
+    console.log('Result:', {
+      score: result.score,
+      totalQuestions: result.totalQuestions,
+      correctAnswers: result.answers.filter(a => a.correct).length
+    });
+    
     // Save result to storage
     saveQuizResult(result).catch(console.error);
 
@@ -43,8 +51,19 @@ const QuizResultsScreen = () => {
   });
 
   const handleRetryQuiz = () => {
-    // Navigate back to the quiz
-    navigation.goBack();
+    console.log('=== Retrying Quiz ===');
+    console.log('Navigating to Quiz with:', {
+      moduleId: result.moduleId,
+      lessonTitle: result.lessonTitle,
+      questionCount: result.questions.length
+    });
+    
+    // Navigate back to quiz with same questions but reset state
+    navigation.navigate('Quiz', {
+      moduleId: result.moduleId,
+      lessonTitle: result.lessonTitle,
+      questions: result.questions,
+    });
   };
 
   const handleFinish = () => {
