@@ -1,6 +1,51 @@
 import { ContentItem } from '../models/ContentTypes';
-import { EventEmitter } from 'events';
+import EventEmitter from './eventEmitter';
 import config from '../data/config.json';
+import { contentValidator } from './contentValidator';
+
+// Import all JSON files statically
+import * as assosJson from '../data/json/assos_syndicat.json';
+import * as cultureAuteursJson from '../data/json/culture_auteurs.json';
+import * as cultureJson from '../data/json/culture.json';
+import * as droitsJson from '../data/json/droits_devoirs.json';
+import * as educationJson from '../data/json/education.json';
+import * as generalitesJson from '../data/json/generalites.json';
+import * as geographyJson from '../data/json/geography.json';
+import * as historyJson from '../data/json/history.json';
+import * as institutionsJson from '../data/json/institutions.json';
+import * as justiceJson from '../data/json/justice.json';
+import * as laiciteJson from '../data/json/laicite.json';
+import * as orgaIntJson from '../data/json/orga_internationale.json';
+import * as orgaTerritoireJson from '../data/json/orga_territoire.json';
+import * as principesJson from '../data/json/principes_orga_pouvoirs.json';
+import * as protectionJson from '../data/json/protection_sociale.json';
+import * as santeJson from '../data/json/sante.json';
+import * as securiteJson from '../data/json/securite_defense.json';
+import * as valeursJson from '../data/json/valeurs_republique.json';
+import * as testSyncJson from '../data/json/test_sync.json';
+
+// Map file names to their content
+const contentFiles: { [key: string]: any } = {
+  'assos_syndicat.json': assosJson,
+  'culture_auteurs.json': cultureAuteursJson,
+  'culture.json': cultureJson,
+  'droits_devoirs.json': droitsJson,
+  'education.json': educationJson,
+  'generalites.json': generalitesJson,
+  'geography.json': geographyJson,
+  'history.json': historyJson,
+  'institutions.json': institutionsJson,
+  'justice.json': justiceJson,
+  'laicite.json': laiciteJson,
+  'orga_internationale.json': orgaIntJson,
+  'orga_territoire.json': orgaTerritoireJson,
+  'principes_orga_pouvoirs.json': principesJson,
+  'protection_sociale.json': protectionJson,
+  'sante.json': santeJson,
+  'securite_defense.json': securiteJson,
+  'valeurs_republique.json': valeursJson,
+  'test_sync.json': testSyncJson
+};
 
 // Event types for content changes
 export const CONTENT_EVENTS = {
@@ -8,6 +53,8 @@ export const CONTENT_EVENTS = {
   CONTENT_ERROR: 'contentError',
   NEW_CATEGORY_FOUND: 'newCategoryFound',
   NEW_TYPE_FOUND: 'newTypeFound',
+  FILE_LOADED: 'fileLoaded',
+  FILE_ERROR: 'fileError'
 };
 
 class DataSyncService {
@@ -17,6 +64,7 @@ class DataSyncService {
   private contentMap: Map<string, ContentItem[]>;
   private categories: Set<string>;
   private contentTypes: Set<string>;
+  private loadedFiles: Set<string>;
   
   private constructor() {
     this.eventEmitter = new EventEmitter();
@@ -24,6 +72,7 @@ class DataSyncService {
     this.contentMap = new Map();
     this.categories = new Set();
     this.contentTypes = new Set();
+    this.loadedFiles = new Set();
   }
 
   public static getInstance(): DataSyncService {
@@ -52,6 +101,9 @@ class DataSyncService {
    */
   public async checkForUpdates(): Promise<void> {
     try {
+      // Clear loaded files set before checking
+      this.loadedFiles.clear();
+      
       // Get list of content files from config
       const contentFiles = config.contentSources;
       
@@ -62,6 +114,7 @@ class DataSyncService {
       this.lastUpdateTime = Date.now();
       this.eventEmitter.emit(CONTENT_EVENTS.CONTENT_UPDATED, {
         timestamp: this.lastUpdateTime,
+        loadedFiles: Array.from(this.loadedFiles),
         categories: Array.from(this.categories),
         types: Array.from(this.contentTypes),
       });
@@ -76,8 +129,14 @@ class DataSyncService {
    */
   private async processContentFile(filename: string): Promise<void> {
     try {
-      // Dynamic import of JSON file
-      const content = require(`../data/json/${filename}`);
+      // Get content from imported files
+      const content = contentFiles[filename]?.default || [];
+
+      // Validate content structure
+      const validationResult = contentValidator.validateContent(content);
+      if (!validationResult.isValid) {
+        throw new Error(`Invalid content in ${filename}: ${validationResult.errors.map(e => e.message).join(', ')}`);
+      }
       
       // Extract and track categories and types
       content.forEach((item: ContentItem) => {
@@ -94,12 +153,19 @@ class DataSyncService {
 
       // Update content map
       this.contentMap.set(filename, content);
+      this.loadedFiles.add(filename);
+
+      // Emit file loaded event
+      this.eventEmitter.emit(CONTENT_EVENTS.FILE_LOADED, {
+        file: filename,
+        itemCount: content.length
+      });
 
     } catch (error) {
       console.error(`Error processing file ${filename}:`, error);
-      this.eventEmitter.emit(CONTENT_EVENTS.CONTENT_ERROR, {
+      this.eventEmitter.emit(CONTENT_EVENTS.FILE_ERROR, {
         file: filename,
-        error,
+        error: error instanceof Error ? error.message : 'Unknown error'
       });
     }
   }
@@ -142,6 +208,13 @@ class DataSyncService {
   }
 
   /**
+   * Get loaded files
+   */
+  public getLoadedFiles(): string[] {
+    return Array.from(this.loadedFiles);
+  }
+
+  /**
    * Get last update timestamp
    */
   public getLastUpdateTime(): number {
@@ -155,6 +228,7 @@ class DataSyncService {
     this.contentMap.clear();
     this.categories.clear();
     this.contentTypes.clear();
+    this.loadedFiles.clear();
     await this.checkForUpdates();
   }
 }
