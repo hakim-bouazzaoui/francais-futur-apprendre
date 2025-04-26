@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the planned improvements for the App Naturalisation project, focusing on enhancing code quality, testing, performance, and developer experience.
+This document outlines the planned improvements for the App Citoyenneté project, focusing on enhancing code quality, testing, performance, and developer experience.
 
 ```mermaid
 graph TD
