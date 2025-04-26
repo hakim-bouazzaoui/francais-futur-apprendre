@@ -2,6 +2,7 @@ import { contentRegistry } from '../contentRegistry';
 import { dataSync, CONTENT_EVENTS } from '../dataSync';
 import { ContentItem } from '../../models/ContentTypes';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import config from '../../data/config.json';
 
 /**
  * Helper class to simulate and verify content changes
@@ -144,10 +145,59 @@ export class ContentTestHelper {
   }
 
   /**
+   * Verify all configured JSON files are loaded
+   */
+  static async verifyAllFilesLoaded() {
+    const content = contentRegistry.getContent();
+    const configuredFiles = new Set(config.contentSources);
+    const loadedFiles = new Map<string, number>();
+
+    // Initialize counts for all configured files
+    configuredFiles.forEach(file => {
+      loadedFiles.set(file, 0);
+    });
+
+    // Count items from each file based on their IDs
+    content.forEach(item => {
+      const filePrefix = item.id.split('_')[0].split(/\d+/)[0].toLowerCase();
+      for (const file of configuredFiles) {
+        const shortName = file.split('.')[0].toLowerCase();
+        if (filePrefix === shortName || filePrefix.includes(shortName)) {
+          loadedFiles.set(file, (loadedFiles.get(file) || 0) + 1);
+          break;
+        }
+      }
+    });
+
+    const results = {
+      totalConfigured: configuredFiles.size,
+      totalWithContent: Array.from(loadedFiles.values()).filter(count => count > 0).length,
+      fileDetails: Array.from(loadedFiles.entries()).map(([file, count]) => ({
+        file,
+        itemCount: count,
+        loaded: count > 0
+      })),
+      allFilesLoaded: Array.from(loadedFiles.values()).every(count => count > 0)
+    };
+
+    console.log('\n=== JSON Files Loading Status ===');
+    console.log(`Total configured files: ${results.totalConfigured}`);
+    console.log(`Files with content: ${results.totalWithContent}`);
+    console.log('\nFile Details:');
+    results.fileDetails.forEach(detail => {
+      console.log(`- ${detail.file}: ${detail.loaded ? '✅' : '❌'} (${detail.itemCount} items)`);
+    });
+    console.log('===========================\n');
+
+    return results;
+  }
+
+  /**
    * Print content analysis
    */
   static async printContentAnalysis() {
     const integrity = await this.verifyContentIntegrity();
+    const filesStatus = await this.verifyAllFilesLoaded();
     
     console.log('\n=== Content Analysis ===');
     console.log(`Total Items: ${integrity.contentCount}`);
@@ -158,9 +208,16 @@ export class ContentTestHelper {
     integrity.categories.forEach(cat => console.log(`- ${cat}`));
     console.log('\nTypes:');
     integrity.types.forEach(type => console.log(`- ${type}`));
+    console.log('\nFiles Status:');
+    console.log(`Total Files: ${filesStatus.totalConfigured}`);
+    console.log(`Loaded Files: ${filesStatus.totalWithContent}`);
+    console.log(`All Files Loaded: ${filesStatus.allFilesLoaded ? 'YES' : 'NO'}`);
     console.log('=====================\n');
 
-    return integrity;
+    return {
+      integrity,
+      filesStatus
+    };
   }
 
   /**

@@ -5,6 +5,7 @@
   "contentSources": [
     "assos_syndicat.json",
     "culture_auteurs.json",
+    "culture.json",
     "droits_devoirs.json",
     "education.json",
     "generalites.json",
@@ -23,6 +24,6 @@
     "test_sync.json"
   ],
   "version": "1.0",
-  "lastUpdated": "2025-04-25",
+  "lastUpdated": "2025-04-26",
   "readOnly": true
 }
