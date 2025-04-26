@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "App Naturalisation",
-    "slug": "app-naturalisation",
+    "name": "App Citoyenneté",
+    "slug": "app-citoyennete",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +17,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.francaisfutur.apprendre",
+      "bundleIdentifier": "com.francaisfutur.citoyennete",
       "infoPlist": {
         "UIRequiredDeviceCapabilities": [
           "arm64"
@@ -29,7 +29,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.francaisfutur.apprendre"
+      "package": "com.francaisfutur.citoyennete"
     },
     "web": {
       "favicon": "./assets/favicon.png"

@@ -1,4 +1,4 @@
-# App Naturalisation
+# App Citoyenneté
 
 A React Native application built with Expo to help users learn and prepare for French naturalization. The app provides lessons, quizzes, flashcards, and spaced repetition learning features to master the content required for French citizenship.
 
@@ -42,7 +42,7 @@ graph TD
 ## Project Structure
 
 ```
-app_naturalisation/
+app-citoyennete/
 ├── assets/              # Images and static assets
 ├── components/          # Reusable UI components
 ├── constants/          # Theme and configuration
@@ -68,7 +68,7 @@ app_naturalisation/
 1. Clone the repository
 ```bash
 git clone [repository-url]
-cd app_naturalisation
+cd app-citoyennete
 ```
 
 2. Install dependencies
@@ -128,6 +128,18 @@ Currently implementing comprehensive testing strategy including:
 2. Commit your changes (`git commit -m 'Add amazing feature'`)
 3. Push to the branch (`git push origin feature/amazing-feature`)
 4. Open a Pull Request
+
+## Building and Publishing
+
+### iOS
+1. Update app.json configuration
+2. Build using `expo build:ios`
+3. Submit to App Store using App Store Connect
+
+### Android
+1. Update app.json configuration
+2. Build using `expo build:android`
+3. Submit to Google Play Console
 
 ## License
 
